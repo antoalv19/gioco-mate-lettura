@@ -6,7 +6,7 @@ export const byDifficulty = <T extends { difficulty: Difficulty }>(items: T[], d
 export const normalizeAnswer = (value: string) => value.trim().replace(/\s+/g, '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toUpperCase();
 
 const ranges: Record<Difficulty, number> = { facile: 10, medio: 20, difficile: 30 };
-const choiceCounts: Record<Difficulty, number> = { facile: 3, medio: 4, difficile: 4 };
+const choiceCounts: Record<Difficulty, number> = { facile: 4, medio: 4, difficile: 4 };
 
 export function generateWrongAnswers(correct: number, count: number, max: number) {
   const values = new Set<number>();
@@ -18,6 +18,19 @@ export function generateWrongAnswers(correct: number, count: number, max: number
   }
   for (let candidate = 0; values.size < count; candidate++) if (candidate !== correct) values.add(candidate);
   return [...values];
+}
+
+export function ensureFourAnswers(question: MathQuestion): MathQuestion {
+  const max = ranges[question.difficulty];
+  const wrongAnswers = new Set(question.answers.filter(value => value !== question.correctAnswer));
+  for (const value of generateWrongAnswers(question.correctAnswer, 8, max)) {
+    wrongAnswers.add(value);
+    if (wrongAnswers.size === 3) break;
+  }
+  return {
+    ...question,
+    answers: shuffle([question.correctAnswer, ...[...wrongAnswers].slice(0, 3)]),
+  };
 }
 
 export function generateMathQuestion(operation: 'addition' | 'subtraction', difficulty: Difficulty): MathQuestion {
