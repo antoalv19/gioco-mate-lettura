@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "write-001",
+    "word": "CANE",
+    "emoji": "🐶",
+    "category": "animali",
+    "difficulty": "facile",
+    "syllables": [
+      "CA",
+      "NE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "C_NE",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-002",
+    "word": "GATTO",
+    "emoji": "🐱",
+    "category": "animali",
+    "difficulty": "facile",
+    "syllables": [
+      "GAT",
+      "TO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "G_TTO",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-003",
+    "word": "PESCE",
+    "emoji": "🐟",
+    "category": "mare",
+    "difficulty": "facile",
+    "syllables": [
+      "PE",
+      "SCE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "P_SCE",
+      "missingLetters": [
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-004",
+    "word": "FOCA",
+    "emoji": "🦭",
+    "category": "mare",
+    "difficulty": "facile",
+    "syllables": [
+      "FO",
+      "CA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "F_CA",
+      "missingLetters": [
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-005",
+    "word": "RANA",
+    "emoji": "🐸",
+    "category": "animali",
+    "difficulty": "facile",
+    "syllables": [
+      "RA",
+      "NA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "R_NA",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-006",
+    "word": "APE",
+    "emoji": "🐝",
+    "category": "animali",
+    "difficulty": "facile",
+    "syllables": [
+      "A",
+      "PE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "AP_",
+      "missingLetters": [
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-007",
+    "word": "TOPO",
+    "emoji": "🐭",
+    "category": "animali",
+    "difficulty": "facile",
+    "syllables": [
+      "TO",
+      "PO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "T_PO",
+      "missingLetters": [
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-008",
+    "word": "ORSO",
+    "emoji": "🐻",
+    "category": "animali",
+    "difficulty": "facile",
+    "syllables": [
+      "OR",
+      "SO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "ORS_",
+      "missingLetters": [
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-009",
+    "word": "LEONE",
+    "emoji": "🦁",
+    "category": "animali",
+    "difficulty": "facile",
+    "syllables": [
+      "LE",
+      "O",
+      "NE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "L_ONE",
+      "missingLetters": [
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-010",
+    "word": "MUCCA",
+    "emoji": "🐮",
+    "category": "animali",
+    "difficulty": "facile",
+    "syllables": [
+      "MUC",
+      "CA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "M_CCA",
+      "missingLetters": [
+        "U"
+      ]
+    }
+  },
+  {
+    "id": "write-011",
+    "word": "SOLE",
+    "emoji": "☀️",
+    "category": "spazio",
+    "difficulty": "facile",
+    "syllables": [
+      "SO",
+      "LE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "S_LE",
+      "missingLetters": [
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-012",
+    "word": "LUNA",
+    "emoji": "🌙",
+    "category": "spazio",
+    "difficulty": "facile",
+    "syllables": [
+      "LU",
+      "NA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "L_NA",
+      "missingLetters": [
+        "U"
+      ]
+    }
+  },
+  {
+    "id": "write-013",
+    "word": "STELLA",
+    "emoji": "⭐",
+    "category": "spazio",
+    "difficulty": "facile",
+    "syllables": [
+      "STEL",
+      "LA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "ST_LLA",
+      "missingLetters": [
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-014",
+    "word": "ROCCIA",
+    "emoji": "🪨",
+    "category": "natura",
+    "difficulty": "facile",
+    "syllables": [
+      "ROC",
+      "CIA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "R_CCIA",
+      "missingLetters": [
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-015",
+    "word": "FIORE",
+    "emoji": "🌸",
+    "category": "natura",
+    "difficulty": "facile",
+    "syllables": [
+      "FIO",
+      "RE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "F_ORE",
+      "missingLetters": [
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "write-016",
+    "word": "ALBERO",
+    "emoji": "🌳",
+    "category": "natura",
+    "difficulty": "facile",
+    "syllables": [
+      "AL",
+      "BE",
+      "RO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "ALB_RO",
+      "missingLetters": [
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-017",
+    "word": "FOGLIA",
+    "emoji": "🍃",
+    "category": "natura",
+    "difficulty": "facile",
+    "syllables": [
+      "FO",
+      "GLIA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "F_GLIA",
+      "missingLetters": [
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-018",
+    "word": "NUBE",
+    "emoji": "☁️",
+    "category": "natura",
+    "difficulty": "facile",
+    "syllables": [
+      "NU",
+      "BE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "N_BE",
+      "missingLetters": [
+        "U"
+      ]
+    }
+  },
+  {
+    "id": "write-019",
+    "word": "MARE",
+    "emoji": "🌊",
+    "category": "mare",
+    "difficulty": "facile",
+    "syllables": [
+      "MA",
+      "RE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "M_RE",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-020",
+    "word": "NAVE",
+    "emoji": "🚢",
+    "category": "veicoli",
+    "difficulty": "facile",
+    "syllables": [
+      "NA",
+      "VE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "N_VE",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-021",
+    "word": "BARCA",
+    "emoji": "⛵",
+    "category": "veicoli",
+    "difficulty": "facile",
+    "syllables": [
+      "BAR",
+      "CA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "B_RCA",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-022",
+    "word": "AUTO",
+    "emoji": "🚗",
+    "category": "veicoli",
+    "difficulty": "facile",
+    "syllables": [
+      "AU",
+      "TO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "A_TO",
+      "missingLetters": [
+        "U"
+      ]
+    }
+  },
+  {
+    "id": "write-023",
+    "word": "TRENO",
+    "emoji": "🚆",
+    "category": "veicoli",
+    "difficulty": "facile",
+    "syllables": [
+      "TRE",
+      "NO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "TR_NO",
+      "missingLetters": [
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-024",
+    "word": "CASA",
+    "emoji": "🏠",
+    "category": "casa",
+    "difficulty": "facile",
+    "syllables": [
+      "CA",
+      "SA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "C_SA",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-025",
+    "word": "LETTO",
+    "emoji": "🛏️",
+    "category": "casa",
+    "difficulty": "facile",
+    "syllables": [
+      "LET",
+      "TO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "L_TTO",
+      "missingLetters": [
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-026",
+    "word": "TAZZA",
+    "emoji": "☕",
+    "category": "oggetti",
+    "difficulty": "facile",
+    "syllables": [
+      "TAZ",
+      "ZA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "T_ZZA",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-027",
+    "word": "PALLA",
+    "emoji": "⚽",
+    "category": "oggetti",
+    "difficulty": "facile",
+    "syllables": [
+      "PAL",
+      "LA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "P_LLA",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-028",
+    "word": "LIBRO",
+    "emoji": "📘",
+    "category": "oggetti",
+    "difficulty": "facile",
+    "syllables": [
+      "LI",
+      "BRO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "L_BRO",
+      "missingLetters": [
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "write-029",
+    "word": "MELA",
+    "emoji": "🍎",
+    "category": "cibo",
+    "difficulty": "facile",
+    "syllables": [
+      "ME",
+      "LA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "M_LA",
+      "missingLetters": [
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-030",
+    "word": "PANE",
+    "emoji": "🍞",
+    "category": "cibo",
+    "difficulty": "facile",
+    "syllables": [
+      "PA",
+      "NE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "P_NE",
+      "missingLetters": [
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-031",
+    "word": "PERA",
+    "emoji": "🍐",
+    "category": "cibo",
+    "difficulty": "medio",
+    "syllables": [
+      "PE",
+      "RA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "P_R_",
+      "missingLetters": [
+        "E",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-032",
+    "word": "UVA",
+    "emoji": "🍇",
+    "category": "cibo",
+    "difficulty": "medio",
+    "syllables": [
+      "U",
+      "VA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "U__",
+      "missingLetters": [
+        "V",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-033",
+    "word": "TORTA",
+    "emoji": "🍰",
+    "category": "cibo",
+    "difficulty": "medio",
+    "syllables": [
+      "TOR",
+      "TA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "T_RT_",
+      "missingLetters": [
+        "O",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-034",
+    "word": "GELATO",
+    "emoji": "🍦",
+    "category": "cibo",
+    "difficulty": "medio",
+    "syllables": [
+      "GE",
+      "LA",
+      "TO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "G_L_TO",
+      "missingLetters": [
+        "E",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-035",
+    "word": "MANO",
+    "emoji": "✋",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "MA",
+      "NO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "M_N_",
+      "missingLetters": [
+        "A",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-036",
+    "word": "DITO",
+    "emoji": "☝️",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "DI",
+      "TO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "D_T_",
+      "missingLetters": [
+        "I",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-037",
+    "word": "NASO",
+    "emoji": "👃",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "NA",
+      "SO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "N_S_",
+      "missingLetters": [
+        "A",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-038",
+    "word": "BOCCA",
+    "emoji": "👄",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "BOC",
+      "CA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "B_CC_",
+      "missingLetters": [
+        "O",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-039",
+    "word": "OCCHIO",
+    "emoji": "👁️",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "OC",
+      "CHIO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "OCCH__",
+      "missingLetters": [
+        "I",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-040",
+    "word": "PIEDE",
+    "emoji": "🦶",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "PIE",
+      "DE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "P__DE",
+      "missingLetters": [
+        "I",
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-041",
+    "word": "SASSO",
+    "emoji": "🪨",
+    "category": "natura",
+    "difficulty": "medio",
+    "syllables": [
+      "SAS",
+      "SO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "S_SS_",
+      "missingLetters": [
+        "A",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-042",
+    "word": "ERBA",
+    "emoji": "🌿",
+    "category": "natura",
+    "difficulty": "medio",
+    "syllables": [
+      "ER",
+      "BA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "E__A",
+      "missingLetters": [
+        "R",
+        "B"
+      ]
+    }
+  },
+  {
+    "id": "write-043",
+    "word": "NEVE",
+    "emoji": "❄️",
+    "category": "natura",
+    "difficulty": "medio",
+    "syllables": [
+      "NE",
+      "VE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "N_V_",
+      "missingLetters": [
+        "E",
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-044",
+    "word": "PIOGGIA",
+    "emoji": "🌧️",
+    "category": "natura",
+    "difficulty": "medio",
+    "syllables": [
+      "PIOG",
+      "GIA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "P__GGIA",
+      "missingLetters": [
+        "I",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-045",
+    "word": "VENTO",
+    "emoji": "💨",
+    "category": "natura",
+    "difficulty": "medio",
+    "syllables": [
+      "VEN",
+      "TO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "V_NT_",
+      "missingLetters": [
+        "E",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-046",
+    "word": "CONCHIGLIA",
+    "emoji": "🐚",
+    "category": "mare",
+    "difficulty": "medio",
+    "syllables": [
+      "CON",
+      "CHI",
+      "GLIA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "C_NCH_GLIA",
+      "missingLetters": [
+        "O",
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "write-047",
+    "word": "POLPO",
+    "emoji": "🐙",
+    "category": "mare",
+    "difficulty": "medio",
+    "syllables": [
+      "POL",
+      "PO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "P_LP_",
+      "missingLetters": [
+        "O",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-048",
+    "word": "GRANCHIO",
+    "emoji": "🦀",
+    "category": "mare",
+    "difficulty": "medio",
+    "syllables": [
+      "GRAN",
+      "CHIO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "GR_NCH_O",
+      "missingLetters": [
+        "A",
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "write-049",
+    "word": "BALENA",
+    "emoji": "🐋",
+    "category": "mare",
+    "difficulty": "medio",
+    "syllables": [
+      "BA",
+      "LE",
+      "NA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "B_L_NA",
+      "missingLetters": [
+        "A",
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-050",
+    "word": "DELFINO",
+    "emoji": "🐬",
+    "category": "mare",
+    "difficulty": "medio",
+    "syllables": [
+      "DEL",
+      "FI",
+      "NO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "D_LF_NO",
+      "missingLetters": [
+        "E",
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "write-051",
+    "word": "RAZZO",
+    "emoji": "🚀",
+    "category": "spazio",
+    "difficulty": "medio",
+    "syllables": [
+      "RAZ",
+      "ZO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "R_ZZ_",
+      "missingLetters": [
+        "A",
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-052",
+    "word": "TERRA",
+    "emoji": "🌍",
+    "category": "spazio",
+    "difficulty": "medio",
+    "syllables": [
+      "TER",
+      "RA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "T_RR_",
+      "missingLetters": [
+        "E",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-053",
+    "word": "MARTE",
+    "emoji": "🔴",
+    "category": "spazio",
+    "difficulty": "medio",
+    "syllables": [
+      "MAR",
+      "TE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "M_RT_",
+      "missingLetters": [
+        "A",
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-054",
+    "word": "SATURNO",
+    "emoji": "🪐",
+    "category": "spazio",
+    "difficulty": "medio",
+    "syllables": [
+      "SA",
+      "TUR",
+      "NO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "S_T_RNO",
+      "missingLetters": [
+        "A",
+        "U"
+      ]
+    }
+  },
+  {
+    "id": "write-055",
+    "word": "COMETA",
+    "emoji": "☄️",
+    "category": "spazio",
+    "difficulty": "medio",
+    "syllables": [
+      "CO",
+      "ME",
+      "TA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "C_M_TA",
+      "missingLetters": [
+        "O",
+        "E"
+      ]
+    }
+  },
+  {
+    "id": "write-056",
+    "word": "ZAINO",
+    "emoji": "🎒",
+    "category": "oggetti",
+    "difficulty": "medio",
+    "syllables": [
+      "ZAI",
+      "NO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "Z__NO",
+      "missingLetters": [
+        "A",
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "write-057",
+    "word": "MATITA",
+    "emoji": "✏️",
+    "category": "oggetti",
+    "difficulty": "medio",
+    "syllables": [
+      "MA",
+      "TI",
+      "TA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "M_T_TA",
+      "missingLetters": [
+        "A",
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "write-058",
+    "word": "SEDIA",
+    "emoji": "🪑",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "SE",
+      "DIA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "S_D_A",
+      "missingLetters": [
+        "E",
+        "I"
+      ]
+    }
+  },
+  {
+    "id": "write-059",
+    "word": "PORTA",
+    "emoji": "🚪",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "POR",
+      "TA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "P_RT_",
+      "missingLetters": [
+        "O",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-060",
+    "word": "LAMPADA",
+    "emoji": "💡",
+    "category": "casa",
+    "difficulty": "medio",
+    "syllables": [
+      "LAM",
+      "PA",
+      "DA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "L_MP_DA",
+      "missingLetters": [
+        "A",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "write-061",
+    "word": "BICI",
+    "emoji": "🚲",
+    "category": "veicoli",
+    "difficulty": "difficile",
+    "syllables": [
+      "BI",
+      "CI"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "BI__",
+      "missingLetters": [
+        "CI"
+      ]
+    }
+  },
+  {
+    "id": "write-062",
+    "word": "AEREO",
+    "emoji": "✈️",
+    "category": "veicoli",
+    "difficulty": "difficile",
+    "syllables": [
+      "A",
+      "E",
+      "RE",
+      "O"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "AERE_",
+      "missingLetters": [
+        "O"
+      ]
+    }
+  },
+  {
+    "id": "write-063",
+    "word": "BUS",
+    "emoji": "🚌",
+    "category": "veicoli",
+    "difficulty": "difficile",
+    "syllables": [
+      "BUS"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "B__",
+      "missingLetters": [
+        "U",
+        "S"
+      ]
+    }
+  },
+  {
+    "id": "write-064",
+    "word": "TRATTORE",
+    "emoji": "🚜",
+    "category": "veicoli",
+    "difficulty": "difficile",
+    "syllables": [
+      "TRAT",
+      "TO",
+      "RE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "TRATTO__",
+      "missingLetters": [
+        "RE"
+      ]
+    }
+  },
+  {
+    "id": "write-065",
+    "word": "CAMION",
+    "emoji": "🚚",
+    "category": "veicoli",
+    "difficulty": "difficile",
+    "syllables": [
+      "CA",
+      "MION"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "C__ION",
+      "missingLetters": [
+        "A",
+        "M"
+      ]
+    }
+  },
+  {
+    "id": "write-066",
+    "word": "CAROTA",
+    "emoji": "🥕",
+    "category": "cibo",
+    "difficulty": "difficile",
+    "syllables": [
+      "CA",
+      "RO",
+      "TA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "CARO__",
+      "missingLetters": [
+        "TA"
+      ]
+    }
+  },
+  {
+    "id": "write-067",
+    "word": "BANANA",
+    "emoji": "🍌",
+    "category": "cibo",
+    "difficulty": "difficile",
+    "syllables": [
+      "BA",
+      "NA",
+      "NA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "BANA__",
+      "missingLetters": [
+        "NA"
+      ]
+    }
+  },
+  {
+    "id": "write-068",
+    "word": "PIZZA",
+    "emoji": "🍕",
+    "category": "cibo",
+    "difficulty": "difficile",
+    "syllables": [
+      "PIZ",
+      "ZA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "PIZ__",
+      "missingLetters": [
+        "ZA"
+      ]
+    }
+  },
+  {
+    "id": "write-069",
+    "word": "LATTE",
+    "emoji": "🥛",
+    "category": "cibo",
+    "difficulty": "difficile",
+    "syllables": [
+      "LAT",
+      "TE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "LAT__",
+      "missingLetters": [
+        "TE"
+      ]
+    }
+  },
+  {
+    "id": "write-070",
+    "word": "UOVO",
+    "emoji": "🥚",
+    "category": "cibo",
+    "difficulty": "difficile",
+    "syllables": [
+      "UO",
+      "VO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "UO__",
+      "missingLetters": [
+        "VO"
+      ]
+    }
+  },
+  {
+    "id": "write-071",
+    "word": "ANATRA",
+    "emoji": "🦆",
+    "category": "animali",
+    "difficulty": "difficile",
+    "syllables": [
+      "A",
+      "NA",
+      "TRA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "ANA___",
+      "missingLetters": [
+        "TRA"
+      ]
+    }
+  },
+  {
+    "id": "write-072",
+    "word": "CAVALLO",
+    "emoji": "🐴",
+    "category": "animali",
+    "difficulty": "difficile",
+    "syllables": [
+      "CA",
+      "VAL",
+      "LO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "CAVAL__",
+      "missingLetters": [
+        "LO"
+      ]
+    }
+  },
+  {
+    "id": "write-073",
+    "word": "PECORA",
+    "emoji": "🐑",
+    "category": "animali",
+    "difficulty": "difficile",
+    "syllables": [
+      "PE",
+      "CO",
+      "RA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "PECO__",
+      "missingLetters": [
+        "RA"
+      ]
+    }
+  },
+  {
+    "id": "write-074",
+    "word": "CONIGLIO",
+    "emoji": "🐰",
+    "category": "animali",
+    "difficulty": "difficile",
+    "syllables": [
+      "CO",
+      "NI",
+      "GLIO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "C__IGLIO",
+      "missingLetters": [
+        "O",
+        "N"
+      ]
+    }
+  },
+  {
+    "id": "write-075",
+    "word": "FARFALLA",
+    "emoji": "🦋",
+    "category": "animali",
+    "difficulty": "difficile",
+    "syllables": [
+      "FAR",
+      "FAL",
+      "LA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "FARFAL__",
+      "missingLetters": [
+        "LA"
+      ]
+    }
+  },
+  {
+    "id": "write-076",
+    "word": "LUMACA",
+    "emoji": "🐌",
+    "category": "animali",
+    "difficulty": "difficile",
+    "syllables": [
+      "LU",
+      "MA",
+      "CA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "LUMA__",
+      "missingLetters": [
+        "CA"
+      ]
+    }
+  },
+  {
+    "id": "write-077",
+    "word": "FORMICA",
+    "emoji": "🐜",
+    "category": "animali",
+    "difficulty": "difficile",
+    "syllables": [
+      "FOR",
+      "MI",
+      "CA"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "FORMI__",
+      "missingLetters": [
+        "CA"
+      ]
+    }
+  },
+  {
+    "id": "write-078",
+    "word": "DINOSAURO",
+    "emoji": "🦕",
+    "category": "animali",
+    "difficulty": "difficile",
+    "syllables": [
+      "DI",
+      "NO",
+      "SAU",
+      "RO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "DINOSAU__",
+      "missingLetters": [
+        "RO"
+      ]
+    }
+  },
+  {
+    "id": "write-079",
+    "word": "BALLO",
+    "emoji": "💃",
+    "category": "oggetti",
+    "difficulty": "difficile",
+    "syllables": [
+      "BAL",
+      "LO"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "BAL__",
+      "missingLetters": [
+        "LO"
+      ]
+    }
+  },
+  {
+    "id": "write-080",
+    "word": "CUORE",
+    "emoji": "❤️",
+    "category": "oggetti",
+    "difficulty": "difficile",
+    "syllables": [
+      "CUO",
+      "RE"
+    ],
+    "listenAndWrite": true,
+    "completeWord": {
+      "masked": "CUO__",
+      "missingLetters": [
+        "RE"
+      ]
+    }
+  }
+]

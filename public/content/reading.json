@@ -1,0 +1,14 @@
+[
+  {"id":"read-001","type":"letter","difficulty":"facile","prompt":"Che lettera è?","display":"M","correctAnswer":"M","answers":["M","A","P"]},
+  {"id":"read-002","type":"letter","difficulty":"facile","prompt":"Che lettera è?","display":"A","correctAnswer":"A","answers":["E","A","O"]},
+  {"id":"read-003","type":"letter","difficulty":"facile","prompt":"Che lettera è?","display":"S","correctAnswer":"S","answers":["L","P","S"]},
+  {"id":"read-004","type":"letter","difficulty":"facile","prompt":"Che lettera è?","display":"U","correctAnswer":"U","answers":["I","U","O"]},
+  {"id":"read-005","type":"syllable","difficulty":"medio","prompt":"Che suono leggi?","display":"MA","correctAnswer":"MA","answers":["MA","ME","MI","MO"]},
+  {"id":"read-006","type":"syllable","difficulty":"medio","prompt":"Che suono leggi?","display":"PE","correctAnswer":"PE","answers":["PA","PE","PI","PO"]},
+  {"id":"read-007","type":"syllable","difficulty":"medio","prompt":"Che suono leggi?","display":"LU","correctAnswer":"LU","answers":["LA","LE","LI","LU"]},
+  {"id":"read-008","type":"syllable","difficulty":"medio","prompt":"Che suono leggi?","display":"SO","correctAnswer":"SO","answers":["SA","SE","SI","SO"]},
+  {"id":"read-009","type":"word-to-emoji","difficulty":"difficile","prompt":"Scegli l’immagine giusta","display":"CANE","correctAnswer":"🐶","answers":["🐶","🐱","🐟","🚢"]},
+  {"id":"read-010","type":"emoji-to-word","difficulty":"difficile","prompt":"Scegli la parola giusta","display":"🌙","correctAnswer":"LUNA","answers":["LUNA","MARE","SOLE","NAVE"]},
+  {"id":"read-011","type":"word-to-emoji","difficulty":"difficile","prompt":"Scegli l’immagine giusta","display":"PESCE","correctAnswer":"🐟","answers":["🏠","🐟","☀️","✋"]},
+  {"id":"read-012","type":"emoji-to-word","difficulty":"difficile","prompt":"Scegli la parola giusta","display":"🏠","correctAnswer":"CASA","answers":["MANO","CASA","PALLA","GATTO"]}
+]

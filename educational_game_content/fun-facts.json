@@ -1,0 +1,702 @@
+[
+  {
+    "id": "dino-001",
+    "category": "dinosauri",
+    "text": "Il Triceratopo mangiava piante e aveva tre corna.",
+    "difficulty": "facile",
+    "source": "https://www.nhm.ac.uk/discover/dino-directory.html"
+  },
+  {
+    "id": "dino-002",
+    "category": "dinosauri",
+    "text": "Il T-Rex aveva denti grandi e affilati.",
+    "difficulty": "facile",
+    "source": "https://www.amnh.org/dinosaurs/dinosaur-facts"
+  },
+  {
+    "id": "dino-003",
+    "category": "dinosauri",
+    "text": "Lo Stegosauro aveva grandi placche sulla schiena.",
+    "difficulty": "facile",
+    "source": "https://www.nhm.ac.uk/discover/dino-directory.html"
+  },
+  {
+    "id": "dino-004",
+    "category": "dinosauri",
+    "text": "Molti dinosauri nascevano da uova.",
+    "difficulty": "facile",
+    "source": "https://www.amnh.org/dinosaurs/dinosaur-facts"
+  },
+  {
+    "id": "dino-005",
+    "category": "dinosauri",
+    "text": "Alcuni dinosauri erano piccoli come un tacchino.",
+    "difficulty": "facile",
+    "source": "https://www.amnh.org/dinosaurs/dinosaur-facts"
+  },
+  {
+    "id": "dino-006",
+    "category": "dinosauri",
+    "text": "I fossili aiutano gli scienziati a conoscere i dinosauri.",
+    "difficulty": "facile",
+    "source": "https://www.si.edu/spotlight/dinosaurs"
+  },
+  {
+    "id": "dino-007",
+    "category": "dinosauri",
+    "text": "Il nome dinosauro significa “lucertola terribile”.",
+    "difficulty": "medio",
+    "source": "https://www.amnh.org/dinosaurs/dinosaur-facts"
+  },
+  {
+    "id": "dino-008",
+    "category": "dinosauri",
+    "text": "Il Diplodoco aveva un collo molto lungo.",
+    "difficulty": "facile",
+    "source": "https://www.nhm.ac.uk/discover/dino-directory.html"
+  },
+  {
+    "id": "dino-009",
+    "category": "dinosauri",
+    "text": "Il Triceratopo usava il becco per tagliare le piante.",
+    "difficulty": "medio",
+    "source": "https://www.nhm.ac.uk/discover/dino-directory.html"
+  },
+  {
+    "id": "dino-010",
+    "category": "dinosauri",
+    "text": "Alcuni dinosauri avevano piume.",
+    "difficulty": "medio",
+    "source": "https://www.amnh.org/dinosaurs/dinosaur-facts"
+  },
+  {
+    "id": "dino-011",
+    "category": "dinosauri",
+    "text": "Il Velociraptor era molto più piccolo di come appare nei film.",
+    "difficulty": "medio",
+    "source": "https://www.nhm.ac.uk/discover/dino-directory.html"
+  },
+  {
+    "id": "dino-012",
+    "category": "dinosauri",
+    "text": "Lo Stegosauro viveva nel Giurassico.",
+    "difficulty": "medio",
+    "source": "https://www.nhm.ac.uk/discover/dino-directory.html"
+  },
+  {
+    "id": "dino-013",
+    "category": "dinosauri",
+    "text": "Il T-Rex camminava su due zampe forti.",
+    "difficulty": "facile",
+    "source": "https://www.amnh.org/dinosaurs/dinosaur-facts"
+  },
+  {
+    "id": "dino-014",
+    "category": "dinosauri",
+    "text": "Gli scienziati studiano ossa, impronte e uova fossili.",
+    "difficulty": "medio",
+    "source": "https://www.si.edu/spotlight/dinosaurs"
+  },
+  {
+    "id": "dino-015",
+    "category": "dinosauri",
+    "text": "Il Brachiosauro aveva zampe anteriori molto lunghe.",
+    "difficulty": "medio",
+    "source": "https://www.nhm.ac.uk/discover/dino-directory.html"
+  },
+  {
+    "id": "dino-016",
+    "category": "dinosauri",
+    "text": "I dinosauri vissero sulla Terra per tantissimo tempo.",
+    "difficulty": "difficile",
+    "source": "https://www.amnh.org/dinosaurs/dinosaur-facts"
+  },
+  {
+    "id": "dino-017",
+    "category": "dinosauri",
+    "text": "Il Parasaurolofo aveva una cresta lunga sulla testa.",
+    "difficulty": "medio",
+    "source": "https://www.nhm.ac.uk/discover/dino-directory.html"
+  },
+  {
+    "id": "dino-018",
+    "category": "dinosauri",
+    "text": "Alcuni dinosauri mangiavano piante, altri carne.",
+    "difficulty": "facile",
+    "source": "https://www.amnh.org/dinosaurs/dinosaur-facts"
+  },
+  {
+    "id": "dino-019",
+    "category": "dinosauri",
+    "text": "Le impronte fossili raccontano come camminavano i dinosauri.",
+    "difficulty": "medio",
+    "source": "https://www.si.edu/spotlight/dinosaurs"
+  },
+  {
+    "id": "dino-020",
+    "category": "dinosauri",
+    "text": "I musei proteggono i fossili per farli studiare a tutti.",
+    "difficulty": "facile",
+    "source": "https://www.si.edu/spotlight/dinosaurs"
+  },
+  {
+    "id": "space-001",
+    "category": "spazio",
+    "text": "Il Sole è una stella.",
+    "difficulty": "facile",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-002",
+    "category": "spazio",
+    "text": "La Terra gira intorno al Sole.",
+    "difficulty": "facile",
+    "source": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "id": "space-003",
+    "category": "spazio",
+    "text": "La Luna gira intorno alla Terra.",
+    "difficulty": "facile",
+    "source": "https://www.esa.int/kids/en/home"
+  },
+  {
+    "id": "space-004",
+    "category": "spazio",
+    "text": "Nel Sistema Solare ci sono otto pianeti.",
+    "difficulty": "facile",
+    "source": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "id": "space-005",
+    "category": "spazio",
+    "text": "Saturno ha anelli molto belli.",
+    "difficulty": "facile",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-006",
+    "category": "spazio",
+    "text": "Marte è chiamato il pianeta rosso.",
+    "difficulty": "facile",
+    "source": "https://www.esa.int/kids/en/home"
+  },
+  {
+    "id": "space-007",
+    "category": "spazio",
+    "text": "La Terra è il nostro pianeta casa.",
+    "difficulty": "facile",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-008",
+    "category": "spazio",
+    "text": "Giove è il pianeta più grande del Sistema Solare.",
+    "difficulty": "medio",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-009",
+    "category": "spazio",
+    "text": "Mercurio è il pianeta più vicino al Sole.",
+    "difficulty": "medio",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-010",
+    "category": "spazio",
+    "text": "Venere è vicino alla Terra nel Sistema Solare.",
+    "difficulty": "medio",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-011",
+    "category": "spazio",
+    "text": "Nettuno è un pianeta molto lontano.",
+    "difficulty": "medio",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-012",
+    "category": "spazio",
+    "text": "Gli astronauti usano tute speciali nello spazio.",
+    "difficulty": "facile",
+    "source": "https://www.esa.int/kids/en/home"
+  },
+  {
+    "id": "space-013",
+    "category": "spazio",
+    "text": "I razzi portano strumenti e persone nello spazio.",
+    "difficulty": "facile",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-014",
+    "category": "spazio",
+    "text": "Le comete sono fatte di ghiaccio, polvere e roccia.",
+    "difficulty": "medio",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-015",
+    "category": "spazio",
+    "text": "Gli asteroidi sono piccoli mondi rocciosi.",
+    "difficulty": "medio",
+    "source": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "id": "space-016",
+    "category": "spazio",
+    "text": "La Via Lattea è la galassia dove viviamo.",
+    "difficulty": "difficile",
+    "source": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "id": "space-017",
+    "category": "spazio",
+    "text": "Alcuni pianeti hanno tante lune.",
+    "difficulty": "medio",
+    "source": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "id": "space-018",
+    "category": "spazio",
+    "text": "La Stazione Spaziale gira intorno alla Terra.",
+    "difficulty": "medio",
+    "source": "https://www.esa.int/kids/en/home"
+  },
+  {
+    "id": "space-019",
+    "category": "spazio",
+    "text": "I telescopi aiutano a vedere oggetti lontani nello spazio.",
+    "difficulty": "facile",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "space-020",
+    "category": "spazio",
+    "text": "Le sonde spaziali esplorano pianeti e lune.",
+    "difficulty": "medio",
+    "source": "https://spaceplace.nasa.gov/menu/solar-system/"
+  },
+  {
+    "id": "sea-001",
+    "category": "mare",
+    "text": "Il mare è pieno di animali grandi e piccoli.",
+    "difficulty": "facile",
+    "source": "https://oceanservice.noaa.gov/kids/"
+  },
+  {
+    "id": "sea-002",
+    "category": "mare",
+    "text": "I coralli sono animali, non piante.",
+    "difficulty": "medio",
+    "source": "https://kids.nationalgeographic.com/nature/habitats/article/ocean"
+  },
+  {
+    "id": "sea-003",
+    "category": "mare",
+    "text": "I cavallucci marini vivono nel mare.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/nature/habitats/article/ocean"
+  },
+  {
+    "id": "sea-004",
+    "category": "mare",
+    "text": "Le alghe kelp fanno una specie di foresta sott’acqua.",
+    "difficulty": "medio",
+    "source": "https://kids.nationalgeographic.com/nature/habitats/article/ocean"
+  },
+  {
+    "id": "sea-005",
+    "category": "mare",
+    "text": "Le lontre marine aiutano le foreste di kelp.",
+    "difficulty": "medio",
+    "source": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-otter"
+  },
+  {
+    "id": "sea-006",
+    "category": "mare",
+    "text": "I delfini sono mammiferi, non pesci.",
+    "difficulty": "medio",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-007",
+    "category": "mare",
+    "text": "Le balene respirano aria.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "sea-008",
+    "category": "mare",
+    "text": "Il plancton è piccolissimo e vive nell’acqua.",
+    "difficulty": "medio",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-009",
+    "category": "mare",
+    "text": "Le tartarughe marine nuotano con pinne forti.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/nature/habitats/article/ocean"
+  },
+  {
+    "id": "sea-010",
+    "category": "mare",
+    "text": "Le onde muovono l’acqua vicino alla spiaggia.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/nature/habitats/article/ocean"
+  },
+  {
+    "id": "sea-011",
+    "category": "mare",
+    "text": "Nel mare ci sono montagne chiamate monti sottomarini.",
+    "difficulty": "difficile",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-012",
+    "category": "mare",
+    "text": "I pesci usano le branchie per respirare nell’acqua.",
+    "difficulty": "medio",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-013",
+    "category": "mare",
+    "text": "Alcuni animali marini fanno luce nel buio.",
+    "difficulty": "difficile",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-014",
+    "category": "mare",
+    "text": "Le barriere coralline danno casa a molti animali.",
+    "difficulty": "medio",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-015",
+    "category": "mare",
+    "text": "Il mare copre una grande parte della Terra.",
+    "difficulty": "medio",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-016",
+    "category": "mare",
+    "text": "Le meduse hanno un corpo morbido e gelatinoso.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/pages/topic/ocean-portal"
+  },
+  {
+    "id": "sea-017",
+    "category": "mare",
+    "text": "I polpi hanno otto braccia.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/pages/topic/ocean-portal"
+  },
+  {
+    "id": "sea-018",
+    "category": "mare",
+    "text": "Le stelle marine vivono sui fondali.",
+    "difficulty": "facile",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-019",
+    "category": "mare",
+    "text": "Le conchiglie proteggono molti piccoli animali.",
+    "difficulty": "facile",
+    "source": "https://oceanservice.noaa.gov/facts/"
+  },
+  {
+    "id": "sea-020",
+    "category": "mare",
+    "text": "Gli scienziati studiano il mare con navi e robot.",
+    "difficulty": "medio",
+    "source": "https://oceanservice.noaa.gov/kids/"
+  },
+  {
+    "id": "animal-001",
+    "category": "animali",
+    "text": "Il panda gigante mangia soprattutto bambù.",
+    "difficulty": "facile",
+    "source": "https://nationalzoo.si.edu/animals"
+  },
+  {
+    "id": "animal-002",
+    "category": "animali",
+    "text": "La giraffa ha un collo molto lungo.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "animal-003",
+    "category": "animali",
+    "text": "Gli elefanti usano la proboscide per annusare e prendere cose.",
+    "difficulty": "facile",
+    "source": "https://sdzwildlifeexplorers.org/"
+  },
+  {
+    "id": "animal-004",
+    "category": "animali",
+    "text": "Le tigri vedono molto bene di notte.",
+    "difficulty": "medio",
+    "source": "https://sdzwildlifeexplorers.org/"
+  },
+  {
+    "id": "animal-005",
+    "category": "animali",
+    "text": "I pinguini sono uccelli che nuotano benissimo.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "animal-006",
+    "category": "animali",
+    "text": "I camaleonti possono muovere gli occhi in direzioni diverse.",
+    "difficulty": "medio",
+    "source": "https://sdzwildlifeexplorers.org/"
+  },
+  {
+    "id": "animal-007",
+    "category": "animali",
+    "text": "Le rane sono anfibi.",
+    "difficulty": "medio",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "animal-008",
+    "category": "animali",
+    "text": "I mammiferi hanno peli o capelli.",
+    "difficulty": "medio",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "animal-009",
+    "category": "animali",
+    "text": "Gli uccelli hanno piume.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "animal-010",
+    "category": "animali",
+    "text": "Le api visitano i fiori.",
+    "difficulty": "facile",
+    "source": "https://nationalzoo.si.edu/animals"
+  },
+  {
+    "id": "animal-011",
+    "category": "animali",
+    "text": "Il koala mangia foglie di eucalipto.",
+    "difficulty": "facile",
+    "source": "https://sdzwildlifeexplorers.org/"
+  },
+  {
+    "id": "animal-012",
+    "category": "animali",
+    "text": "Il bradipo si muove molto lentamente.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "animal-013",
+    "category": "animali",
+    "text": "Il fenicottero può stare su una zampa sola.",
+    "difficulty": "facile",
+    "source": "https://sdzwildlifeexplorers.org/"
+  },
+  {
+    "id": "animal-014",
+    "category": "animali",
+    "text": "Le tartarughe hanno un guscio protettivo.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "animal-015",
+    "category": "animali",
+    "text": "Il canguro porta il piccolo in un marsupio.",
+    "difficulty": "medio",
+    "source": "https://kids.nationalgeographic.com/animals"
+  },
+  {
+    "id": "animal-016",
+    "category": "animali",
+    "text": "La zebra ha strisce bianche e nere.",
+    "difficulty": "facile",
+    "source": "https://sdzwildlifeexplorers.org/"
+  },
+  {
+    "id": "animal-017",
+    "category": "animali",
+    "text": "Il colibrì batte le ali molto velocemente.",
+    "difficulty": "medio",
+    "source": "https://sdzwildlifeexplorers.org/"
+  },
+  {
+    "id": "animal-018",
+    "category": "animali",
+    "text": "Il castoro costruisce dighe con legni e fango.",
+    "difficulty": "medio",
+    "source": "https://nationalzoo.si.edu/animals"
+  },
+  {
+    "id": "animal-019",
+    "category": "animali",
+    "text": "Il polpo è un animale molto curioso.",
+    "difficulty": "facile",
+    "source": "https://kids.nationalgeographic.com/pages/topic/ocean-portal"
+  },
+  {
+    "id": "animal-020",
+    "category": "animali",
+    "text": "La volpe artica ha una pelliccia molto folta.",
+    "difficulty": "medio",
+    "source": "https://sdzwildlifeexplorers.org/"
+  },
+  {
+    "id": "wreck-001",
+    "category": "relitti",
+    "text": "Un relitto può diventare una casa per pesci.",
+    "difficulty": "facile",
+    "source": "https://oceanexplorer.noaa.gov/education/maritime-heritage/"
+  },
+  {
+    "id": "wreck-002",
+    "category": "relitti",
+    "text": "Gli archeologi subacquei studiano oggetti sotto l’acqua.",
+    "difficulty": "medio",
+    "source": "https://maritime-forum.ec.europa.eu/educating-children-through-underwater-and-coastal-cultural-heritage_en"
+  },
+  {
+    "id": "wreck-003",
+    "category": "relitti",
+    "text": "Le mappe aiutano a trovare siti antichi nel mare.",
+    "difficulty": "facile",
+    "source": "https://sanctuaries.noaa.gov/education/teachers/shipwreck/lesson-plans.html"
+  },
+  {
+    "id": "wreck-004",
+    "category": "relitti",
+    "text": "I subacquei osservano i relitti con molta attenzione.",
+    "difficulty": "facile",
+    "source": "https://oceanexplorer.noaa.gov/education/maritime-heritage/"
+  },
+  {
+    "id": "wreck-005",
+    "category": "relitti",
+    "text": "Alcuni robot aiutano a esplorare sott’acqua.",
+    "difficulty": "medio",
+    "source": "https://oceanexplorer.noaa.gov/education/maritime-heritage/"
+  },
+  {
+    "id": "wreck-006",
+    "category": "relitti",
+    "text": "Le foto aiutano a disegnare una mappa del fondale.",
+    "difficulty": "medio",
+    "source": "https://sanctuaries.noaa.gov/education/teachers/shipwreck/lesson-plans.html"
+  },
+  {
+    "id": "wreck-007",
+    "category": "relitti",
+    "text": "Un vecchio pezzo di nave può raccontare una storia.",
+    "difficulty": "facile",
+    "source": "https://unesdoc.unesco.org/ark:/48223/pf0000181217"
+  },
+  {
+    "id": "wreck-008",
+    "category": "relitti",
+    "text": "I musei proteggono gli oggetti trovati sott’acqua.",
+    "difficulty": "facile",
+    "source": "https://unesdoc.unesco.org/ark:/48223/pf0000181217"
+  },
+  {
+    "id": "wreck-009",
+    "category": "relitti",
+    "text": "Gli archeologi misurano i relitti prima di spostarli.",
+    "difficulty": "medio",
+    "source": "https://sanctuaries.noaa.gov/education/teachers/shipwreck/lesson-plans.html"
+  },
+  {
+    "id": "wreck-010",
+    "category": "relitti",
+    "text": "A volte è meglio lasciare un relitto dove si trova.",
+    "difficulty": "difficile",
+    "source": "https://unesdoc.unesco.org/ark:/48223/pf0000181217"
+  },
+  {
+    "id": "wreck-011",
+    "category": "relitti",
+    "text": "I relitti sono come pagine di storia nel mare.",
+    "difficulty": "facile",
+    "source": "https://oceanexplorer.noaa.gov/education/maritime-heritage/"
+  },
+  {
+    "id": "wreck-012",
+    "category": "relitti",
+    "text": "I ricercatori usano luci e macchine fotografiche subacquee.",
+    "difficulty": "medio",
+    "source": "https://oceanexplorer.noaa.gov/education/maritime-heritage/"
+  },
+  {
+    "id": "wreck-013",
+    "category": "relitti",
+    "text": "Un relitto può aiutare a capire come erano fatte le navi.",
+    "difficulty": "medio",
+    "source": "https://maritime-forum.ec.europa.eu/educating-children-through-underwater-and-coastal-cultural-heritage_en"
+  },
+  {
+    "id": "wreck-014",
+    "category": "relitti",
+    "text": "Gli oggetti antichi si puliscono con grande calma.",
+    "difficulty": "medio",
+    "source": "https://sanctuaries.noaa.gov/education/teachers/shipwreck/lesson-plans.html"
+  },
+  {
+    "id": "wreck-015",
+    "category": "relitti",
+    "text": "I siti subacquei vanno rispettati e protetti.",
+    "difficulty": "facile",
+    "source": "https://unesdoc.unesco.org/ark:/48223/pf0000181217"
+  },
+  {
+    "id": "wreck-016",
+    "category": "relitti",
+    "text": "Gli archeologi prendono appunti anche sott’acqua.",
+    "difficulty": "facile",
+    "source": "https://sanctuaries.noaa.gov/education/teachers/shipwreck/lesson-plans.html"
+  },
+  {
+    "id": "wreck-017",
+    "category": "relitti",
+    "text": "Alcuni relitti si possono visitare nei musei virtuali.",
+    "difficulty": "medio",
+    "source": "https://maritime-forum.ec.europa.eu/educating-children-through-underwater-and-coastal-cultural-heritage_en"
+  },
+  {
+    "id": "wreck-018",
+    "category": "relitti",
+    "text": "Il sonar aiuta a vedere forme sul fondo del mare.",
+    "difficulty": "difficile",
+    "source": "https://oceanexplorer.noaa.gov/education/maritime-heritage/"
+  },
+  {
+    "id": "wreck-019",
+    "category": "relitti",
+    "text": "Le vecchie ancore aiutano a studiare le navi.",
+    "difficulty": "medio",
+    "source": "https://unesdoc.unesco.org/ark:/48223/pf0000181217"
+  },
+  {
+    "id": "wreck-020",
+    "category": "relitti",
+    "text": "La storia del mare si studia con scienza e pazienza.",
+    "difficulty": "facile",
+    "source": "https://oceanexplorer.noaa.gov/education/maritime-heritage/"
+  }
+]

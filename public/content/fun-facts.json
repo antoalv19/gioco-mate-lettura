@@ -1,0 +1,14 @@
+[
+  {"id":"dino-001","category":"dinosauri","text":"Il T-Rex aveva denti grandi come banane!","difficulty":"facile"},
+  {"id":"dino-002","category":"dinosauri","text":"Alcuni dinosauri avevano le piume!","difficulty":"facile"},
+  {"id":"space-001","category":"spazio","text":"La Luna riflette la luce del Sole!","difficulty":"facile"},
+  {"id":"space-002","category":"spazio","text":"Su Marte ci sono montagne altissime!","difficulty":"medio"},
+  {"id":"sea-001","category":"mare","text":"I polpi hanno tre cuori!","difficulty":"facile"},
+  {"id":"sea-002","category":"mare","text":"Le stelle marine possono avere più di cinque braccia!","difficulty":"medio"},
+  {"id":"animal-001","category":"animali","text":"Le api comunicano anche ballando!","difficulty":"medio"},
+  {"id":"animal-002","category":"animali","text":"Le giraffe dormono pochissimo!","difficulty":"difficile"},
+  {"id":"wreck-001","category":"relitti","text":"Nei relitti tranquilli trovano casa tanti pesci colorati!","difficulty":"facile"},
+  {"id":"wreck-002","category":"relitti","text":"Gli esploratori studiano le vecchie navi senza disturbare il mare!","difficulty":"medio"},
+  {"id":"treasure-001","category":"mare","text":"Il vero tesoro del mare è la sua grande varietà di vita!","difficulty":"difficile"},
+  {"id":"animal-003","category":"animali","text":"I delfini si chiamano con fischi speciali!","difficulty":"difficile"}
+]

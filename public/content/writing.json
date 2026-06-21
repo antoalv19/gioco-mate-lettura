@@ -1,0 +1,14 @@
+[
+  {"id":"write-001","word":"CANE","emoji":"🐶","category":"animali","difficulty":"facile","syllables":["CA","NE"],"listenAndWrite":true,"completeWord":{"masked":"C_NE","missingLetters":["A"]}},
+  {"id":"write-002","word":"SOLE","emoji":"☀️","category":"spazio","difficulty":"facile","syllables":["SO","LE"],"listenAndWrite":true,"completeWord":{"masked":"SO_E","missingLetters":["L"]}},
+  {"id":"write-003","word":"MARE","emoji":"🌊","category":"mare","difficulty":"facile","syllables":["MA","RE"],"listenAndWrite":true,"completeWord":{"masked":"M_RE","missingLetters":["A"]}},
+  {"id":"write-004","word":"MELA","emoji":"🍎","category":"cibo","difficulty":"facile","syllables":["ME","LA"],"listenAndWrite":true,"completeWord":{"masked":"ME_A","missingLetters":["L"]}},
+  {"id":"write-005","word":"GATTO","emoji":"🐱","category":"animali","difficulty":"medio","syllables":["GAT","TO"],"listenAndWrite":true,"completeWord":{"masked":"G_TTO","missingLetters":["A"]}},
+  {"id":"write-006","word":"PESCE","emoji":"🐟","category":"mare","difficulty":"medio","syllables":["PE","SCE"],"listenAndWrite":true,"completeWord":{"masked":"PE_CE","missingLetters":["S"]}},
+  {"id":"write-007","word":"PALLA","emoji":"⚽","category":"giochi","difficulty":"medio","syllables":["PAL","LA"],"listenAndWrite":true,"completeWord":{"masked":"PA_LA","missingLetters":["L"]}},
+  {"id":"write-008","word":"FIORE","emoji":"🌸","category":"natura","difficulty":"medio","syllables":["FIO","RE"],"listenAndWrite":true,"completeWord":{"masked":"FI_RE","missingLetters":["O"]}},
+  {"id":"write-009","word":"STELLA","emoji":"⭐","category":"spazio","difficulty":"difficile","syllables":["STEL","LA"],"listenAndWrite":true,"completeWord":{"masked":"S_EL_A","missingLetters":["T","L"]}},
+  {"id":"write-010","word":"BALENA","emoji":"🐋","category":"mare","difficulty":"difficile","syllables":["BA","LE","NA"],"listenAndWrite":true,"completeWord":{"masked":"B_LE_A","missingLetters":["A","N"]}},
+  {"id":"write-011","word":"PIRATA","emoji":"🏴‍☠️","category":"mare","difficulty":"difficile","syllables":["PI","RA","TA"],"listenAndWrite":true,"completeWord":{"masked":"PI_A_A","missingLetters":["R","T"]}},
+  {"id":"write-012","word":"LIMONE","emoji":"🍋","category":"cibo","difficulty":"difficile","syllables":["LI","MO","NE"],"listenAndWrite":true,"completeWord":{"masked":"LI_O_E","missingLetters":["M","N"]}}
+]

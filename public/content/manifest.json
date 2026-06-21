@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "language": "it-IT",
+  "files": {
+    "funFacts": "fun-facts.json",
+    "addition": "math-addition.json",
+    "subtraction": "math-subtraction.json",
+    "reading": "reading.json",
+    "writing": "writing.json",
+    "practiceLessons": "practice-lessons.json"
+  }
+}

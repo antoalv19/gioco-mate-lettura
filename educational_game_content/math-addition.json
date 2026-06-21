@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "add-001",
+    "difficulty": "facile",
+    "question": "Quanto fa 1 + 1?",
+    "operation": "addition",
+    "operands": [
+      1,
+      1
+    ],
+    "correctAnswer": 2,
+    "answers": [
+      1,
+      3,
+      2
+    ],
+    "visual": [
+      "⭐",
+      "+",
+      "⭐"
+    ]
+  },
+  {
+    "id": "add-002",
+    "difficulty": "facile",
+    "question": "Quanto fa 1 + 2?",
+    "operation": "addition",
+    "operands": [
+      1,
+      2
+    ],
+    "correctAnswer": 3,
+    "answers": [
+      4,
+      3,
+      2
+    ],
+    "visual": [
+      "🍎",
+      "+",
+      "🍎",
+      "🍎"
+    ]
+  },
+  {
+    "id": "add-003",
+    "difficulty": "facile",
+    "question": "Quanto fa 2 + 1?",
+    "operation": "addition",
+    "operands": [
+      2,
+      1
+    ],
+    "correctAnswer": 3,
+    "answers": [
+      4,
+      3,
+      2
+    ],
+    "visual": [
+      "🐟",
+      "🐟",
+      "+",
+      "🐟"
+    ]
+  },
+  {
+    "id": "add-004",
+    "difficulty": "facile",
+    "question": "Quanto fa 2 + 2?",
+    "operation": "addition",
+    "operands": [
+      2,
+      2
+    ],
+    "correctAnswer": 4,
+    "answers": [
+      5,
+      4,
+      3
+    ],
+    "visual": [
+      "🚗",
+      "🚗",
+      "+",
+      "🚗",
+      "🚗"
+    ]
+  },
+  {
+    "id": "add-005",
+    "difficulty": "facile",
+    "question": "Quanto fa 2 + 3?",
+    "operation": "addition",
+    "operands": [
+      2,
+      3
+    ],
+    "correctAnswer": 5,
+    "answers": [
+      6,
+      4,
+      5
+    ],
+    "visual": [
+      "🦕",
+      "🦕",
+      "+",
+      "🦕",
+      "🦕",
+      "🦕"
+    ]
+  },
+  {
+    "id": "add-006",
+    "difficulty": "facile",
+    "question": "Quanto fa 3 + 2?",
+    "operation": "addition",
+    "operands": [
+      3,
+      2
+    ],
+    "correctAnswer": 5,
+    "answers": [
+      6,
+      4,
+      5
+    ],
+    "visual": [
+      "🌙",
+      "🌙",
+      "🌙",
+      "+",
+      "🌙",
+      "🌙"
+    ]
+  },
+  {
+    "id": "add-007",
+    "difficulty": "facile",
+    "question": "Quanto fa 4 + 1?",
+    "operation": "addition",
+    "operands": [
+      4,
+      1
+    ],
+    "correctAnswer": 5,
+    "answers": [
+      6,
+      4,
+      5
+    ],
+    "visual": [
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "+",
+      "🐚"
+    ]
+  },
+  {
+    "id": "add-008",
+    "difficulty": "facile",
+    "question": "Quanto fa 1 + 4?",
+    "operation": "addition",
+    "operands": [
+      1,
+      4
+    ],
+    "correctAnswer": 5,
+    "answers": [
+      6,
+      4,
+      5
+    ],
+    "visual": [
+      "⚽",
+      "+",
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽"
+    ]
+  },
+  {
+    "id": "add-009",
+    "difficulty": "facile",
+    "question": "Quanto fa 3 + 3?",
+    "operation": "addition",
+    "operands": [
+      3,
+      3
+    ],
+    "correctAnswer": 6,
+    "answers": [
+      6,
+      7,
+      5
+    ],
+    "visual": [
+      "🧸",
+      "🧸",
+      "🧸",
+      "+",
+      "🧸",
+      "🧸",
+      "🧸"
+    ]
+  },
+  {
+    "id": "add-010",
+    "difficulty": "facile",
+    "question": "Quanto fa 5 + 1?",
+    "operation": "addition",
+    "operands": [
+      5,
+      1
+    ],
+    "correctAnswer": 6,
+    "answers": [
+      6,
+      7,
+      5
+    ],
+    "visual": [
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "+",
+      "🍓"
+    ]
+  },
+  {
+    "id": "add-011",
+    "difficulty": "facile",
+    "question": "Quanto fa 1 + 5?",
+    "operation": "addition",
+    "operands": [
+      1,
+      5
+    ],
+    "correctAnswer": 6,
+    "answers": [
+      6,
+      7,
+      5
+    ],
+    "visual": [
+      "⭐",
+      "+",
+      "⭐",
+      "⭐",
+      "⭐",
+      "⭐",
+      "⭐"
+    ]
+  },
+  {
+    "id": "add-012",
+    "difficulty": "facile",
+    "question": "Quanto fa 4 + 2?",
+    "operation": "addition",
+    "operands": [
+      4,
+      2
+    ],
+    "correctAnswer": 6,
+    "answers": [
+      6,
+      7,
+      5
+    ],
+    "visual": [
+      "🍎",
+      "🍎",
+      "🍎",
+      "🍎",
+      "+",
+      "🍎",
+      "🍎"
+    ]
+  },
+  {
+    "id": "add-013",
+    "difficulty": "facile",
+    "question": "Quanto fa 2 + 4?",
+    "operation": "addition",
+    "operands": [
+      2,
+      4
+    ],
+    "correctAnswer": 6,
+    "answers": [
+      6,
+      7,
+      5
+    ],
+    "visual": [
+      "🐟",
+      "🐟",
+      "+",
+      "🐟",
+      "🐟",
+      "🐟",
+      "🐟"
+    ]
+  },
+  {
+    "id": "add-014",
+    "difficulty": "facile",
+    "question": "Quanto fa 5 + 2?",
+    "operation": "addition",
+    "operands": [
+      5,
+      2
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      7,
+      8
+    ],
+    "visual": [
+      "🚗",
+      "🚗",
+      "🚗",
+      "🚗",
+      "🚗",
+      "+",
+      "🚗",
+      "🚗"
+    ]
+  },
+  {
+    "id": "add-015",
+    "difficulty": "facile",
+    "question": "Quanto fa 2 + 5?",
+    "operation": "addition",
+    "operands": [
+      2,
+      5
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      7,
+      8
+    ],
+    "visual": [
+      "🦕",
+      "🦕",
+      "+",
+      "🦕",
+      "🦕",
+      "🦕",
+      "🦕",
+      "🦕"
+    ]
+  },
+  {
+    "id": "add-016",
+    "difficulty": "facile",
+    "question": "Quanto fa 6 + 1?",
+    "operation": "addition",
+    "operands": [
+      6,
+      1
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      7,
+      8
+    ],
+    "visual": [
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "+",
+      "🌙"
+    ]
+  },
+  {
+    "id": "add-017",
+    "difficulty": "facile",
+    "question": "Quanto fa 1 + 6?",
+    "operation": "addition",
+    "operands": [
+      1,
+      6
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      7,
+      8
+    ],
+    "visual": [
+      "🐚",
+      "+",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚"
+    ]
+  },
+  {
+    "id": "add-018",
+    "difficulty": "facile",
+    "question": "Quanto fa 4 + 3?",
+    "operation": "addition",
+    "operands": [
+      4,
+      3
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      7,
+      8
+    ],
+    "visual": [
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽",
+      "+",
+      "⚽",
+      "⚽",
+      "⚽"
+    ]
+  },
+  {
+    "id": "add-019",
+    "difficulty": "facile",
+    "question": "Quanto fa 3 + 4?",
+    "operation": "addition",
+    "operands": [
+      3,
+      4
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      7,
+      8
+    ],
+    "visual": [
+      "🧸",
+      "🧸",
+      "🧸",
+      "+",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸"
+    ]
+  },
+  {
+    "id": "add-020",
+    "difficulty": "facile",
+    "question": "Quanto fa 5 + 5?",
+    "operation": "addition",
+    "operands": [
+      5,
+      5
+    ],
+    "correctAnswer": 10,
+    "answers": [
+      9,
+      8,
+      10
+    ],
+    "visual": [
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "+",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓"
+    ]
+  },
+  {
+    "id": "add-021",
+    "difficulty": "medio",
+    "question": "Quanto fa 6 + 4?",
+    "operation": "addition",
+    "operands": [
+      6,
+      4
+    ],
+    "correctAnswer": 10,
+    "answers": [
+      11,
+      12,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "add-022",
+    "difficulty": "medio",
+    "question": "Quanto fa 7 + 3?",
+    "operation": "addition",
+    "operands": [
+      7,
+      3
+    ],
+    "correctAnswer": 10,
+    "answers": [
+      11,
+      10,
+      9
+    ]
+  },
+  {
+    "id": "add-023",
+    "difficulty": "medio",
+    "question": "Quanto fa 8 + 2?",
+    "operation": "addition",
+    "operands": [
+      8,
+      2
+    ],
+    "correctAnswer": 10,
+    "answers": [
+      11,
+      12,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "add-024",
+    "difficulty": "medio",
+    "question": "Quanto fa 9 + 1?",
+    "operation": "addition",
+    "operands": [
+      9,
+      1
+    ],
+    "correctAnswer": 10,
+    "answers": [
+      11,
+      10,
+      9
+    ]
+  },
+  {
+    "id": "add-025",
+    "difficulty": "medio",
+    "question": "Quanto fa 5 + 6?",
+    "operation": "addition",
+    "operands": [
+      5,
+      6
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      13,
+      11,
+      10
+    ]
+  },
+  {
+    "id": "add-026",
+    "difficulty": "medio",
+    "question": "Quanto fa 7 + 5?",
+    "operation": "addition",
+    "operands": [
+      7,
+      5
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      13,
+      12,
+      11
+    ]
+  },
+  {
+    "id": "add-027",
+    "difficulty": "medio",
+    "question": "Quanto fa 8 + 4?",
+    "operation": "addition",
+    "operands": [
+      8,
+      4
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      13,
+      12,
+      14,
+      11
+    ]
+  },
+  {
+    "id": "add-028",
+    "difficulty": "medio",
+    "question": "Quanto fa 9 + 3?",
+    "operation": "addition",
+    "operands": [
+      9,
+      3
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      13,
+      12,
+      11
+    ]
+  },
+  {
+    "id": "add-029",
+    "difficulty": "medio",
+    "question": "Quanto fa 10 + 2?",
+    "operation": "addition",
+    "operands": [
+      10,
+      2
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      13,
+      12,
+      14,
+      11
+    ]
+  },
+  {
+    "id": "add-030",
+    "difficulty": "medio",
+    "question": "Quanto fa 6 + 7?",
+    "operation": "addition",
+    "operands": [
+      6,
+      7
+    ],
+    "correctAnswer": 13,
+    "answers": [
+      14,
+      13,
+      12
+    ]
+  },
+  {
+    "id": "add-031",
+    "difficulty": "medio",
+    "question": "Quanto fa 8 + 6?",
+    "operation": "addition",
+    "operands": [
+      8,
+      6
+    ],
+    "correctAnswer": 14,
+    "answers": [
+      14,
+      16,
+      15,
+      13
+    ]
+  },
+  {
+    "id": "add-032",
+    "difficulty": "medio",
+    "question": "Quanto fa 9 + 5?",
+    "operation": "addition",
+    "operands": [
+      9,
+      5
+    ],
+    "correctAnswer": 14,
+    "answers": [
+      15,
+      14,
+      13
+    ]
+  },
+  {
+    "id": "add-033",
+    "difficulty": "medio",
+    "question": "Quanto fa 10 + 4?",
+    "operation": "addition",
+    "operands": [
+      10,
+      4
+    ],
+    "correctAnswer": 14,
+    "answers": [
+      14,
+      16,
+      15,
+      13
+    ]
+  },
+  {
+    "id": "add-034",
+    "difficulty": "medio",
+    "question": "Quanto fa 7 + 8?",
+    "operation": "addition",
+    "operands": [
+      7,
+      8
+    ],
+    "correctAnswer": 15,
+    "answers": [
+      15,
+      14,
+      16
+    ]
+  },
+  {
+    "id": "add-035",
+    "difficulty": "medio",
+    "question": "Quanto fa 11 + 3?",
+    "operation": "addition",
+    "operands": [
+      11,
+      3
+    ],
+    "correctAnswer": 14,
+    "answers": [
+      14,
+      16,
+      15,
+      13
+    ]
+  },
+  {
+    "id": "add-036",
+    "difficulty": "medio",
+    "question": "Quanto fa 12 + 4?",
+    "operation": "addition",
+    "operands": [
+      12,
+      4
+    ],
+    "correctAnswer": 16,
+    "answers": [
+      17,
+      15,
+      16
+    ]
+  },
+  {
+    "id": "add-037",
+    "difficulty": "medio",
+    "question": "Quanto fa 13 + 5?",
+    "operation": "addition",
+    "operands": [
+      13,
+      5
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "add-038",
+    "difficulty": "medio",
+    "question": "Quanto fa 14 + 2?",
+    "operation": "addition",
+    "operands": [
+      14,
+      2
+    ],
+    "correctAnswer": 16,
+    "answers": [
+      17,
+      15,
+      16
+    ]
+  },
+  {
+    "id": "add-039",
+    "difficulty": "medio",
+    "question": "Quanto fa 15 + 4?",
+    "operation": "addition",
+    "operands": [
+      15,
+      4
+    ],
+    "correctAnswer": 19,
+    "answers": [
+      18,
+      20,
+      17,
+      19
+    ]
+  },
+  {
+    "id": "add-040",
+    "difficulty": "medio",
+    "question": "Quanto fa 10 + 10?",
+    "operation": "addition",
+    "operands": [
+      10,
+      10
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      18,
+      20,
+      19
+    ]
+  },
+  {
+    "id": "add-041",
+    "difficulty": "difficile",
+    "question": "Quanto fa 11 + 9?",
+    "operation": "addition",
+    "operands": [
+      11,
+      9
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-042",
+    "difficulty": "difficile",
+    "question": "Quanto fa 12 + 8?",
+    "operation": "addition",
+    "operands": [
+      12,
+      8
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-043",
+    "difficulty": "difficile",
+    "question": "Quanto fa 13 + 7?",
+    "operation": "addition",
+    "operands": [
+      13,
+      7
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-044",
+    "difficulty": "difficile",
+    "question": "Quanto fa 14 + 6?",
+    "operation": "addition",
+    "operands": [
+      14,
+      6
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-045",
+    "difficulty": "difficile",
+    "question": "Quanto fa 15 + 5?",
+    "operation": "addition",
+    "operands": [
+      15,
+      5
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-046",
+    "difficulty": "difficile",
+    "question": "Quanto fa 16 + 4?",
+    "operation": "addition",
+    "operands": [
+      16,
+      4
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-047",
+    "difficulty": "difficile",
+    "question": "Quanto fa 17 + 3?",
+    "operation": "addition",
+    "operands": [
+      17,
+      3
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-048",
+    "difficulty": "difficile",
+    "question": "Quanto fa 18 + 2?",
+    "operation": "addition",
+    "operands": [
+      18,
+      2
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-049",
+    "difficulty": "difficile",
+    "question": "Quanto fa 19 + 1?",
+    "operation": "addition",
+    "operands": [
+      19,
+      1
+    ],
+    "correctAnswer": 20,
+    "answers": [
+      21,
+      20,
+      22,
+      19
+    ]
+  },
+  {
+    "id": "add-050",
+    "difficulty": "difficile",
+    "question": "Quanto fa 11 + 12?",
+    "operation": "addition",
+    "operands": [
+      11,
+      12
+    ],
+    "correctAnswer": 23,
+    "answers": [
+      22,
+      25,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "add-051",
+    "difficulty": "difficile",
+    "question": "Quanto fa 13 + 10?",
+    "operation": "addition",
+    "operands": [
+      13,
+      10
+    ],
+    "correctAnswer": 23,
+    "answers": [
+      22,
+      25,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "add-052",
+    "difficulty": "difficile",
+    "question": "Quanto fa 14 + 11?",
+    "operation": "addition",
+    "operands": [
+      14,
+      11
+    ],
+    "correctAnswer": 25,
+    "answers": [
+      25,
+      26,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "add-053",
+    "difficulty": "difficile",
+    "question": "Quanto fa 15 + 12?",
+    "operation": "addition",
+    "operands": [
+      15,
+      12
+    ],
+    "correctAnswer": 27,
+    "answers": [
+      28,
+      27,
+      26,
+      29
+    ]
+  },
+  {
+    "id": "add-054",
+    "difficulty": "difficile",
+    "question": "Quanto fa 16 + 9?",
+    "operation": "addition",
+    "operands": [
+      16,
+      9
+    ],
+    "correctAnswer": 25,
+    "answers": [
+      25,
+      26,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "add-055",
+    "difficulty": "difficile",
+    "question": "Quanto fa 17 + 8?",
+    "operation": "addition",
+    "operands": [
+      17,
+      8
+    ],
+    "correctAnswer": 25,
+    "answers": [
+      25,
+      26,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "add-056",
+    "difficulty": "difficile",
+    "question": "Quanto fa 18 + 7?",
+    "operation": "addition",
+    "operands": [
+      18,
+      7
+    ],
+    "correctAnswer": 25,
+    "answers": [
+      25,
+      26,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "add-057",
+    "difficulty": "difficile",
+    "question": "Quanto fa 19 + 6?",
+    "operation": "addition",
+    "operands": [
+      19,
+      6
+    ],
+    "correctAnswer": 25,
+    "answers": [
+      25,
+      26,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "add-058",
+    "difficulty": "difficile",
+    "question": "Quanto fa 20 + 5?",
+    "operation": "addition",
+    "operands": [
+      20,
+      5
+    ],
+    "correctAnswer": 25,
+    "answers": [
+      25,
+      26,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "add-059",
+    "difficulty": "difficile",
+    "question": "Quanto fa 21 + 4?",
+    "operation": "addition",
+    "operands": [
+      21,
+      4
+    ],
+    "correctAnswer": 25,
+    "answers": [
+      25,
+      26,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "add-060",
+    "difficulty": "difficile",
+    "question": "Quanto fa 22 + 8?",
+    "operation": "addition",
+    "operands": [
+      22,
+      8
+    ],
+    "correctAnswer": 30,
+    "answers": [
+      27,
+      29,
+      30,
+      28
+    ]
+  }
+]

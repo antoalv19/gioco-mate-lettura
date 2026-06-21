@@ -1,0 +1,14 @@
+[
+  {"id":"sub-001","difficulty":"facile","question":"Quanto fa 5 − 2?","operation":"subtraction","operands":[5,2],"correctAnswer":3,"answers":[2,3,4],"visual":["🐟🐟🐟🐟🐟","−","🐟🐟"]},
+  {"id":"sub-002","difficulty":"facile","question":"Quanto fa 7 − 3?","operation":"subtraction","operands":[7,3],"correctAnswer":4,"answers":[3,4,5]},
+  {"id":"sub-003","difficulty":"facile","question":"Quanto fa 9 − 4?","operation":"subtraction","operands":[9,4],"correctAnswer":5,"answers":[4,5,6]},
+  {"id":"sub-004","difficulty":"facile","question":"Quanto fa 6 − 1?","operation":"subtraction","operands":[6,1],"correctAnswer":5,"answers":[4,5,6]},
+  {"id":"sub-005","difficulty":"medio","question":"Quanto fa 15 − 7?","operation":"subtraction","operands":[15,7],"correctAnswer":8,"answers":[7,8,9,10]},
+  {"id":"sub-006","difficulty":"medio","question":"Quanto fa 18 − 6?","operation":"subtraction","operands":[18,6],"correctAnswer":12,"answers":[10,11,12,13]},
+  {"id":"sub-007","difficulty":"medio","question":"Quanto fa 13 − 5?","operation":"subtraction","operands":[13,5],"correctAnswer":8,"answers":[6,7,8,9]},
+  {"id":"sub-008","difficulty":"medio","question":"Quanto fa 20 − 9?","operation":"subtraction","operands":[20,9],"correctAnswer":11,"answers":[9,10,11,12]},
+  {"id":"sub-009","difficulty":"difficile","question":"Quanto fa 27 − 12?","operation":"subtraction","operands":[27,12],"correctAnswer":15,"answers":[13,14,15,16]},
+  {"id":"sub-010","difficulty":"difficile","question":"Quanto fa 30 − 14?","operation":"subtraction","operands":[30,14],"correctAnswer":16,"answers":[14,15,16,17]},
+  {"id":"sub-011","difficulty":"difficile","question":"Quanto fa 25 − 8?","operation":"subtraction","operands":[25,8],"correctAnswer":17,"answers":[15,16,17,18]},
+  {"id":"sub-012","difficulty":"difficile","question":"Quanto fa 29 − 11?","operation":"subtraction","operands":[29,11],"correctAnswer":18,"answers":[16,17,18,19]}
+]

@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "read-letter-001",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "A",
+    "correctAnswer": "A",
+    "answers": [
+      "A",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "id": "read-letter-002",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "E",
+    "correctAnswer": "E",
+    "answers": [
+      "E",
+      "O",
+      "U"
+    ]
+  },
+  {
+    "id": "read-letter-003",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "I",
+    "correctAnswer": "I",
+    "answers": [
+      "I",
+      "U",
+      "M"
+    ]
+  },
+  {
+    "id": "read-letter-004",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "O",
+    "correctAnswer": "O",
+    "answers": [
+      "O",
+      "M",
+      "P"
+    ]
+  },
+  {
+    "id": "read-letter-005",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "U",
+    "correctAnswer": "U",
+    "answers": [
+      "U",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "id": "read-letter-006",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "M",
+    "correctAnswer": "M",
+    "answers": [
+      "M",
+      "S",
+      "L"
+    ]
+  },
+  {
+    "id": "read-letter-007",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "P",
+    "correctAnswer": "P",
+    "answers": [
+      "P",
+      "L",
+      "N"
+    ]
+  },
+  {
+    "id": "read-letter-008",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "S",
+    "correctAnswer": "S",
+    "answers": [
+      "S",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "id": "read-letter-009",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "L",
+    "correctAnswer": "L",
+    "answers": [
+      "L",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "id": "read-letter-010",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "N",
+    "correctAnswer": "N",
+    "answers": [
+      "N",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "id": "read-letter-011",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "T",
+    "correctAnswer": "T",
+    "answers": [
+      "T",
+      "B",
+      "R"
+    ]
+  },
+  {
+    "id": "read-letter-012",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "C",
+    "correctAnswer": "C",
+    "answers": [
+      "C",
+      "R",
+      "D"
+    ]
+  },
+  {
+    "id": "read-letter-013",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "B",
+    "correctAnswer": "B",
+    "answers": [
+      "B",
+      "D",
+      "F"
+    ]
+  },
+  {
+    "id": "read-letter-014",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "R",
+    "correctAnswer": "R",
+    "answers": [
+      "R",
+      "F",
+      "G"
+    ]
+  },
+  {
+    "id": "read-letter-015",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "D",
+    "correctAnswer": "D",
+    "answers": [
+      "D",
+      "G",
+      "Z"
+    ]
+  },
+  {
+    "id": "read-letter-016",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "F",
+    "correctAnswer": "F",
+    "answers": [
+      "F",
+      "Z",
+      "V"
+    ]
+  },
+  {
+    "id": "read-letter-017",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "G",
+    "correctAnswer": "G",
+    "answers": [
+      "G",
+      "A",
+      "E"
+    ]
+  },
+  {
+    "id": "read-letter-018",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "Z",
+    "correctAnswer": "Z",
+    "answers": [
+      "Z",
+      "A",
+      "E"
+    ]
+  },
+  {
+    "id": "read-letter-019",
+    "type": "letter",
+    "difficulty": "facile",
+    "prompt": "Che lettera è?",
+    "display": "V",
+    "correctAnswer": "V",
+    "answers": [
+      "V",
+      "A",
+      "E"
+    ]
+  },
+  {
+    "id": "read-emoji-001",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "APE",
+    "correctAnswer": "🐝",
+    "answers": [
+      "🐝",
+      "☀️",
+      "🌙"
+    ]
+  },
+  {
+    "id": "read-emoji-002",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "UVA",
+    "correctAnswer": "🍇",
+    "answers": [
+      "🍇",
+      "🌙",
+      "🌊"
+    ]
+  },
+  {
+    "id": "read-emoji-003",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "SOLE",
+    "correctAnswer": "☀️",
+    "answers": [
+      "☀️",
+      "🌊",
+      "🍎"
+    ]
+  },
+  {
+    "id": "read-emoji-004",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "LUNA",
+    "correctAnswer": "🌙",
+    "answers": [
+      "🌙",
+      "🍎",
+      "🍞"
+    ]
+  },
+  {
+    "id": "read-emoji-005",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "MARE",
+    "correctAnswer": "🌊",
+    "answers": [
+      "🌊",
+      "🍞",
+      "🚢"
+    ]
+  },
+  {
+    "id": "read-emoji-006",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "MELA",
+    "correctAnswer": "🍎",
+    "answers": [
+      "🍎",
+      "🚢",
+      "🐶"
+    ]
+  },
+  {
+    "id": "read-emoji-007",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "PANE",
+    "correctAnswer": "🍞",
+    "answers": [
+      "🍞",
+      "🐶",
+      "🐱"
+    ]
+  },
+  {
+    "id": "read-emoji-008",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "NAVE",
+    "correctAnswer": "🚢",
+    "answers": [
+      "🚢",
+      "🐱",
+      "🐟"
+    ]
+  },
+  {
+    "id": "read-emoji-009",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "CANE",
+    "correctAnswer": "🐶",
+    "answers": [
+      "🐶",
+      "🐟",
+      "🏠"
+    ]
+  },
+  {
+    "id": "read-emoji-010",
+    "type": "word-to-emoji",
+    "difficulty": "facile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "GATTO",
+    "correctAnswer": "🐱",
+    "answers": [
+      "🐱",
+      "🐝",
+      "🍇"
+    ]
+  },
+  {
+    "id": "read-emoji-011",
+    "type": "emoji-to-word",
+    "difficulty": "facile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🐟",
+    "correctAnswer": "PESCE",
+    "answers": [
+      "PESCE",
+      "CANE",
+      "SOLE"
+    ]
+  },
+  {
+    "id": "read-syllable-001",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "MA",
+    "correctAnswer": "MA",
+    "answers": [
+      "MA",
+      "MI",
+      "MO",
+      "MU"
+    ]
+  },
+  {
+    "id": "read-syllable-002",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "ME",
+    "correctAnswer": "ME",
+    "answers": [
+      "ME",
+      "MO",
+      "MU",
+      "PA"
+    ]
+  },
+  {
+    "id": "read-syllable-003",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "MI",
+    "correctAnswer": "MI",
+    "answers": [
+      "MI",
+      "MU",
+      "PA",
+      "PE"
+    ]
+  },
+  {
+    "id": "read-syllable-004",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "MO",
+    "correctAnswer": "MO",
+    "answers": [
+      "MO",
+      "PA",
+      "PE",
+      "PI"
+    ]
+  },
+  {
+    "id": "read-syllable-005",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "MU",
+    "correctAnswer": "MU",
+    "answers": [
+      "MU",
+      "PE",
+      "PI",
+      "PO"
+    ]
+  },
+  {
+    "id": "read-syllable-006",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "PA",
+    "correctAnswer": "PA",
+    "answers": [
+      "PA",
+      "PI",
+      "PO",
+      "PU"
+    ]
+  },
+  {
+    "id": "read-syllable-007",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "PE",
+    "correctAnswer": "PE",
+    "answers": [
+      "PE",
+      "PO",
+      "PU",
+      "LA"
+    ]
+  },
+  {
+    "id": "read-syllable-008",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "PI",
+    "correctAnswer": "PI",
+    "answers": [
+      "PI",
+      "PU",
+      "LA",
+      "LE"
+    ]
+  },
+  {
+    "id": "read-syllable-009",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "PO",
+    "correctAnswer": "PO",
+    "answers": [
+      "PO",
+      "LA",
+      "LE",
+      "LI"
+    ]
+  },
+  {
+    "id": "read-syllable-010",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "PU",
+    "correctAnswer": "PU",
+    "answers": [
+      "PU",
+      "LE",
+      "LI",
+      "LO"
+    ]
+  },
+  {
+    "id": "read-syllable-011",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "LA",
+    "correctAnswer": "LA",
+    "answers": [
+      "LA",
+      "LI",
+      "LO",
+      "LU"
+    ]
+  },
+  {
+    "id": "read-syllable-012",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "LE",
+    "correctAnswer": "LE",
+    "answers": [
+      "LE",
+      "LO",
+      "LU",
+      "SA"
+    ]
+  },
+  {
+    "id": "read-syllable-013",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "LI",
+    "correctAnswer": "LI",
+    "answers": [
+      "LI",
+      "LU",
+      "SA",
+      "SE"
+    ]
+  },
+  {
+    "id": "read-syllable-014",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "LO",
+    "correctAnswer": "LO",
+    "answers": [
+      "LO",
+      "SA",
+      "SE",
+      "SI"
+    ]
+  },
+  {
+    "id": "read-syllable-015",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "LU",
+    "correctAnswer": "LU",
+    "answers": [
+      "LU",
+      "SE",
+      "SI",
+      "SO"
+    ]
+  },
+  {
+    "id": "read-syllable-016",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "SA",
+    "correctAnswer": "SA",
+    "answers": [
+      "SA",
+      "SI",
+      "SO",
+      "SU"
+    ]
+  },
+  {
+    "id": "read-syllable-017",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "SE",
+    "correctAnswer": "SE",
+    "answers": [
+      "SE",
+      "SO",
+      "SU",
+      "CA"
+    ]
+  },
+  {
+    "id": "read-syllable-018",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "SI",
+    "correctAnswer": "SI",
+    "answers": [
+      "SI",
+      "SU",
+      "CA",
+      "CO"
+    ]
+  },
+  {
+    "id": "read-syllable-019",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "SO",
+    "correctAnswer": "SO",
+    "answers": [
+      "SO",
+      "CA",
+      "CO",
+      "CU"
+    ]
+  },
+  {
+    "id": "read-syllable-020",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "SU",
+    "correctAnswer": "SU",
+    "answers": [
+      "SU",
+      "CO",
+      "CU",
+      "TA"
+    ]
+  },
+  {
+    "id": "read-syllable-021",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "CA",
+    "correctAnswer": "CA",
+    "answers": [
+      "CA",
+      "CU",
+      "TA",
+      "TE"
+    ]
+  },
+  {
+    "id": "read-syllable-022",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "CO",
+    "correctAnswer": "CO",
+    "answers": [
+      "CO",
+      "TA",
+      "TE",
+      "TI"
+    ]
+  },
+  {
+    "id": "read-syllable-023",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "CU",
+    "correctAnswer": "CU",
+    "answers": [
+      "CU",
+      "TE",
+      "TI",
+      "TO"
+    ]
+  },
+  {
+    "id": "read-syllable-024",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "TA",
+    "correctAnswer": "TA",
+    "answers": [
+      "TA",
+      "TI",
+      "TO",
+      "NA"
+    ]
+  },
+  {
+    "id": "read-syllable-025",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "TE",
+    "correctAnswer": "TE",
+    "answers": [
+      "TE",
+      "TO",
+      "NA",
+      "NE"
+    ]
+  },
+  {
+    "id": "read-syllable-026",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "TI",
+    "correctAnswer": "TI",
+    "answers": [
+      "TI",
+      "NA",
+      "NE",
+      "NO"
+    ]
+  },
+  {
+    "id": "read-syllable-027",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "TO",
+    "correctAnswer": "TO",
+    "answers": [
+      "TO",
+      "MA",
+      "ME",
+      "MI"
+    ]
+  },
+  {
+    "id": "read-syllable-028",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "NA",
+    "correctAnswer": "NA",
+    "answers": [
+      "NA",
+      "MA",
+      "ME",
+      "MI"
+    ]
+  },
+  {
+    "id": "read-syllable-029",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "NE",
+    "correctAnswer": "NE",
+    "answers": [
+      "NE",
+      "MA",
+      "ME",
+      "MI"
+    ]
+  },
+  {
+    "id": "read-syllable-030",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che sillaba è?",
+    "display": "NO",
+    "correctAnswer": "NO",
+    "answers": [
+      "NO",
+      "MA",
+      "ME",
+      "MI"
+    ]
+  },
+  {
+    "id": "read-word-001",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "MARE",
+    "correctAnswer": "🌊",
+    "answers": [
+      "🌊",
+      "🍇",
+      "☀️",
+      "🌙"
+    ]
+  },
+  {
+    "id": "read-word-002",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "SOLE",
+    "correctAnswer": "☀️",
+    "answers": [
+      "☀️",
+      "🌙",
+      "🌊",
+      "🍎"
+    ]
+  },
+  {
+    "id": "read-word-003",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "CANE",
+    "correctAnswer": "🐶",
+    "answers": [
+      "🐶",
+      "🌙",
+      "🌊",
+      "🍎"
+    ]
+  },
+  {
+    "id": "read-word-004",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "GATTO",
+    "correctAnswer": "🐱",
+    "answers": [
+      "🐱",
+      "🌊",
+      "🍎",
+      "🍞"
+    ]
+  },
+  {
+    "id": "read-word-005",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "LUNA",
+    "correctAnswer": "🌙",
+    "answers": [
+      "🌙",
+      "🍞",
+      "🚢",
+      "🐶"
+    ]
+  },
+  {
+    "id": "read-word-006",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "NAVE",
+    "correctAnswer": "🚢",
+    "answers": [
+      "🚢",
+      "🍞",
+      "🐶",
+      "🐱"
+    ]
+  },
+  {
+    "id": "read-word-007",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "PESCE",
+    "correctAnswer": "🐟",
+    "answers": [
+      "🐟",
+      "🚢",
+      "🐶",
+      "🐱"
+    ]
+  },
+  {
+    "id": "read-word-008",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "CASA",
+    "correctAnswer": "🏠",
+    "answers": [
+      "🏠",
+      "🐶",
+      "🐱",
+      "🐟"
+    ]
+  },
+  {
+    "id": "read-word-009",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "MANO",
+    "correctAnswer": "✋",
+    "answers": [
+      "✋",
+      "🐱",
+      "🐟",
+      "🏠"
+    ]
+  },
+  {
+    "id": "read-word-010",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "PALLA",
+    "correctAnswer": "⚽",
+    "answers": [
+      "⚽",
+      "🐟",
+      "🏠",
+      "🌸"
+    ]
+  },
+  {
+    "id": "read-word-011",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "MELA",
+    "correctAnswer": "🍎",
+    "answers": [
+      "🍎",
+      "🌸",
+      "⚽",
+      "✋"
+    ]
+  },
+  {
+    "id": "read-word-012",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "PANE",
+    "correctAnswer": "🍞",
+    "answers": [
+      "🍞",
+      "⚽",
+      "✋",
+      "⭐"
+    ]
+  },
+  {
+    "id": "read-word-013",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "FIORE",
+    "correctAnswer": "🌸",
+    "answers": [
+      "🌸",
+      "✋",
+      "⭐",
+      "🚆"
+    ]
+  },
+  {
+    "id": "read-word-014",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "STELLA",
+    "correctAnswer": "⭐",
+    "answers": [
+      "⭐",
+      "✋",
+      "🚆",
+      "🚗"
+    ]
+  },
+  {
+    "id": "read-word-015",
+    "type": "word-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "TRENO",
+    "correctAnswer": "🚆",
+    "answers": [
+      "🚆",
+      "⭐",
+      "🚗",
+      "⛵"
+    ]
+  },
+  {
+    "id": "read-word-016",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🚗",
+    "correctAnswer": "AUTO",
+    "answers": [
+      "AUTO",
+      "FOCA",
+      "RANA",
+      "TOPO"
+    ]
+  },
+  {
+    "id": "read-word-017",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "⛵",
+    "correctAnswer": "BARCA",
+    "answers": [
+      "BARCA",
+      "RANA",
+      "TOPO",
+      "LEONE"
+    ]
+  },
+  {
+    "id": "read-word-018",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🦭",
+    "correctAnswer": "FOCA",
+    "answers": [
+      "FOCA",
+      "TOPO",
+      "LEONE",
+      "ORSO"
+    ]
+  },
+  {
+    "id": "read-word-019",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🐸",
+    "correctAnswer": "RANA",
+    "answers": [
+      "RANA",
+      "LEONE",
+      "ORSO",
+      "UCCELLO"
+    ]
+  },
+  {
+    "id": "read-word-020",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🐭",
+    "correctAnswer": "TOPO",
+    "answers": [
+      "TOPO",
+      "ORSO",
+      "UCCELLO",
+      "ALBERO"
+    ]
+  },
+  {
+    "id": "read-word-021",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🦁",
+    "correctAnswer": "LEONE",
+    "answers": [
+      "LEONE",
+      "UCCELLO",
+      "ALBERO",
+      "NUVOLA"
+    ]
+  },
+  {
+    "id": "read-word-022",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🐻",
+    "correctAnswer": "ORSO",
+    "answers": [
+      "ORSO",
+      "ALBERO",
+      "NUVOLA",
+      "MATITA"
+    ]
+  },
+  {
+    "id": "read-word-023",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🐦",
+    "correctAnswer": "UCCELLO",
+    "answers": [
+      "UCCELLO",
+      "NUVOLA",
+      "MATITA",
+      "LIBRO"
+    ]
+  },
+  {
+    "id": "read-word-024",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🌳",
+    "correctAnswer": "ALBERO",
+    "answers": [
+      "ALBERO",
+      "MATITA",
+      "LIBRO",
+      "LETTO"
+    ]
+  },
+  {
+    "id": "read-word-025",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "☁️",
+    "correctAnswer": "NUVOLA",
+    "answers": [
+      "NUVOLA",
+      "LIBRO",
+      "LETTO",
+      "TAZZA"
+    ]
+  },
+  {
+    "id": "read-word-026",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "✏️",
+    "correctAnswer": "MATITA",
+    "answers": [
+      "MATITA",
+      "LETTO",
+      "TAZZA",
+      "GELATO"
+    ]
+  },
+  {
+    "id": "read-word-027",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "📘",
+    "correctAnswer": "LIBRO",
+    "answers": [
+      "LIBRO",
+      "TAZZA",
+      "GELATO"
+    ]
+  },
+  {
+    "id": "read-word-028",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🛏️",
+    "correctAnswer": "LETTO",
+    "answers": [
+      "LETTO",
+      "GELATO"
+    ]
+  },
+  {
+    "id": "read-word-029",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "☕",
+    "correctAnswer": "TAZZA",
+    "answers": [
+      "TAZZA"
+    ]
+  },
+  {
+    "id": "read-word-030",
+    "type": "emoji-to-word",
+    "difficulty": "difficile",
+    "prompt": "Scegli la parola giusta",
+    "display": "🍦",
+    "correctAnswer": "GELATO",
+    "answers": [
+      "GELATO"
+    ]
+  }
+]

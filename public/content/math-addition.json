@@ -1,0 +1,14 @@
+[
+  {"id":"add-001","difficulty":"facile","question":"Quanto fa 2 + 3?","operation":"addition","operands":[2,3],"correctAnswer":5,"answers":[4,5,6],"visual":["⭐⭐","+","⭐⭐⭐"]},
+  {"id":"add-002","difficulty":"facile","question":"Quanto fa 1 + 4?","operation":"addition","operands":[1,4],"correctAnswer":5,"answers":[3,5,6],"visual":["🍎","+","🍎🍎🍎🍎"]},
+  {"id":"add-003","difficulty":"facile","question":"Quanto fa 3 + 3?","operation":"addition","operands":[3,3],"correctAnswer":6,"answers":[5,6,7],"visual":["🐟🐟🐟","+","🐟🐟🐟"]},
+  {"id":"add-004","difficulty":"facile","question":"Quanto fa 4 + 2?","operation":"addition","operands":[4,2],"correctAnswer":6,"answers":[4,6,7]},
+  {"id":"add-005","difficulty":"medio","question":"Quanto fa 8 + 7?","operation":"addition","operands":[8,7],"correctAnswer":15,"answers":[14,15,16,17]},
+  {"id":"add-006","difficulty":"medio","question":"Quanto fa 6 + 9?","operation":"addition","operands":[6,9],"correctAnswer":15,"answers":[13,14,15,16]},
+  {"id":"add-007","difficulty":"medio","question":"Quanto fa 10 + 4?","operation":"addition","operands":[10,4],"correctAnswer":14,"answers":[12,13,14,15]},
+  {"id":"add-008","difficulty":"medio","question":"Quanto fa 7 + 5?","operation":"addition","operands":[7,5],"correctAnswer":12,"answers":[11,12,13,14]},
+  {"id":"add-009","difficulty":"difficile","question":"Quanto fa 14 + 9?","operation":"addition","operands":[14,9],"correctAnswer":23,"answers":[21,22,23,24]},
+  {"id":"add-010","difficulty":"difficile","question":"Quanto fa 16 + 12?","operation":"addition","operands":[16,12],"correctAnswer":28,"answers":[26,27,28,29]},
+  {"id":"add-011","difficulty":"difficile","question":"Quanto fa 18 + 7?","operation":"addition","operands":[18,7],"correctAnswer":25,"answers":[23,24,25,26]},
+  {"id":"add-012","difficulty":"difficile","question":"Quanto fa 13 + 11?","operation":"addition","operands":[13,11],"correctAnswer":24,"answers":[22,23,24,25]}
+]

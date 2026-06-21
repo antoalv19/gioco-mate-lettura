@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "sub-001",
+    "difficulty": "facile",
+    "question": "Quanto fa 2 - 1?",
+    "operation": "subtraction",
+    "operands": [
+      2,
+      1
+    ],
+    "correctAnswer": 1,
+    "answers": [
+      2,
+      0,
+      1
+    ],
+    "visual": [
+      "⭐",
+      "⭐"
+    ]
+  },
+  {
+    "id": "sub-002",
+    "difficulty": "facile",
+    "question": "Quanto fa 3 - 1?",
+    "operation": "subtraction",
+    "operands": [
+      3,
+      1
+    ],
+    "correctAnswer": 2,
+    "answers": [
+      1,
+      3,
+      2
+    ],
+    "visual": [
+      "🍎",
+      "🍎",
+      "🍎"
+    ]
+  },
+  {
+    "id": "sub-003",
+    "difficulty": "facile",
+    "question": "Quanto fa 3 - 2?",
+    "operation": "subtraction",
+    "operands": [
+      3,
+      2
+    ],
+    "correctAnswer": 1,
+    "answers": [
+      2,
+      0,
+      1
+    ],
+    "visual": [
+      "🐟",
+      "🐟",
+      "🐟"
+    ]
+  },
+  {
+    "id": "sub-004",
+    "difficulty": "facile",
+    "question": "Quanto fa 4 - 1?",
+    "operation": "subtraction",
+    "operands": [
+      4,
+      1
+    ],
+    "correctAnswer": 3,
+    "answers": [
+      2,
+      3,
+      4
+    ],
+    "visual": [
+      "🚗",
+      "🚗",
+      "🚗",
+      "🚗"
+    ]
+  },
+  {
+    "id": "sub-005",
+    "difficulty": "facile",
+    "question": "Quanto fa 4 - 2?",
+    "operation": "subtraction",
+    "operands": [
+      4,
+      2
+    ],
+    "correctAnswer": 2,
+    "answers": [
+      1,
+      3,
+      2
+    ],
+    "visual": [
+      "🦕",
+      "🦕",
+      "🦕",
+      "🦕"
+    ]
+  },
+  {
+    "id": "sub-006",
+    "difficulty": "facile",
+    "question": "Quanto fa 5 - 1?",
+    "operation": "subtraction",
+    "operands": [
+      5,
+      1
+    ],
+    "correctAnswer": 4,
+    "answers": [
+      4,
+      5,
+      3
+    ],
+    "visual": [
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙"
+    ]
+  },
+  {
+    "id": "sub-007",
+    "difficulty": "facile",
+    "question": "Quanto fa 5 - 2?",
+    "operation": "subtraction",
+    "operands": [
+      5,
+      2
+    ],
+    "correctAnswer": 3,
+    "answers": [
+      2,
+      3,
+      4
+    ],
+    "visual": [
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚"
+    ]
+  },
+  {
+    "id": "sub-008",
+    "difficulty": "facile",
+    "question": "Quanto fa 5 - 3?",
+    "operation": "subtraction",
+    "operands": [
+      5,
+      3
+    ],
+    "correctAnswer": 2,
+    "answers": [
+      1,
+      3,
+      2
+    ],
+    "visual": [
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽"
+    ]
+  },
+  {
+    "id": "sub-009",
+    "difficulty": "facile",
+    "question": "Quanto fa 6 - 1?",
+    "operation": "subtraction",
+    "operands": [
+      6,
+      1
+    ],
+    "correctAnswer": 5,
+    "answers": [
+      5,
+      4,
+      6
+    ],
+    "visual": [
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸"
+    ]
+  },
+  {
+    "id": "sub-010",
+    "difficulty": "facile",
+    "question": "Quanto fa 6 - 2?",
+    "operation": "subtraction",
+    "operands": [
+      6,
+      2
+    ],
+    "correctAnswer": 4,
+    "answers": [
+      4,
+      5,
+      3
+    ],
+    "visual": [
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓"
+    ]
+  },
+  {
+    "id": "sub-011",
+    "difficulty": "facile",
+    "question": "Quanto fa 6 - 3?",
+    "operation": "subtraction",
+    "operands": [
+      6,
+      3
+    ],
+    "correctAnswer": 3,
+    "answers": [
+      2,
+      3,
+      4
+    ],
+    "visual": [
+      "⭐",
+      "⭐",
+      "⭐",
+      "⭐",
+      "⭐",
+      "⭐"
+    ]
+  },
+  {
+    "id": "sub-012",
+    "difficulty": "facile",
+    "question": "Quanto fa 7 - 2?",
+    "operation": "subtraction",
+    "operands": [
+      7,
+      2
+    ],
+    "correctAnswer": 5,
+    "answers": [
+      5,
+      4,
+      6
+    ],
+    "visual": [
+      "🍎",
+      "🍎",
+      "🍎",
+      "🍎",
+      "🍎",
+      "🍎",
+      "🍎"
+    ]
+  },
+  {
+    "id": "sub-013",
+    "difficulty": "facile",
+    "question": "Quanto fa 7 - 3?",
+    "operation": "subtraction",
+    "operands": [
+      7,
+      3
+    ],
+    "correctAnswer": 4,
+    "answers": [
+      4,
+      5,
+      3
+    ],
+    "visual": [
+      "🐟",
+      "🐟",
+      "🐟",
+      "🐟",
+      "🐟",
+      "🐟",
+      "🐟"
+    ]
+  },
+  {
+    "id": "sub-014",
+    "difficulty": "facile",
+    "question": "Quanto fa 8 - 1?",
+    "operation": "subtraction",
+    "operands": [
+      8,
+      1
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      8,
+      7
+    ],
+    "visual": [
+      "🚗",
+      "🚗",
+      "🚗",
+      "🚗",
+      "🚗",
+      "🚗",
+      "🚗",
+      "🚗"
+    ]
+  },
+  {
+    "id": "sub-015",
+    "difficulty": "facile",
+    "question": "Quanto fa 8 - 4?",
+    "operation": "subtraction",
+    "operands": [
+      8,
+      4
+    ],
+    "correctAnswer": 4,
+    "answers": [
+      4,
+      5,
+      3
+    ],
+    "visual": [
+      "🦕",
+      "🦕",
+      "🦕",
+      "🦕",
+      "🦕",
+      "🦕",
+      "🦕",
+      "🦕"
+    ]
+  },
+  {
+    "id": "sub-016",
+    "difficulty": "facile",
+    "question": "Quanto fa 9 - 2?",
+    "operation": "subtraction",
+    "operands": [
+      9,
+      2
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      8,
+      7
+    ],
+    "visual": [
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙",
+      "🌙"
+    ]
+  },
+  {
+    "id": "sub-017",
+    "difficulty": "facile",
+    "question": "Quanto fa 9 - 5?",
+    "operation": "subtraction",
+    "operands": [
+      9,
+      5
+    ],
+    "correctAnswer": 4,
+    "answers": [
+      4,
+      5,
+      3
+    ],
+    "visual": [
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚",
+      "🐚"
+    ]
+  },
+  {
+    "id": "sub-018",
+    "difficulty": "facile",
+    "question": "Quanto fa 10 - 1?",
+    "operation": "subtraction",
+    "operands": [
+      10,
+      1
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      10,
+      9,
+      8
+    ],
+    "visual": [
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽",
+      "⚽"
+    ]
+  },
+  {
+    "id": "sub-019",
+    "difficulty": "facile",
+    "question": "Quanto fa 10 - 4?",
+    "operation": "subtraction",
+    "operands": [
+      10,
+      4
+    ],
+    "correctAnswer": 6,
+    "answers": [
+      5,
+      7,
+      6
+    ],
+    "visual": [
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸",
+      "🧸"
+    ]
+  },
+  {
+    "id": "sub-020",
+    "difficulty": "facile",
+    "question": "Quanto fa 10 - 5?",
+    "operation": "subtraction",
+    "operands": [
+      10,
+      5
+    ],
+    "correctAnswer": 5,
+    "answers": [
+      5,
+      4,
+      6
+    ],
+    "visual": [
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓",
+      "🍓"
+    ]
+  },
+  {
+    "id": "sub-021",
+    "difficulty": "medio",
+    "question": "Quanto fa 11 - 2?",
+    "operation": "subtraction",
+    "operands": [
+      11,
+      2
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      9,
+      10,
+      11,
+      8
+    ]
+  },
+  {
+    "id": "sub-022",
+    "difficulty": "medio",
+    "question": "Quanto fa 12 - 3?",
+    "operation": "subtraction",
+    "operands": [
+      12,
+      3
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "sub-023",
+    "difficulty": "medio",
+    "question": "Quanto fa 13 - 4?",
+    "operation": "subtraction",
+    "operands": [
+      13,
+      4
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      9,
+      10,
+      11,
+      8
+    ]
+  },
+  {
+    "id": "sub-024",
+    "difficulty": "medio",
+    "question": "Quanto fa 14 - 5?",
+    "operation": "subtraction",
+    "operands": [
+      14,
+      5
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "sub-025",
+    "difficulty": "medio",
+    "question": "Quanto fa 15 - 6?",
+    "operation": "subtraction",
+    "operands": [
+      15,
+      6
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      9,
+      10,
+      11,
+      8
+    ]
+  },
+  {
+    "id": "sub-026",
+    "difficulty": "medio",
+    "question": "Quanto fa 16 - 7?",
+    "operation": "subtraction",
+    "operands": [
+      16,
+      7
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "sub-027",
+    "difficulty": "medio",
+    "question": "Quanto fa 17 - 8?",
+    "operation": "subtraction",
+    "operands": [
+      17,
+      8
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      9,
+      10,
+      11,
+      8
+    ]
+  },
+  {
+    "id": "sub-028",
+    "difficulty": "medio",
+    "question": "Quanto fa 18 - 9?",
+    "operation": "subtraction",
+    "operands": [
+      18,
+      9
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "sub-029",
+    "difficulty": "medio",
+    "question": "Quanto fa 19 - 10?",
+    "operation": "subtraction",
+    "operands": [
+      19,
+      10
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      9,
+      10,
+      11,
+      8
+    ]
+  },
+  {
+    "id": "sub-030",
+    "difficulty": "medio",
+    "question": "Quanto fa 20 - 11?",
+    "operation": "subtraction",
+    "operands": [
+      20,
+      11
+    ],
+    "correctAnswer": 9,
+    "answers": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "sub-031",
+    "difficulty": "medio",
+    "question": "Quanto fa 12 - 5?",
+    "operation": "subtraction",
+    "operands": [
+      12,
+      5
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      7,
+      9,
+      8
+    ]
+  },
+  {
+    "id": "sub-032",
+    "difficulty": "medio",
+    "question": "Quanto fa 14 - 7?",
+    "operation": "subtraction",
+    "operands": [
+      14,
+      7
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      8,
+      7
+    ]
+  },
+  {
+    "id": "sub-033",
+    "difficulty": "medio",
+    "question": "Quanto fa 16 - 9?",
+    "operation": "subtraction",
+    "operands": [
+      16,
+      9
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      7,
+      9,
+      8
+    ]
+  },
+  {
+    "id": "sub-034",
+    "difficulty": "medio",
+    "question": "Quanto fa 18 - 6?",
+    "operation": "subtraction",
+    "operands": [
+      18,
+      6
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      11,
+      13,
+      12
+    ]
+  },
+  {
+    "id": "sub-035",
+    "difficulty": "medio",
+    "question": "Quanto fa 20 - 8?",
+    "operation": "subtraction",
+    "operands": [
+      20,
+      8
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      14,
+      13,
+      12,
+      11
+    ]
+  },
+  {
+    "id": "sub-036",
+    "difficulty": "medio",
+    "question": "Quanto fa 15 - 3?",
+    "operation": "subtraction",
+    "operands": [
+      15,
+      3
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      11,
+      13,
+      12
+    ]
+  },
+  {
+    "id": "sub-037",
+    "difficulty": "medio",
+    "question": "Quanto fa 17 - 5?",
+    "operation": "subtraction",
+    "operands": [
+      17,
+      5
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      14,
+      13,
+      12,
+      11
+    ]
+  },
+  {
+    "id": "sub-038",
+    "difficulty": "medio",
+    "question": "Quanto fa 19 - 7?",
+    "operation": "subtraction",
+    "operands": [
+      19,
+      7
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      11,
+      13,
+      12
+    ]
+  },
+  {
+    "id": "sub-039",
+    "difficulty": "medio",
+    "question": "Quanto fa 20 - 4?",
+    "operation": "subtraction",
+    "operands": [
+      20,
+      4
+    ],
+    "correctAnswer": 16,
+    "answers": [
+      18,
+      17,
+      15,
+      16
+    ]
+  },
+  {
+    "id": "sub-040",
+    "difficulty": "medio",
+    "question": "Quanto fa 13 - 6?",
+    "operation": "subtraction",
+    "operands": [
+      13,
+      6
+    ],
+    "correctAnswer": 7,
+    "answers": [
+      6,
+      8,
+      7
+    ]
+  },
+  {
+    "id": "sub-041",
+    "difficulty": "difficile",
+    "question": "Quanto fa 21 - 3?",
+    "operation": "subtraction",
+    "operands": [
+      21,
+      3
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-042",
+    "difficulty": "difficile",
+    "question": "Quanto fa 22 - 4?",
+    "operation": "subtraction",
+    "operands": [
+      22,
+      4
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-043",
+    "difficulty": "difficile",
+    "question": "Quanto fa 23 - 5?",
+    "operation": "subtraction",
+    "operands": [
+      23,
+      5
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-044",
+    "difficulty": "difficile",
+    "question": "Quanto fa 24 - 6?",
+    "operation": "subtraction",
+    "operands": [
+      24,
+      6
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-045",
+    "difficulty": "difficile",
+    "question": "Quanto fa 25 - 7?",
+    "operation": "subtraction",
+    "operands": [
+      25,
+      7
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-046",
+    "difficulty": "difficile",
+    "question": "Quanto fa 26 - 8?",
+    "operation": "subtraction",
+    "operands": [
+      26,
+      8
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-047",
+    "difficulty": "difficile",
+    "question": "Quanto fa 27 - 9?",
+    "operation": "subtraction",
+    "operands": [
+      27,
+      9
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-048",
+    "difficulty": "difficile",
+    "question": "Quanto fa 28 - 10?",
+    "operation": "subtraction",
+    "operands": [
+      28,
+      10
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-049",
+    "difficulty": "difficile",
+    "question": "Quanto fa 29 - 11?",
+    "operation": "subtraction",
+    "operands": [
+      29,
+      11
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-050",
+    "difficulty": "difficile",
+    "question": "Quanto fa 30 - 12?",
+    "operation": "subtraction",
+    "operands": [
+      30,
+      12
+    ],
+    "correctAnswer": 18,
+    "answers": [
+      19,
+      20,
+      18,
+      17
+    ]
+  },
+  {
+    "id": "sub-051",
+    "difficulty": "difficile",
+    "question": "Quanto fa 21 - 9?",
+    "operation": "subtraction",
+    "operands": [
+      21,
+      9
+    ],
+    "correctAnswer": 12,
+    "answers": [
+      11,
+      13,
+      12,
+      14
+    ]
+  },
+  {
+    "id": "sub-052",
+    "difficulty": "difficile",
+    "question": "Quanto fa 22 - 11?",
+    "operation": "subtraction",
+    "operands": [
+      22,
+      11
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "sub-053",
+    "difficulty": "difficile",
+    "question": "Quanto fa 23 - 12?",
+    "operation": "subtraction",
+    "operands": [
+      23,
+      12
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "sub-054",
+    "difficulty": "difficile",
+    "question": "Quanto fa 24 - 13?",
+    "operation": "subtraction",
+    "operands": [
+      24,
+      13
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "sub-055",
+    "difficulty": "difficile",
+    "question": "Quanto fa 25 - 14?",
+    "operation": "subtraction",
+    "operands": [
+      25,
+      14
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "sub-056",
+    "difficulty": "difficile",
+    "question": "Quanto fa 26 - 15?",
+    "operation": "subtraction",
+    "operands": [
+      26,
+      15
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "sub-057",
+    "difficulty": "difficile",
+    "question": "Quanto fa 27 - 16?",
+    "operation": "subtraction",
+    "operands": [
+      27,
+      16
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "sub-058",
+    "difficulty": "difficile",
+    "question": "Quanto fa 28 - 17?",
+    "operation": "subtraction",
+    "operands": [
+      28,
+      17
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "sub-059",
+    "difficulty": "difficile",
+    "question": "Quanto fa 29 - 18?",
+    "operation": "subtraction",
+    "operands": [
+      29,
+      18
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  },
+  {
+    "id": "sub-060",
+    "difficulty": "difficile",
+    "question": "Quanto fa 30 - 19?",
+    "operation": "subtraction",
+    "operands": [
+      30,
+      19
+    ],
+    "correctAnswer": 11,
+    "answers": [
+      12,
+      10,
+      13,
+      11
+    ]
+  }
+]

@@ -1,0 +1,720 @@
+[
+  {
+    "id": "practice-add-001",
+    "area": "somme",
+    "difficulty": "facile",
+    "title": "Sommiamo mettendo insieme",
+    "explanation": "Sommare vuol dire mettere insieme due gruppi.",
+    "example": "Hai 2 stelle e poi arrivano 3 stelle.",
+    "visual": [
+      "⭐",
+      "⭐",
+      "+",
+      "⭐",
+      "⭐",
+      "⭐"
+    ],
+    "question": "Quante stelle ci sono in tutto?",
+    "answers": [
+      4,
+      5,
+      6
+    ],
+    "correctAnswer": 5,
+    "feedback": "Bravo! Hai messo insieme i due gruppi.",
+    "targetMode": "somme"
+  },
+  {
+    "id": "practice-add-002",
+    "area": "somme",
+    "difficulty": "facile",
+    "title": "Conta tutti gli oggetti",
+    "explanation": "Puoi contare ogni oggetto, uno alla volta.",
+    "example": "Ci sono 3 mele e 2 mele.",
+    "visual": [
+      "🍎",
+      "🍎",
+      "🍎",
+      "+",
+      "🍎",
+      "🍎"
+    ],
+    "question": "Quante mele conti?",
+    "answers": [
+      4,
+      5,
+      6
+    ],
+    "correctAnswer": 5,
+    "feedback": "Giusto! Hai contato tutte le mele.",
+    "targetMode": "somme"
+  },
+  {
+    "id": "practice-add-003",
+    "area": "somme",
+    "difficulty": "facile",
+    "title": "Riconosci subito pochi oggetti",
+    "explanation": "A volte puoi vedere subito quanti sono.",
+    "example": "Vedi 3 stelle senza contarle una per una.",
+    "visual": [
+      "⭐",
+      "⭐",
+      "⭐"
+    ],
+    "question": "Quante stelle vedi?",
+    "answers": [
+      2,
+      3,
+      4
+    ],
+    "correctAnswer": 3,
+    "feedback": "Esatto! Hai riconosciuto il gruppo.",
+    "targetMode": "somme"
+  },
+  {
+    "id": "practice-add-004",
+    "area": "somme",
+    "difficulty": "medio",
+    "title": "Conta partendo dal numero grande",
+    "explanation": "Parti dal numero più grande e vai avanti.",
+    "example": "Per 5 + 2 parti da 5: sei, sette.",
+    "visual": [
+      "5",
+      "+",
+      "🐚",
+      "🐚"
+    ],
+    "question": "Quanto fa 5 + 2?",
+    "answers": [
+      6,
+      7,
+      8
+    ],
+    "correctAnswer": 7,
+    "feedback": "Ottimo! Hai contato avanti.",
+    "targetMode": "somme"
+  },
+  {
+    "id": "practice-add-005",
+    "area": "somme",
+    "difficulty": "medio",
+    "title": "Aggiungi uno",
+    "explanation": "Quando aggiungi 1, dici il numero dopo.",
+    "example": "Dopo 8 viene 9.",
+    "visual": [
+      "8",
+      "+",
+      "1"
+    ],
+    "question": "Quanto fa 8 + 1?",
+    "answers": [
+      8,
+      9,
+      10
+    ],
+    "correctAnswer": 9,
+    "feedback": "Bene! Aggiungere uno fa il numero dopo.",
+    "targetMode": "somme"
+  },
+  {
+    "id": "practice-add-006",
+    "area": "somme",
+    "difficulty": "medio",
+    "title": "Fai 10",
+    "explanation": "Puoi completare fino a 10.",
+    "example": "8 ha bisogno di 2 per arrivare a 10.",
+    "visual": [
+      "8",
+      "+",
+      "2"
+    ],
+    "question": "Quanto fa 8 + 2?",
+    "answers": [
+      9,
+      10,
+      11
+    ],
+    "correctAnswer": 10,
+    "feedback": "Perfetto! Hai fatto 10.",
+    "targetMode": "somme"
+  },
+  {
+    "id": "practice-add-007",
+    "area": "somme",
+    "difficulty": "difficile",
+    "title": "Somma in due passi",
+    "explanation": "Puoi fare un passo facile e poi un altro.",
+    "example": "12 + 3: 12, 13, 14, 15.",
+    "visual": [
+      "12",
+      "+",
+      "3"
+    ],
+    "question": "Quanto fa 12 + 3?",
+    "answers": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "correctAnswer": 15,
+    "feedback": "Bravo! Hai fatto piccoli passi.",
+    "targetMode": "somme"
+  },
+  {
+    "id": "practice-add-008",
+    "area": "somme",
+    "difficulty": "difficile",
+    "title": "Controlla con le dita",
+    "explanation": "Le dita possono aiutare a tenere il conto.",
+    "example": "Parti da 14 e alza 4 dita.",
+    "visual": [
+      "14",
+      "+",
+      "✋"
+    ],
+    "question": "Quanto fa 14 + 4?",
+    "answers": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "correctAnswer": 18,
+    "feedback": "Giusto! Hai usato un aiuto visivo.",
+    "targetMode": "somme"
+  },
+  {
+    "id": "practice-sub-001",
+    "area": "sottrazioni",
+    "difficulty": "facile",
+    "title": "Togliere un po’",
+    "explanation": "Sottrarre vuol dire togliere da un gruppo.",
+    "example": "Hai 5 pesci e ne togli 2.",
+    "visual": [
+      "🐟",
+      "🐟",
+      "🐟",
+      "🐟",
+      "🐟"
+    ],
+    "question": "Quanti pesci restano?",
+    "answers": [
+      2,
+      3,
+      4
+    ],
+    "correctAnswer": 3,
+    "feedback": "Esatto! Hai guardato cosa resta.",
+    "targetMode": "sottrazioni"
+  },
+  {
+    "id": "practice-sub-002",
+    "area": "sottrazioni",
+    "difficulty": "facile",
+    "title": "Conta quelli che restano",
+    "explanation": "Dopo aver tolto, conta gli oggetti rimasti.",
+    "example": "Da 4 mele togli 1 mela.",
+    "visual": [
+      "🍎",
+      "🍎",
+      "🍎",
+      "🍎"
+    ],
+    "question": "Quante mele restano?",
+    "answers": [
+      2,
+      3,
+      4
+    ],
+    "correctAnswer": 3,
+    "feedback": "Bravo! Hai contato il resto.",
+    "targetMode": "sottrazioni"
+  },
+  {
+    "id": "practice-sub-003",
+    "area": "sottrazioni",
+    "difficulty": "facile",
+    "title": "Togliere uno",
+    "explanation": "Quando togli 1, dici il numero prima.",
+    "example": "Prima di 6 viene 5.",
+    "visual": [
+      "6",
+      "-",
+      "1"
+    ],
+    "question": "Quanto fa 6 - 1?",
+    "answers": [
+      4,
+      5,
+      6
+    ],
+    "correctAnswer": 5,
+    "feedback": "Bene! Togliere uno fa il numero prima.",
+    "targetMode": "sottrazioni"
+  },
+  {
+    "id": "practice-sub-004",
+    "area": "sottrazioni",
+    "difficulty": "medio",
+    "title": "Conta indietro",
+    "explanation": "Puoi partire dal numero e tornare indietro.",
+    "example": "8 - 2: sette, sei.",
+    "visual": [
+      "8",
+      "↓",
+      "↓"
+    ],
+    "question": "Quanto fa 8 - 2?",
+    "answers": [
+      5,
+      6,
+      7
+    ],
+    "correctAnswer": 6,
+    "feedback": "Giusto! Hai contato indietro.",
+    "targetMode": "sottrazioni"
+  },
+  {
+    "id": "practice-sub-005",
+    "area": "sottrazioni",
+    "difficulty": "medio",
+    "title": "Usa le dita",
+    "explanation": "Mostra il numero con le dita e abbassane alcune.",
+    "example": "Mostra 7 dita e abbassane 3.",
+    "visual": [
+      "✋",
+      "✌️",
+      "-",
+      "3"
+    ],
+    "question": "Quanto fa 7 - 3?",
+    "answers": [
+      3,
+      4,
+      5
+    ],
+    "correctAnswer": 4,
+    "feedback": "Ottimo! Le dita ti hanno aiutato.",
+    "targetMode": "sottrazioni"
+  },
+  {
+    "id": "practice-sub-006",
+    "area": "sottrazioni",
+    "difficulty": "medio",
+    "title": "Prima e dopo",
+    "explanation": "Guarda quanti c’erano prima e quanti dopo.",
+    "example": "C’erano 10 stelle, ne togli 4.",
+    "visual": [
+      "10",
+      "-",
+      "4"
+    ],
+    "question": "Quante restano?",
+    "answers": [
+      5,
+      6,
+      7
+    ],
+    "correctAnswer": 6,
+    "feedback": "Perfetto! Hai confrontato prima e dopo.",
+    "targetMode": "sottrazioni"
+  },
+  {
+    "id": "practice-sub-007",
+    "area": "sottrazioni",
+    "difficulty": "difficile",
+    "title": "Togli in due passi",
+    "explanation": "Puoi togliere un po’ e poi ancora un po’.",
+    "example": "15 - 5 fa 10, poi togli 2.",
+    "visual": [
+      "15",
+      "-",
+      "7"
+    ],
+    "question": "Quanto fa 15 - 7?",
+    "answers": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "correctAnswer": 8,
+    "feedback": "Bravo! Due passi piccoli funzionano.",
+    "targetMode": "sottrazioni"
+  },
+  {
+    "id": "practice-sub-008",
+    "area": "sottrazioni",
+    "difficulty": "difficile",
+    "title": "Controlla la risposta",
+    "explanation": "Puoi ricontare per vedere se torna.",
+    "example": "18 - 6 lascia 12.",
+    "visual": [
+      "18",
+      "-",
+      "6"
+    ],
+    "question": "Quanto fa 18 - 6?",
+    "answers": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "correctAnswer": 12,
+    "feedback": "Giusto! Hai controllato con calma.",
+    "targetMode": "sottrazioni"
+  },
+  {
+    "id": "practice-read-001",
+    "area": "lettura",
+    "difficulty": "facile",
+    "title": "Guarda la lettera",
+    "explanation": "Ogni lettera ha un nome.",
+    "example": "Questa è la lettera M.",
+    "visual": [
+      "M"
+    ],
+    "question": "Che lettera è?",
+    "answers": [
+      "M",
+      "A",
+      "P"
+    ],
+    "correctAnswer": "M",
+    "feedback": "Bravo! Hai riconosciuto la lettera.",
+    "targetMode": "lettura"
+  },
+  {
+    "id": "practice-read-002",
+    "area": "lettura",
+    "difficulty": "facile",
+    "title": "Ascolta il suono",
+    "explanation": "Le lettere aiutano a fare i suoni.",
+    "example": "M può iniziare MARE.",
+    "visual": [
+      "M",
+      "🌊"
+    ],
+    "question": "Quale parola inizia con M?",
+    "answers": [
+      "MARE",
+      "SOLE",
+      "PANE"
+    ],
+    "correctAnswer": "MARE",
+    "feedback": "Bene! Hai ascoltato l’inizio.",
+    "targetMode": "lettura"
+  },
+  {
+    "id": "practice-read-003",
+    "area": "lettura",
+    "difficulty": "facile",
+    "title": "Trova la vocale",
+    "explanation": "Le vocali sono A, E, I, O, U.",
+    "example": "Guarda la A.",
+    "visual": [
+      "A",
+      "E",
+      "I",
+      "O",
+      "U"
+    ],
+    "question": "Quale lettera è A?",
+    "answers": [
+      "A",
+      "M",
+      "P"
+    ],
+    "correctAnswer": "A",
+    "feedback": "Esatto! A è una vocale.",
+    "targetMode": "lettura"
+  },
+  {
+    "id": "practice-read-004",
+    "area": "lettura",
+    "difficulty": "medio",
+    "title": "Unisci due suoni",
+    "explanation": "Due lettere insieme fanno una sillaba.",
+    "example": "M con A fa MA.",
+    "visual": [
+      "M",
+      "+",
+      "A",
+      "=",
+      "MA"
+    ],
+    "question": "Che sillaba leggi?",
+    "answers": [
+      "MA",
+      "ME",
+      "MO"
+    ],
+    "correctAnswer": "MA",
+    "feedback": "Ottimo! Hai unito i suoni.",
+    "targetMode": "lettura"
+  },
+  {
+    "id": "practice-read-005",
+    "area": "lettura",
+    "difficulty": "medio",
+    "title": "Leggi la sillaba",
+    "explanation": "Leggi da sinistra a destra.",
+    "example": "P e A fanno PA.",
+    "visual": [
+      "P",
+      "A"
+    ],
+    "question": "Che sillaba è?",
+    "answers": [
+      "PA",
+      "LA",
+      "SA"
+    ],
+    "correctAnswer": "PA",
+    "feedback": "Giusto! Hai letto la sillaba.",
+    "targetMode": "lettura"
+  },
+  {
+    "id": "practice-read-006",
+    "area": "lettura",
+    "difficulty": "medio",
+    "title": "Cerca la sillaba uguale",
+    "explanation": "Trova la stessa sillaba.",
+    "example": "Guarda LA.",
+    "visual": [
+      "LA"
+    ],
+    "question": "Quale è uguale?",
+    "answers": [
+      "LE",
+      "LA",
+      "LI"
+    ],
+    "correctAnswer": "LA",
+    "feedback": "Bravo! Hai trovato la stessa sillaba.",
+    "targetMode": "lettura"
+  },
+  {
+    "id": "practice-read-007",
+    "area": "lettura",
+    "difficulty": "difficile",
+    "title": "Parola e immagine",
+    "explanation": "Una parola può indicare un’immagine.",
+    "example": "CANE vuol dire 🐶.",
+    "visual": [
+      "CANE",
+      "🐶"
+    ],
+    "question": "Scegli l’immagine giusta.",
+    "answers": [
+      "🐶",
+      "🐱",
+      "🐟",
+      "🚢"
+    ],
+    "correctAnswer": "🐶",
+    "feedback": "Perfetto! Hai collegato parola e immagine.",
+    "targetMode": "lettura"
+  },
+  {
+    "id": "practice-read-008",
+    "area": "lettura",
+    "difficulty": "difficile",
+    "title": "Leggi una parola corta",
+    "explanation": "Dividi la parola in pezzi piccoli.",
+    "example": "MA-RE diventa MARE.",
+    "visual": [
+      "MA",
+      "RE",
+      "🌊"
+    ],
+    "question": "Che parola è?",
+    "answers": [
+      "MARE",
+      "MELA",
+      "MANO",
+      "NAVE"
+    ],
+    "correctAnswer": "MARE",
+    "feedback": "Bene! Hai unito le sillabe.",
+    "targetMode": "lettura"
+  },
+  {
+    "id": "practice-write-001",
+    "area": "scrittura",
+    "difficulty": "facile",
+    "title": "Ascolta la parola",
+    "explanation": "Prima ascolta bene la parola.",
+    "example": "CANE: senti CA e NE.",
+    "visual": [
+      "🐶",
+      "CA",
+      "NE"
+    ],
+    "question": "Quale parola scrivi?",
+    "answers": [
+      "CANE",
+      "SOLE",
+      "MELA"
+    ],
+    "correctAnswer": "CANE",
+    "feedback": "Bravo! Hai ascoltato la parola.",
+    "targetMode": "scrittura"
+  },
+  {
+    "id": "practice-write-002",
+    "area": "scrittura",
+    "difficulty": "facile",
+    "title": "Trova la prima lettera",
+    "explanation": "La prima lettera apre la parola.",
+    "example": "MELA inizia con M.",
+    "visual": [
+      "🍎",
+      "M"
+    ],
+    "question": "Con che lettera inizia MELA?",
+    "answers": [
+      "M",
+      "P",
+      "S"
+    ],
+    "correctAnswer": "M",
+    "feedback": "Giusto! Hai trovato l’inizio.",
+    "targetMode": "scrittura"
+  },
+  {
+    "id": "practice-write-003",
+    "area": "scrittura",
+    "difficulty": "facile",
+    "title": "Completa una lettera",
+    "explanation": "Guarda l’immagine e completa il buco.",
+    "example": "C_NE diventa CANE.",
+    "visual": [
+      "🐶",
+      "C_NE"
+    ],
+    "question": "Quale lettera manca?",
+    "answers": [
+      "A",
+      "O",
+      "E"
+    ],
+    "correctAnswer": "A",
+    "feedback": "Bene! Hai completato la parola.",
+    "targetMode": "scrittura"
+  },
+  {
+    "id": "practice-write-004",
+    "area": "scrittura",
+    "difficulty": "medio",
+    "title": "Dividi in sillabe",
+    "explanation": "Puoi spezzare la parola in parti.",
+    "example": "NAVE: NA + VE.",
+    "visual": [
+      "🚢",
+      "NA",
+      "+",
+      "VE"
+    ],
+    "question": "Quali sillabe formano NAVE?",
+    "answers": [
+      "NA VE",
+      "MA RE",
+      "PA NE"
+    ],
+    "correctAnswer": "NA VE",
+    "feedback": "Ottimo! Hai diviso la parola.",
+    "targetMode": "scrittura"
+  },
+  {
+    "id": "practice-write-005",
+    "area": "scrittura",
+    "difficulty": "medio",
+    "title": "Ripeti e scrivi",
+    "explanation": "Ripeti piano, poi scrivi.",
+    "example": "SOLE: SO...LE.",
+    "visual": [
+      "☀️",
+      "SO",
+      "LE"
+    ],
+    "question": "Quale parola senti?",
+    "answers": [
+      "SOLE",
+      "LUNA",
+      "SALE"
+    ],
+    "correctAnswer": "SOLE",
+    "feedback": "Bravo! Ripetere aiuta.",
+    "targetMode": "scrittura"
+  },
+  {
+    "id": "practice-write-006",
+    "area": "scrittura",
+    "difficulty": "medio",
+    "title": "Usa il modello",
+    "explanation": "Dopo alcuni tentativi, guarda il modello.",
+    "example": "MELA ti mostra M-E-L-A.",
+    "visual": [
+      "🍎",
+      "MELA"
+    ],
+    "question": "Quale parola è il modello?",
+    "answers": [
+      "MELA",
+      "MARE",
+      "MANO"
+    ],
+    "correctAnswer": "MELA",
+    "feedback": "Giusto! Il modello aiuta a controllare.",
+    "targetMode": "scrittura"
+  },
+  {
+    "id": "practice-write-007",
+    "area": "scrittura",
+    "difficulty": "difficile",
+    "title": "Completa una sillaba",
+    "explanation": "A volte manca un pezzo intero.",
+    "example": "DI_NO diventa DINO.",
+    "visual": [
+      "🦕",
+      "DI",
+      "NO"
+    ],
+    "question": "Quale pezzo manca?",
+    "answers": [
+      "NO",
+      "MA",
+      "PA",
+      "RE"
+    ],
+    "correctAnswer": "NO",
+    "feedback": "Perfetto! Hai completato la sillaba.",
+    "targetMode": "scrittura"
+  },
+  {
+    "id": "practice-write-008",
+    "area": "scrittura",
+    "difficulty": "difficile",
+    "title": "Controlla con calma",
+    "explanation": "Rileggi la parola prima di inviare.",
+    "example": "PESCE: PE-SCE.",
+    "visual": [
+      "🐟",
+      "PE",
+      "SCE"
+    ],
+    "question": "Quale parola è corretta?",
+    "answers": [
+      "PESCE",
+      "PESCEI",
+      "PECE",
+      "PESCA"
+    ],
+    "correctAnswer": "PESCE",
+    "feedback": "Bene! Hai controllato la parola.",
+    "targetMode": "scrittura"
+  }
+]
