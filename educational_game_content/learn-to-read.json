@@ -1,51 +1,6922 @@
 [
-  {"id":"course-01-001","level":1,"levelTitle":"Suoni e lettere","difficulty":"facile","activity":"letter-sound","prompt":"Quale parola inizia con M?","display":"M","visual":"👂 Mmm…","options":["MARE 🌊","SOLE ☀️","PANE 🍞"],"correctAnswer":"MARE 🌊","hint":"Ascolta il primo suono.","keyWord":"MARE"},
-  {"id":"course-01-002","level":1,"levelTitle":"Suoni e lettere","difficulty":"facile","activity":"letter-sound","prompt":"Quale parola inizia con S?","display":"S","visual":"👂 Sss…","options":["LUNA 🌙","SOLE ☀️","CANE 🐶"],"correctAnswer":"SOLE ☀️","hint":"Pronuncia lentamente le parole.","keyWord":"SOLE"},
-  {"id":"course-01-003","level":1,"levelTitle":"Suoni e lettere","difficulty":"facile","activity":"letter-sound","prompt":"Quale parola inizia con P?","display":"P","visual":"👂 P…","options":["PANE 🍞","MELA 🍎","NAVE 🚢"],"correctAnswer":"PANE 🍞","hint":"Cerca la parola che parte con P.","keyWord":"PANE"},
-  {"id":"course-01-004","level":1,"levelTitle":"Suoni e lettere","difficulty":"facile","activity":"letter-sound","prompt":"Quale parola inizia con L?","display":"L","visual":"👂 Lll…","options":["CASA 🏠","LUNA 🌙","TOPO 🐭"],"correctAnswer":"LUNA 🌙","hint":"Ascolta bene l’inizio.","keyWord":"LUNA"},
-
-  {"id":"course-02-001","level":2,"levelTitle":"Sillabe maiuscole","difficulty":"facile","activity":"syllable-word","prompt":"Quale parola inizia con MA?","display":"MA","options":["MARE","SOLE","PANE"],"correctAnswer":"MARE","hint":"Leggi MA, poi cerca MA-RE.","keyWord":"MA"},
-  {"id":"course-02-002","level":2,"levelTitle":"Sillabe maiuscole","difficulty":"facile","activity":"syllable-word","prompt":"Quale parola inizia con PA?","display":"PA","options":["LUNA","PANE","MELA"],"correctAnswer":"PANE","hint":"Unisci P con A.","keyWord":"PA"},
-  {"id":"course-02-003","level":2,"levelTitle":"Sillabe maiuscole","difficulty":"facile","activity":"syllable-word","prompt":"Quale parola inizia con SO?","display":"SO","options":["CANE","NAVE","SOLE"],"correctAnswer":"SOLE","hint":"Leggi piano SO-LE.","keyWord":"SO"},
-  {"id":"course-02-004","level":2,"levelTitle":"Sillabe maiuscole","difficulty":"facile","activity":"syllable-word","prompt":"Quale parola inizia con LU?","display":"LU","options":["LUNA","MARE","PALLA"],"correctAnswer":"LUNA","hint":"Cerca LU all’inizio.","keyWord":"LU"},
-
-  {"id":"course-03-001","level":3,"levelTitle":"Parole maiuscole","difficulty":"facile","activity":"word-to-image","prompt":"Leggi e scegli l’immagine","display":"CANE","options":["🐶","🐱","🐟"],"correctAnswer":"🐶","hint":"Leggi CA - NE.","keyWord":"CANE"},
-  {"id":"course-03-002","level":3,"levelTitle":"Parole maiuscole","difficulty":"facile","activity":"word-to-image","prompt":"Leggi e scegli l’immagine","display":"MELA","options":["🍎","🍞","🌙"],"correctAnswer":"🍎","hint":"Leggi ME - LA.","keyWord":"MELA"},
-  {"id":"course-03-003","level":3,"levelTitle":"Parole maiuscole","difficulty":"facile","activity":"image-to-word","prompt":"Scegli la parola giusta","display":"☀️","options":["SOLE","MARE","LUNA"],"correctAnswer":"SOLE","hint":"Guarda l’immagine e leggi ogni parola.","keyWord":"SOLE"},
-  {"id":"course-03-004","level":3,"levelTitle":"Parole maiuscole","difficulty":"facile","activity":"image-to-word","prompt":"Scegli la parola giusta","display":"🚢","options":["CASA","NAVE","PALLA"],"correctAnswer":"NAVE","hint":"La parola comincia con N.","keyWord":"NAVE"},
-
-  {"id":"course-04-001","level":4,"levelTitle":"Parole minuscole","difficulty":"medio","activity":"word-to-image","prompt":"Leggi e scegli l’immagine","display":"gatto","options":["🐱","🐶","🐸"],"correctAnswer":"🐱","hint":"Leggi gat - to.","keyWord":"gatto"},
-  {"id":"course-04-002","level":4,"levelTitle":"Parole minuscole","difficulty":"medio","activity":"word-to-image","prompt":"Leggi e scegli l’immagine","display":"luna","options":["🌙","☀️","⭐"],"correctAnswer":"🌙","hint":"Leggi lu - na.","keyWord":"luna"},
-  {"id":"course-04-003","level":4,"levelTitle":"Parole minuscole","difficulty":"medio","activity":"image-to-word","prompt":"Scegli la parola giusta","display":"⚽","options":["palla","mela","casa"],"correctAnswer":"palla","hint":"La parola comincia con p.","keyWord":"palla"},
-  {"id":"course-04-004","level":4,"levelTitle":"Parole minuscole","difficulty":"medio","activity":"image-to-word","prompt":"Scegli la parola giusta","display":"🌸","options":["pane","fiore","mare"],"correctAnswer":"fiore","hint":"Leggi fio - re.","keyWord":"fiore"},
-
-  {"id":"course-05-001","level":5,"levelTitle":"Due parole","difficulty":"medio","activity":"two-word","prompt":"Leggi e scegli l’immagine","display":"il cane","options":["🐶","🐱","🐟"],"correctAnswer":"🐶","hint":"Prima leggi IL, poi CANE.","keyWord":"cane"},
-  {"id":"course-05-002","level":5,"levelTitle":"Due parole","difficulty":"medio","activity":"two-word","prompt":"Leggi e scegli l’immagine","display":"la mela","options":["🍎","🍞","🍋"],"correctAnswer":"🍎","hint":"Guarda la seconda parola.","keyWord":"mela"},
-  {"id":"course-05-003","level":5,"levelTitle":"Due parole","difficulty":"medio","activity":"two-word","prompt":"Leggi e scegli l’immagine","display":"una palla","options":["⚽","🏠","🚢"],"correctAnswer":"⚽","hint":"Rileggi la parola PALLA.","keyWord":"palla"},
-  {"id":"course-05-004","level":5,"levelTitle":"Due parole","difficulty":"medio","activity":"two-word","prompt":"Leggi e scegli l’immagine","display":"un pesce","options":["🐟","🐦","🐭"],"correctAnswer":"🐟","hint":"Leggi PE - SCE.","keyWord":"pesce"},
-
-  {"id":"course-06-001","level":6,"levelTitle":"Frasi minime","difficulty":"medio","activity":"sentence-to-image","prompt":"Leggi e scegli la scena","display":"il cane corre","options":["🐕💨","🐕💤","🐱💨"],"correctAnswer":"🐕💨","hint":"Chi c’è? Che cosa fa?","keyWord":"corre"},
-  {"id":"course-06-002","level":6,"levelTitle":"Frasi minime","difficulty":"medio","activity":"sentence-to-image","prompt":"Leggi e scegli la scena","display":"il gatto dorme","options":["🐱💤","🐱💨","🐕💤"],"correctAnswer":"🐱💤","hint":"Guarda prima il soggetto, poi l’azione.","keyWord":"dorme"},
-  {"id":"course-06-003","level":6,"levelTitle":"Frasi minime","difficulty":"medio","activity":"sentence-to-image","prompt":"Leggi e scegli la scena","display":"il pesce nuota","options":["🐟🌊","🐦☁️","🐸⬆️"],"correctAnswer":"🐟🌊","hint":"Rileggi l’ultima parola.","keyWord":"nuota"},
-  {"id":"course-06-004","level":6,"levelTitle":"Frasi minime","difficulty":"medio","activity":"sentence-to-image","prompt":"Leggi e scegli la scena","display":"la rana salta","options":["🐸⬆️","🐸💤","🐟🌊"],"correctAnswer":"🐸⬆️","hint":"Che cosa fa la rana?","keyWord":"salta"},
-
-  {"id":"course-07-001","level":7,"levelTitle":"Frasi con qualità","difficulty":"difficile","activity":"sentence-to-image","prompt":"Leggi e scegli la scena","display":"la mela è rossa","options":["🍎","🍏","🍌"],"correctAnswer":"🍎","hint":"Cerca la parola del colore.","keyWord":"rossa"},
-  {"id":"course-07-002","level":7,"levelTitle":"Frasi con qualità","difficulty":"difficile","activity":"sentence-to-image","prompt":"Leggi e scegli la scena","display":"la palla è blu","options":["🔵","🔴","🟢"],"correctAnswer":"🔵","hint":"Rileggi l’ultima parola.","keyWord":"blu"},
-  {"id":"course-07-003","level":7,"levelTitle":"Frasi con qualità","difficulty":"difficile","activity":"sentence-to-image","prompt":"Leggi e scegli la scena","display":"il fiore è giallo","options":["🌻","🌹","🪻"],"correctAnswer":"🌻","hint":"Quale fiore ha quel colore?","keyWord":"giallo"},
-  {"id":"course-07-004","level":7,"levelTitle":"Frasi con qualità","difficulty":"difficile","activity":"sentence-to-image","prompt":"Leggi e scegli la scena","display":"la nave è grande","options":["🚢","⛵","🛶"],"correctAnswer":"🚢","hint":"Cerca la nave più grande.","keyWord":"grande"},
-
-  {"id":"course-08-001","level":8,"levelTitle":"Costruisci la frase","difficulty":"difficile","activity":"build-sentence","prompt":"Metti le parole in ordine","display":"🐕💨","visual":"Il cane sta correndo","options":["corre","il","cane"],"correctAnswer":"il cane corre","hint":"Inizia con IL.","keyWord":"cane"},
-  {"id":"course-08-002","level":8,"levelTitle":"Costruisci la frase","difficulty":"difficile","activity":"build-sentence","prompt":"Metti le parole in ordine","display":"🐱💤","visual":"Il gatto sta dormendo","options":["dorme","gatto","il"],"correctAnswer":"il gatto dorme","hint":"Prima IL, poi chi c’è.","keyWord":"dorme"},
-  {"id":"course-08-003","level":8,"levelTitle":"Costruisci la frase","difficulty":"difficile","activity":"build-sentence","prompt":"Metti le parole in ordine","display":"🐟🌊","visual":"Il pesce sta nuotando","options":["pesce","nuota","il"],"correctAnswer":"il pesce nuota","hint":"L’azione va alla fine.","keyWord":"nuota"},
-  {"id":"course-08-004","level":8,"levelTitle":"Costruisci la frase","difficulty":"difficile","activity":"build-sentence","prompt":"Metti le parole in ordine","display":"🐸⬆️","visual":"La rana sta saltando","options":["salta","la","rana"],"correctAnswer":"la rana salta","hint":"Inizia con LA.","keyWord":"rana"},
-
-  {"id":"course-09-001","level":9,"levelTitle":"Completa la frase","difficulty":"difficile","activity":"complete-sentence","prompt":"Scegli la parola che manca","display":"il cane ___","visual":"🐕💨","options":["corre","mela","sole"],"correctAnswer":"corre","hint":"Che cosa fa il cane?","keyWord":"cane"},
-  {"id":"course-09-002","level":9,"levelTitle":"Completa la frase","difficulty":"difficile","activity":"complete-sentence","prompt":"Scegli la parola che manca","display":"il gatto ___","visual":"🐱💤","options":["nuota","dorme","vola"],"correctAnswer":"dorme","hint":"Guarda l’azione nella scena.","keyWord":"gatto"},
-  {"id":"course-09-003","level":9,"levelTitle":"Completa la frase","difficulty":"difficile","activity":"complete-sentence","prompt":"Scegli la parola che manca","display":"la mela è ___","visual":"🍎","options":["rossa","blu","verde"],"correctAnswer":"rossa","hint":"Guarda il colore.","keyWord":"mela"},
-  {"id":"course-09-004","level":9,"levelTitle":"Completa la frase","difficulty":"difficile","activity":"complete-sentence","prompt":"Scegli la parola che manca","display":"il pesce ___","visual":"🐟🌊","options":["salta","dorme","nuota"],"correctAnswer":"nuota","hint":"Che cosa fa il pesce?","keyWord":"pesce"},
-
-  {"id":"course-10-001","level":10,"levelTitle":"Capisco la frase","difficulty":"difficile","activity":"image-to-sentence","prompt":"Scegli la frase giusta","display":"🐱💤","options":["il gatto dorme","il gatto corre","il cane dorme"],"correctAnswer":"il gatto dorme","hint":"Controlla sia chi c’è sia che cosa fa.","keyWord":"gatto dorme"},
-  {"id":"course-10-002","level":10,"levelTitle":"Capisco la frase","difficulty":"difficile","activity":"image-to-sentence","prompt":"Scegli la frase giusta","display":"🐕💨","options":["il cane dorme","il gatto corre","il cane corre"],"correctAnswer":"il cane corre","hint":"Leggi tutte e due le parole importanti.","keyWord":"cane corre"},
-  {"id":"course-10-003","level":10,"levelTitle":"Capisco la frase","difficulty":"difficile","activity":"same-different","prompt":"Frase e immagine sono uguali?","display":"il pesce nuota","visual":"🐟🌊","options":["Sì","No"],"correctAnswer":"Sì","hint":"Leggi la frase e poi guarda la scena.","keyWord":"nuota"},
-  {"id":"course-10-004","level":10,"levelTitle":"Capisco la frase","difficulty":"difficile","activity":"same-different","prompt":"Frase e immagine sono uguali?","display":"la rana dorme","visual":"🐸⬆️","options":["Sì","No"],"correctAnswer":"No","hint":"La rana nell’immagine sta saltando.","keyWord":"dorme"}
+  {
+    "id": "course-01-001",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con M?",
+    "display": "M",
+    "visual": "👂 M…",
+    "options": [
+      "MARE 🌊",
+      "SOLE ☀️",
+      "PANE 🍞"
+    ],
+    "correctAnswer": "MARE 🌊",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "MARE"
+  },
+  {
+    "id": "course-01-002",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con S?",
+    "display": "S",
+    "visual": "👂 S…",
+    "options": [
+      "PANE 🍞",
+      "LUNA 🌙",
+      "SOLE ☀️"
+    ],
+    "correctAnswer": "SOLE ☀️",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "SOLE"
+  },
+  {
+    "id": "course-01-003",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con P?",
+    "display": "P",
+    "visual": "👂 P…",
+    "options": [
+      "MELA 🍎",
+      "PANE 🍞",
+      "LUNA 🌙"
+    ],
+    "correctAnswer": "PANE 🍞",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "PANE"
+  },
+  {
+    "id": "course-01-004",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con L?",
+    "display": "L",
+    "visual": "👂 L…",
+    "options": [
+      "LUNA 🌙",
+      "MELA 🍎",
+      "CANE 🐶"
+    ],
+    "correctAnswer": "LUNA 🌙",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "LUNA"
+  },
+  {
+    "id": "course-01-005",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con M?",
+    "display": "M",
+    "visual": "👂 M…",
+    "options": [
+      "CANE 🐶",
+      "NAVE 🚢",
+      "MELA 🍎"
+    ],
+    "correctAnswer": "MELA 🍎",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "MELA"
+  },
+  {
+    "id": "course-01-006",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con C?",
+    "display": "C",
+    "visual": "👂 C…",
+    "options": [
+      "TOPO 🐭",
+      "CANE 🐶",
+      "NAVE 🚢"
+    ],
+    "correctAnswer": "CANE 🐶",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "CANE"
+  },
+  {
+    "id": "course-01-007",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con N?",
+    "display": "N",
+    "visual": "👂 N…",
+    "options": [
+      "NAVE 🚢",
+      "CASA 🏠",
+      "TOPO 🐭"
+    ],
+    "correctAnswer": "NAVE 🚢",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "NAVE"
+  },
+  {
+    "id": "course-01-008",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con C?",
+    "display": "C",
+    "visual": "👂 C…",
+    "options": [
+      "TOPO 🐭",
+      "RANA 🐸",
+      "CASA 🏠"
+    ],
+    "correctAnswer": "CASA 🏠",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "CASA"
+  },
+  {
+    "id": "course-01-009",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con T?",
+    "display": "T",
+    "visual": "👂 T…",
+    "options": [
+      "GATTO 🐱",
+      "TOPO 🐭",
+      "RANA 🐸"
+    ],
+    "correctAnswer": "TOPO 🐭",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "TOPO"
+  },
+  {
+    "id": "course-01-010",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con R?",
+    "display": "R",
+    "visual": "👂 R…",
+    "options": [
+      "RANA 🐸",
+      "GATTO 🐱",
+      "PESCE 🐟"
+    ],
+    "correctAnswer": "RANA 🐸",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "RANA"
+  },
+  {
+    "id": "course-01-011",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con G?",
+    "display": "G",
+    "visual": "👂 G…",
+    "options": [
+      "PESCE 🐟",
+      "PALLA ⚽",
+      "GATTO 🐱"
+    ],
+    "correctAnswer": "GATTO 🐱",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "GATTO"
+  },
+  {
+    "id": "course-01-012",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con P?",
+    "display": "P",
+    "visual": "👂 P…",
+    "options": [
+      "LIBRO 📘",
+      "PESCE 🐟",
+      "FIORE 🌸"
+    ],
+    "correctAnswer": "PESCE 🐟",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "PESCE"
+  },
+  {
+    "id": "course-01-013",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con P?",
+    "display": "P",
+    "visual": "👂 P…",
+    "options": [
+      "PALLA ⚽",
+      "FIORE 🌸",
+      "LIBRO 📘"
+    ],
+    "correctAnswer": "PALLA ⚽",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "PALLA"
+  },
+  {
+    "id": "course-01-014",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con F?",
+    "display": "F",
+    "visual": "👂 F…",
+    "options": [
+      "LIBRO 📘",
+      "MANO ✋",
+      "FIORE 🌸"
+    ],
+    "correctAnswer": "FIORE 🌸",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "FIORE"
+  },
+  {
+    "id": "course-01-015",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con L?",
+    "display": "L",
+    "visual": "👂 L…",
+    "options": [
+      "NASO 👃",
+      "LIBRO 📘",
+      "MANO ✋"
+    ],
+    "correctAnswer": "LIBRO 📘",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "LIBRO"
+  },
+  {
+    "id": "course-01-016",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con M?",
+    "display": "M",
+    "visual": "👂 M…",
+    "options": [
+      "MANO ✋",
+      "NASO 👃",
+      "DADO 🎲"
+    ],
+    "correctAnswer": "MANO ✋",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "MANO"
+  },
+  {
+    "id": "course-01-017",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con N?",
+    "display": "N",
+    "visual": "👂 N…",
+    "options": [
+      "DADO 🎲",
+      "VASO 🏺",
+      "NASO 👃"
+    ],
+    "correctAnswer": "NASO 👃",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "NASO"
+  },
+  {
+    "id": "course-01-018",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con D?",
+    "display": "D",
+    "visual": "👂 D…",
+    "options": [
+      "BANANA 🍌",
+      "DADO 🎲",
+      "VASO 🏺"
+    ],
+    "correctAnswer": "DADO 🎲",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "DADO"
+  },
+  {
+    "id": "course-01-019",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con V?",
+    "display": "V",
+    "visual": "👂 V…",
+    "options": [
+      "VASO 🏺",
+      "BANANA 🍌",
+      "LIMONE 🍋"
+    ],
+    "correctAnswer": "VASO 🏺",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "VASO"
+  },
+  {
+    "id": "course-01-020",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con B?",
+    "display": "B",
+    "visual": "👂 B…",
+    "options": [
+      "LIMONE 🍋",
+      "PERA 🍐",
+      "BANANA 🍌"
+    ],
+    "correctAnswer": "BANANA 🍌",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "BANANA"
+  },
+  {
+    "id": "course-01-021",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con L?",
+    "display": "L",
+    "visual": "👂 L…",
+    "options": [
+      "UVA 🍇",
+      "LIMONE 🍋",
+      "PERA 🍐"
+    ],
+    "correctAnswer": "LIMONE 🍋",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "LIMONE"
+  },
+  {
+    "id": "course-01-022",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con P?",
+    "display": "P",
+    "visual": "👂 P…",
+    "options": [
+      "PERA 🍐",
+      "UVA 🍇",
+      "TORTA 🍰"
+    ],
+    "correctAnswer": "PERA 🍐",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "PERA"
+  },
+  {
+    "id": "course-01-023",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con U?",
+    "display": "U",
+    "visual": "👂 U…",
+    "options": [
+      "TORTA 🍰",
+      "LATTE 🥛",
+      "UVA 🍇"
+    ],
+    "correctAnswer": "UVA 🍇",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "UVA"
+  },
+  {
+    "id": "course-01-024",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con T?",
+    "display": "T",
+    "visual": "👂 T…",
+    "options": [
+      "UOVO 🥚",
+      "TORTA 🍰",
+      "LATTE 🥛"
+    ],
+    "correctAnswer": "TORTA 🍰",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "TORTA"
+  },
+  {
+    "id": "course-01-025",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con L?",
+    "display": "L",
+    "visual": "👂 L…",
+    "options": [
+      "LATTE 🥛",
+      "UOVO 🥚",
+      "MIELE 🍯"
+    ],
+    "correctAnswer": "LATTE 🥛",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "LATTE"
+  },
+  {
+    "id": "course-01-026",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con U?",
+    "display": "U",
+    "visual": "👂 U…",
+    "options": [
+      "MIELE 🍯",
+      "RISO 🍚",
+      "UOVO 🥚"
+    ],
+    "correctAnswer": "UOVO 🥚",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "UOVO"
+  },
+  {
+    "id": "course-01-027",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con M?",
+    "display": "M",
+    "visual": "👂 M…",
+    "options": [
+      "PIZZA 🍕",
+      "MIELE 🍯",
+      "RISO 🍚"
+    ],
+    "correctAnswer": "MIELE 🍯",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "MIELE"
+  },
+  {
+    "id": "course-01-028",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con R?",
+    "display": "R",
+    "visual": "👂 R…",
+    "options": [
+      "RISO 🍚",
+      "PIZZA 🍕",
+      "GELATO 🍦"
+    ],
+    "correctAnswer": "RISO 🍚",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "RISO"
+  },
+  {
+    "id": "course-01-029",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con P?",
+    "display": "P",
+    "visual": "👂 P…",
+    "options": [
+      "GELATO 🍦",
+      "LEONE 🦁",
+      "PIZZA 🍕"
+    ],
+    "correctAnswer": "PIZZA 🍕",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "PIZZA"
+  },
+  {
+    "id": "course-01-030",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con G?",
+    "display": "G",
+    "visual": "👂 G…",
+    "options": [
+      "TIGRE 🐯",
+      "GELATO 🍦",
+      "LEONE 🦁"
+    ],
+    "correctAnswer": "GELATO 🍦",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "GELATO"
+  },
+  {
+    "id": "course-01-031",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con L?",
+    "display": "L",
+    "visual": "👂 L…",
+    "options": [
+      "LEONE 🦁",
+      "TIGRE 🐯",
+      "ORSO 🐻"
+    ],
+    "correctAnswer": "LEONE 🦁",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "LEONE"
+  },
+  {
+    "id": "course-01-032",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con T?",
+    "display": "T",
+    "visual": "👂 T…",
+    "options": [
+      "ORSO 🐻",
+      "ZEBRA 🦓",
+      "TIGRE 🐯"
+    ],
+    "correctAnswer": "TIGRE 🐯",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "TIGRE"
+  },
+  {
+    "id": "course-01-033",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con O?",
+    "display": "O",
+    "visual": "👂 O…",
+    "options": [
+      "MUCCA 🐮",
+      "ORSO 🐻",
+      "ZEBRA 🦓"
+    ],
+    "correctAnswer": "ORSO 🐻",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "ORSO"
+  },
+  {
+    "id": "course-01-034",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con Z?",
+    "display": "Z",
+    "visual": "👂 Z…",
+    "options": [
+      "ZEBRA 🦓",
+      "MUCCA 🐮",
+      "PECORA 🐑"
+    ],
+    "correctAnswer": "ZEBRA 🦓",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "ZEBRA"
+  },
+  {
+    "id": "course-01-035",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con M?",
+    "display": "M",
+    "visual": "👂 M…",
+    "options": [
+      "PECORA 🐑",
+      "GUFO 🦉",
+      "MUCCA 🐮"
+    ],
+    "correctAnswer": "MUCCA 🐮",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "MUCCA"
+  },
+  {
+    "id": "course-01-036",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con P?",
+    "display": "P",
+    "visual": "👂 P…",
+    "options": [
+      "APE 🐝",
+      "PECORA 🐑",
+      "GUFO 🦉"
+    ],
+    "correctAnswer": "PECORA 🐑",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "PECORA"
+  },
+  {
+    "id": "course-01-037",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con G?",
+    "display": "G",
+    "visual": "👂 G…",
+    "options": [
+      "GUFO 🦉",
+      "APE 🐝",
+      "COCCO 🥥"
+    ],
+    "correctAnswer": "GUFO 🦉",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "GUFO"
+  },
+  {
+    "id": "course-01-038",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con A?",
+    "display": "A",
+    "visual": "👂 A…",
+    "options": [
+      "COCCO 🥥",
+      "FOCA 🦭",
+      "APE 🐝"
+    ],
+    "correctAnswer": "APE 🐝",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "APE"
+  },
+  {
+    "id": "course-01-039",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con C?",
+    "display": "C",
+    "visual": "👂 C…",
+    "options": [
+      "MARE 🌊",
+      "COCCO 🥥",
+      "FOCA 🦭"
+    ],
+    "correctAnswer": "COCCO 🥥",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "COCCO"
+  },
+  {
+    "id": "course-01-040",
+    "level": 1,
+    "levelTitle": "Suoni e lettere",
+    "difficulty": "facile",
+    "activity": "letter-sound",
+    "prompt": "Quale parola inizia con F?",
+    "display": "F",
+    "visual": "👂 F…",
+    "options": [
+      "FOCA 🦭",
+      "MARE 🌊",
+      "SOLE ☀️"
+    ],
+    "correctAnswer": "FOCA 🦭",
+    "hint": "Ascolta il primo suono di ogni parola.",
+    "keyWord": "FOCA"
+  },
+  {
+    "id": "course-02-001",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con MA?",
+    "display": "MA",
+    "options": [
+      "SOLE",
+      "PANE",
+      "MARE"
+    ],
+    "correctAnswer": "MARE",
+    "hint": "Leggi MA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "MA"
+  },
+  {
+    "id": "course-02-002",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con SO?",
+    "display": "SO",
+    "options": [
+      "LUNA",
+      "SOLE",
+      "PANE"
+    ],
+    "correctAnswer": "SOLE",
+    "hint": "Leggi SO, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "SO"
+  },
+  {
+    "id": "course-02-003",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con PA?",
+    "display": "PA",
+    "options": [
+      "PANE",
+      "LUNA",
+      "MELA"
+    ],
+    "correctAnswer": "PANE",
+    "hint": "Leggi PA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "PA"
+  },
+  {
+    "id": "course-02-004",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con LU?",
+    "display": "LU",
+    "options": [
+      "MELA",
+      "CANE",
+      "LUNA"
+    ],
+    "correctAnswer": "LUNA",
+    "hint": "Leggi LU, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "LU"
+  },
+  {
+    "id": "course-02-005",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con ME?",
+    "display": "ME",
+    "options": [
+      "NAVE",
+      "MELA",
+      "CANE"
+    ],
+    "correctAnswer": "MELA",
+    "hint": "Leggi ME, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "ME"
+  },
+  {
+    "id": "course-02-006",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con CA?",
+    "display": "CA",
+    "options": [
+      "CANE",
+      "NAVE",
+      "TOPO"
+    ],
+    "correctAnswer": "CANE",
+    "hint": "Leggi CA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "CA"
+  },
+  {
+    "id": "course-02-007",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con NA?",
+    "display": "NA",
+    "options": [
+      "CASA",
+      "TOPO",
+      "NAVE"
+    ],
+    "correctAnswer": "NAVE",
+    "hint": "Leggi NA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "NA"
+  },
+  {
+    "id": "course-02-008",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con CA?",
+    "display": "CA",
+    "options": [
+      "RANA",
+      "CASA",
+      "TOPO"
+    ],
+    "correctAnswer": "CASA",
+    "hint": "Leggi CA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "CA"
+  },
+  {
+    "id": "course-02-009",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con TO?",
+    "display": "TO",
+    "options": [
+      "TOPO",
+      "RANA",
+      "GATTO"
+    ],
+    "correctAnswer": "TOPO",
+    "hint": "Leggi TO, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "TO"
+  },
+  {
+    "id": "course-02-010",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con RA?",
+    "display": "RA",
+    "options": [
+      "GATTO",
+      "PESCE",
+      "RANA"
+    ],
+    "correctAnswer": "RANA",
+    "hint": "Leggi RA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "RA"
+  },
+  {
+    "id": "course-02-011",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con GA?",
+    "display": "GA",
+    "options": [
+      "PALLA",
+      "GATTO",
+      "PESCE"
+    ],
+    "correctAnswer": "GATTO",
+    "hint": "Leggi GA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "GA"
+  },
+  {
+    "id": "course-02-012",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con PE?",
+    "display": "PE",
+    "options": [
+      "PESCE",
+      "PALLA",
+      "FIORE"
+    ],
+    "correctAnswer": "PESCE",
+    "hint": "Leggi PE, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "PE"
+  },
+  {
+    "id": "course-02-013",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con PA?",
+    "display": "PA",
+    "options": [
+      "FIORE",
+      "LIBRO",
+      "PALLA"
+    ],
+    "correctAnswer": "PALLA",
+    "hint": "Leggi PA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "PA"
+  },
+  {
+    "id": "course-02-014",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con FIO?",
+    "display": "FIO",
+    "options": [
+      "MANO",
+      "FIORE",
+      "LIBRO"
+    ],
+    "correctAnswer": "FIORE",
+    "hint": "Leggi FIO, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "FIO"
+  },
+  {
+    "id": "course-02-015",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con LI?",
+    "display": "LI",
+    "options": [
+      "LIBRO",
+      "MANO",
+      "NASO"
+    ],
+    "correctAnswer": "LIBRO",
+    "hint": "Leggi LI, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "LI"
+  },
+  {
+    "id": "course-02-016",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con MA?",
+    "display": "MA",
+    "options": [
+      "NASO",
+      "DADO",
+      "MANO"
+    ],
+    "correctAnswer": "MANO",
+    "hint": "Leggi MA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "MA"
+  },
+  {
+    "id": "course-02-017",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con NA?",
+    "display": "NA",
+    "options": [
+      "VASO",
+      "NASO",
+      "DADO"
+    ],
+    "correctAnswer": "NASO",
+    "hint": "Leggi NA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "NA"
+  },
+  {
+    "id": "course-02-018",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con DA?",
+    "display": "DA",
+    "options": [
+      "DADO",
+      "VASO",
+      "BANANA"
+    ],
+    "correctAnswer": "DADO",
+    "hint": "Leggi DA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "DA"
+  },
+  {
+    "id": "course-02-019",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con VA?",
+    "display": "VA",
+    "options": [
+      "BANANA",
+      "LIMONE",
+      "VASO"
+    ],
+    "correctAnswer": "VASO",
+    "hint": "Leggi VA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "VA"
+  },
+  {
+    "id": "course-02-020",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con BA?",
+    "display": "BA",
+    "options": [
+      "PERA",
+      "BANANA",
+      "LIMONE"
+    ],
+    "correctAnswer": "BANANA",
+    "hint": "Leggi BA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "BA"
+  },
+  {
+    "id": "course-02-021",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con LI?",
+    "display": "LI",
+    "options": [
+      "LIMONE",
+      "PERA",
+      "UVA"
+    ],
+    "correctAnswer": "LIMONE",
+    "hint": "Leggi LI, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "LI"
+  },
+  {
+    "id": "course-02-022",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con PE?",
+    "display": "PE",
+    "options": [
+      "UVA",
+      "TORTA",
+      "PERA"
+    ],
+    "correctAnswer": "PERA",
+    "hint": "Leggi PE, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "PE"
+  },
+  {
+    "id": "course-02-023",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con U?",
+    "display": "U",
+    "options": [
+      "LATTE",
+      "UVA",
+      "TORTA"
+    ],
+    "correctAnswer": "UVA",
+    "hint": "Leggi U, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "U"
+  },
+  {
+    "id": "course-02-024",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con TO?",
+    "display": "TO",
+    "options": [
+      "TORTA",
+      "LATTE",
+      "UOVO"
+    ],
+    "correctAnswer": "TORTA",
+    "hint": "Leggi TO, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "TO"
+  },
+  {
+    "id": "course-02-025",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con LA?",
+    "display": "LA",
+    "options": [
+      "UOVO",
+      "MIELE",
+      "LATTE"
+    ],
+    "correctAnswer": "LATTE",
+    "hint": "Leggi LA, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "LA"
+  },
+  {
+    "id": "course-02-026",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con UO?",
+    "display": "UO",
+    "options": [
+      "RISO",
+      "UOVO",
+      "MIELE"
+    ],
+    "correctAnswer": "UOVO",
+    "hint": "Leggi UO, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "UO"
+  },
+  {
+    "id": "course-02-027",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con MIE?",
+    "display": "MIE",
+    "options": [
+      "MIELE",
+      "RISO",
+      "PIZZA"
+    ],
+    "correctAnswer": "MIELE",
+    "hint": "Leggi MIE, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "MIE"
+  },
+  {
+    "id": "course-02-028",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con RI?",
+    "display": "RI",
+    "options": [
+      "PIZZA",
+      "GELATO",
+      "RISO"
+    ],
+    "correctAnswer": "RISO",
+    "hint": "Leggi RI, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "RI"
+  },
+  {
+    "id": "course-02-029",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con PI?",
+    "display": "PI",
+    "options": [
+      "LEONE",
+      "PIZZA",
+      "GELATO"
+    ],
+    "correctAnswer": "PIZZA",
+    "hint": "Leggi PI, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "PI"
+  },
+  {
+    "id": "course-02-030",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con GE?",
+    "display": "GE",
+    "options": [
+      "GELATO",
+      "LEONE",
+      "TIGRE"
+    ],
+    "correctAnswer": "GELATO",
+    "hint": "Leggi GE, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "GE"
+  },
+  {
+    "id": "course-02-031",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con LE?",
+    "display": "LE",
+    "options": [
+      "TIGRE",
+      "ORSO",
+      "LEONE"
+    ],
+    "correctAnswer": "LEONE",
+    "hint": "Leggi LE, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "LE"
+  },
+  {
+    "id": "course-02-032",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con TI?",
+    "display": "TI",
+    "options": [
+      "ZEBRA",
+      "TIGRE",
+      "ORSO"
+    ],
+    "correctAnswer": "TIGRE",
+    "hint": "Leggi TI, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "TI"
+  },
+  {
+    "id": "course-02-033",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con OR?",
+    "display": "OR",
+    "options": [
+      "ORSO",
+      "ZEBRA",
+      "MUCCA"
+    ],
+    "correctAnswer": "ORSO",
+    "hint": "Leggi OR, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "OR"
+  },
+  {
+    "id": "course-02-034",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con ZE?",
+    "display": "ZE",
+    "options": [
+      "MUCCA",
+      "PECORA",
+      "ZEBRA"
+    ],
+    "correctAnswer": "ZEBRA",
+    "hint": "Leggi ZE, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "ZE"
+  },
+  {
+    "id": "course-02-035",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con MU?",
+    "display": "MU",
+    "options": [
+      "GUFO",
+      "MUCCA",
+      "PECORA"
+    ],
+    "correctAnswer": "MUCCA",
+    "hint": "Leggi MU, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "MU"
+  },
+  {
+    "id": "course-02-036",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con PE?",
+    "display": "PE",
+    "options": [
+      "PECORA",
+      "GUFO",
+      "APE"
+    ],
+    "correctAnswer": "PECORA",
+    "hint": "Leggi PE, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "PE"
+  },
+  {
+    "id": "course-02-037",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con GU?",
+    "display": "GU",
+    "options": [
+      "APE",
+      "COCCO",
+      "GUFO"
+    ],
+    "correctAnswer": "GUFO",
+    "hint": "Leggi GU, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "GU"
+  },
+  {
+    "id": "course-02-038",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con A?",
+    "display": "A",
+    "options": [
+      "FOCA",
+      "APE",
+      "COCCO"
+    ],
+    "correctAnswer": "APE",
+    "hint": "Leggi A, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "A"
+  },
+  {
+    "id": "course-02-039",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con CO?",
+    "display": "CO",
+    "options": [
+      "COCCO",
+      "FOCA",
+      "MARE"
+    ],
+    "correctAnswer": "COCCO",
+    "hint": "Leggi CO, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "CO"
+  },
+  {
+    "id": "course-02-040",
+    "level": 2,
+    "levelTitle": "Sillabe maiuscole",
+    "difficulty": "facile",
+    "activity": "syllable-word",
+    "prompt": "Quale parola inizia con FO?",
+    "display": "FO",
+    "options": [
+      "MARE",
+      "SOLE",
+      "FOCA"
+    ],
+    "correctAnswer": "FOCA",
+    "hint": "Leggi FO, poi cerca la stessa sillaba all'inizio.",
+    "keyWord": "FO"
+  },
+  {
+    "id": "course-03-001",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "MARE",
+    "options": [
+      "🌊",
+      "☀️",
+      "🍞"
+    ],
+    "correctAnswer": "🌊",
+    "hint": "Leggi piano MA…",
+    "keyWord": "MARE"
+  },
+  {
+    "id": "course-03-002",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "☀️",
+    "options": [
+      "PANE",
+      "LUNA",
+      "SOLE"
+    ],
+    "correctAnswer": "SOLE",
+    "hint": "La parola inizia con S.",
+    "keyWord": "SOLE"
+  },
+  {
+    "id": "course-03-003",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "PANE",
+    "options": [
+      "🍎",
+      "🍞",
+      "🌙"
+    ],
+    "correctAnswer": "🍞",
+    "hint": "Leggi piano PA…",
+    "keyWord": "PANE"
+  },
+  {
+    "id": "course-03-004",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🌙",
+    "options": [
+      "LUNA",
+      "MELA",
+      "CANE"
+    ],
+    "correctAnswer": "LUNA",
+    "hint": "La parola inizia con L.",
+    "keyWord": "LUNA"
+  },
+  {
+    "id": "course-03-005",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "MELA",
+    "options": [
+      "🐶",
+      "🚢",
+      "🍎"
+    ],
+    "correctAnswer": "🍎",
+    "hint": "Leggi piano ME…",
+    "keyWord": "MELA"
+  },
+  {
+    "id": "course-03-006",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐶",
+    "options": [
+      "CASA",
+      "CANE",
+      "NAVE"
+    ],
+    "correctAnswer": "CANE",
+    "hint": "La parola inizia con C.",
+    "keyWord": "CANE"
+  },
+  {
+    "id": "course-03-007",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "NAVE",
+    "options": [
+      "🚢",
+      "🏠",
+      "🐭"
+    ],
+    "correctAnswer": "🚢",
+    "hint": "Leggi piano NA…",
+    "keyWord": "NAVE"
+  },
+  {
+    "id": "course-03-008",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🏠",
+    "options": [
+      "TOPO",
+      "RANA",
+      "CASA"
+    ],
+    "correctAnswer": "CASA",
+    "hint": "La parola inizia con C.",
+    "keyWord": "CASA"
+  },
+  {
+    "id": "course-03-009",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "TOPO",
+    "options": [
+      "🐱",
+      "🐭",
+      "🐸"
+    ],
+    "correctAnswer": "🐭",
+    "hint": "Leggi piano TO…",
+    "keyWord": "TOPO"
+  },
+  {
+    "id": "course-03-010",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐸",
+    "options": [
+      "RANA",
+      "GATTO",
+      "PESCE"
+    ],
+    "correctAnswer": "RANA",
+    "hint": "La parola inizia con R.",
+    "keyWord": "RANA"
+  },
+  {
+    "id": "course-03-011",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "GATTO",
+    "options": [
+      "🐟",
+      "⚽",
+      "🐱"
+    ],
+    "correctAnswer": "🐱",
+    "hint": "Leggi piano GA…",
+    "keyWord": "GATTO"
+  },
+  {
+    "id": "course-03-012",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐟",
+    "options": [
+      "FIORE",
+      "PESCE",
+      "PALLA"
+    ],
+    "correctAnswer": "PESCE",
+    "hint": "La parola inizia con P.",
+    "keyWord": "PESCE"
+  },
+  {
+    "id": "course-03-013",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "PALLA",
+    "options": [
+      "⚽",
+      "🌸",
+      "📘"
+    ],
+    "correctAnswer": "⚽",
+    "hint": "Leggi piano PA…",
+    "keyWord": "PALLA"
+  },
+  {
+    "id": "course-03-014",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🌸",
+    "options": [
+      "LIBRO",
+      "MANO",
+      "FIORE"
+    ],
+    "correctAnswer": "FIORE",
+    "hint": "La parola inizia con F.",
+    "keyWord": "FIORE"
+  },
+  {
+    "id": "course-03-015",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "LIBRO",
+    "options": [
+      "👃",
+      "📘",
+      "✋"
+    ],
+    "correctAnswer": "📘",
+    "hint": "Leggi piano LI…",
+    "keyWord": "LIBRO"
+  },
+  {
+    "id": "course-03-016",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "✋",
+    "options": [
+      "MANO",
+      "NASO",
+      "DADO"
+    ],
+    "correctAnswer": "MANO",
+    "hint": "La parola inizia con M.",
+    "keyWord": "MANO"
+  },
+  {
+    "id": "course-03-017",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "NASO",
+    "options": [
+      "🎲",
+      "🏺",
+      "👃"
+    ],
+    "correctAnswer": "👃",
+    "hint": "Leggi piano NA…",
+    "keyWord": "NASO"
+  },
+  {
+    "id": "course-03-018",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🎲",
+    "options": [
+      "BANANA",
+      "DADO",
+      "VASO"
+    ],
+    "correctAnswer": "DADO",
+    "hint": "La parola inizia con D.",
+    "keyWord": "DADO"
+  },
+  {
+    "id": "course-03-019",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "VASO",
+    "options": [
+      "🏺",
+      "🍌",
+      "🍋"
+    ],
+    "correctAnswer": "🏺",
+    "hint": "Leggi piano VA…",
+    "keyWord": "VASO"
+  },
+  {
+    "id": "course-03-020",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍌",
+    "options": [
+      "LIMONE",
+      "PERA",
+      "BANANA"
+    ],
+    "correctAnswer": "BANANA",
+    "hint": "La parola inizia con B.",
+    "keyWord": "BANANA"
+  },
+  {
+    "id": "course-03-021",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "LIMONE",
+    "options": [
+      "🍇",
+      "🍋",
+      "🍐"
+    ],
+    "correctAnswer": "🍋",
+    "hint": "Leggi piano LI…",
+    "keyWord": "LIMONE"
+  },
+  {
+    "id": "course-03-022",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍐",
+    "options": [
+      "PERA",
+      "UVA",
+      "TORTA"
+    ],
+    "correctAnswer": "PERA",
+    "hint": "La parola inizia con P.",
+    "keyWord": "PERA"
+  },
+  {
+    "id": "course-03-023",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "UVA",
+    "options": [
+      "🍰",
+      "🥛",
+      "🍇"
+    ],
+    "correctAnswer": "🍇",
+    "hint": "Leggi piano U…",
+    "keyWord": "UVA"
+  },
+  {
+    "id": "course-03-024",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍰",
+    "options": [
+      "UOVO",
+      "TORTA",
+      "LATTE"
+    ],
+    "correctAnswer": "TORTA",
+    "hint": "La parola inizia con T.",
+    "keyWord": "TORTA"
+  },
+  {
+    "id": "course-03-025",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "LATTE",
+    "options": [
+      "🥛",
+      "🥚",
+      "🍯"
+    ],
+    "correctAnswer": "🥛",
+    "hint": "Leggi piano LA…",
+    "keyWord": "LATTE"
+  },
+  {
+    "id": "course-03-026",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🥚",
+    "options": [
+      "MIELE",
+      "RISO",
+      "UOVO"
+    ],
+    "correctAnswer": "UOVO",
+    "hint": "La parola inizia con U.",
+    "keyWord": "UOVO"
+  },
+  {
+    "id": "course-03-027",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "MIELE",
+    "options": [
+      "🍕",
+      "🍯",
+      "🍚"
+    ],
+    "correctAnswer": "🍯",
+    "hint": "Leggi piano MIE…",
+    "keyWord": "MIELE"
+  },
+  {
+    "id": "course-03-028",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍚",
+    "options": [
+      "RISO",
+      "PIZZA",
+      "GELATO"
+    ],
+    "correctAnswer": "RISO",
+    "hint": "La parola inizia con R.",
+    "keyWord": "RISO"
+  },
+  {
+    "id": "course-03-029",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "PIZZA",
+    "options": [
+      "🍦",
+      "🦁",
+      "🍕"
+    ],
+    "correctAnswer": "🍕",
+    "hint": "Leggi piano PI…",
+    "keyWord": "PIZZA"
+  },
+  {
+    "id": "course-03-030",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍦",
+    "options": [
+      "TIGRE",
+      "GELATO",
+      "LEONE"
+    ],
+    "correctAnswer": "GELATO",
+    "hint": "La parola inizia con G.",
+    "keyWord": "GELATO"
+  },
+  {
+    "id": "course-03-031",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "LEONE",
+    "options": [
+      "🦁",
+      "🐯",
+      "🐻"
+    ],
+    "correctAnswer": "🦁",
+    "hint": "Leggi piano LE…",
+    "keyWord": "LEONE"
+  },
+  {
+    "id": "course-03-032",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐯",
+    "options": [
+      "ORSO",
+      "ZEBRA",
+      "TIGRE"
+    ],
+    "correctAnswer": "TIGRE",
+    "hint": "La parola inizia con T.",
+    "keyWord": "TIGRE"
+  },
+  {
+    "id": "course-03-033",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "ORSO",
+    "options": [
+      "🐮",
+      "🐻",
+      "🦓"
+    ],
+    "correctAnswer": "🐻",
+    "hint": "Leggi piano OR…",
+    "keyWord": "ORSO"
+  },
+  {
+    "id": "course-03-034",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🦓",
+    "options": [
+      "ZEBRA",
+      "MUCCA",
+      "PECORA"
+    ],
+    "correctAnswer": "ZEBRA",
+    "hint": "La parola inizia con Z.",
+    "keyWord": "ZEBRA"
+  },
+  {
+    "id": "course-03-035",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "MUCCA",
+    "options": [
+      "🐑",
+      "🦉",
+      "🐮"
+    ],
+    "correctAnswer": "🐮",
+    "hint": "Leggi piano MU…",
+    "keyWord": "MUCCA"
+  },
+  {
+    "id": "course-03-036",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐑",
+    "options": [
+      "APE",
+      "PECORA",
+      "GUFO"
+    ],
+    "correctAnswer": "PECORA",
+    "hint": "La parola inizia con P.",
+    "keyWord": "PECORA"
+  },
+  {
+    "id": "course-03-037",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "GUFO",
+    "options": [
+      "🦉",
+      "🐝",
+      "🥥"
+    ],
+    "correctAnswer": "🦉",
+    "hint": "Leggi piano GU…",
+    "keyWord": "GUFO"
+  },
+  {
+    "id": "course-03-038",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐝",
+    "options": [
+      "COCCO",
+      "FOCA",
+      "APE"
+    ],
+    "correctAnswer": "APE",
+    "hint": "La parola inizia con A.",
+    "keyWord": "APE"
+  },
+  {
+    "id": "course-03-039",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "COCCO",
+    "options": [
+      "🌊",
+      "🥥",
+      "🦭"
+    ],
+    "correctAnswer": "🥥",
+    "hint": "Leggi piano CO…",
+    "keyWord": "COCCO"
+  },
+  {
+    "id": "course-03-040",
+    "level": 3,
+    "levelTitle": "Parole maiuscole",
+    "difficulty": "facile",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🦭",
+    "options": [
+      "FOCA",
+      "MARE",
+      "SOLE"
+    ],
+    "correctAnswer": "FOCA",
+    "hint": "La parola inizia con F.",
+    "keyWord": "FOCA"
+  },
+  {
+    "id": "course-04-001",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🌊",
+    "options": [
+      "pane",
+      "luna",
+      "mare"
+    ],
+    "correctAnswer": "mare",
+    "hint": "La parola inizia con m.",
+    "keyWord": "mare"
+  },
+  {
+    "id": "course-04-002",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "sole",
+    "options": [
+      "🍎",
+      "☀️",
+      "🌙"
+    ],
+    "correctAnswer": "☀️",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "sole"
+  },
+  {
+    "id": "course-04-003",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍞",
+    "options": [
+      "pane",
+      "mela",
+      "cane"
+    ],
+    "correctAnswer": "pane",
+    "hint": "La parola inizia con p.",
+    "keyWord": "pane"
+  },
+  {
+    "id": "course-04-004",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "luna",
+    "options": [
+      "🐶",
+      "🚢",
+      "🌙"
+    ],
+    "correctAnswer": "🌙",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "luna"
+  },
+  {
+    "id": "course-04-005",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍎",
+    "options": [
+      "casa",
+      "mela",
+      "nave"
+    ],
+    "correctAnswer": "mela",
+    "hint": "La parola inizia con m.",
+    "keyWord": "mela"
+  },
+  {
+    "id": "course-04-006",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "cane",
+    "options": [
+      "🐶",
+      "🏠",
+      "🐭"
+    ],
+    "correctAnswer": "🐶",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-04-007",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🚢",
+    "options": [
+      "topo",
+      "rana",
+      "nave"
+    ],
+    "correctAnswer": "nave",
+    "hint": "La parola inizia con n.",
+    "keyWord": "nave"
+  },
+  {
+    "id": "course-04-008",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "casa",
+    "options": [
+      "🐱",
+      "🏠",
+      "🐸"
+    ],
+    "correctAnswer": "🏠",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "casa"
+  },
+  {
+    "id": "course-04-009",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐭",
+    "options": [
+      "topo",
+      "gatto",
+      "pesce"
+    ],
+    "correctAnswer": "topo",
+    "hint": "La parola inizia con t.",
+    "keyWord": "topo"
+  },
+  {
+    "id": "course-04-010",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "rana",
+    "options": [
+      "🐟",
+      "⚽",
+      "🐸"
+    ],
+    "correctAnswer": "🐸",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-04-011",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐱",
+    "options": [
+      "fiore",
+      "gatto",
+      "palla"
+    ],
+    "correctAnswer": "gatto",
+    "hint": "La parola inizia con g.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-04-012",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "pesce",
+    "options": [
+      "🐟",
+      "🌸",
+      "📘"
+    ],
+    "correctAnswer": "🐟",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-04-013",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "⚽",
+    "options": [
+      "libro",
+      "mano",
+      "palla"
+    ],
+    "correctAnswer": "palla",
+    "hint": "La parola inizia con p.",
+    "keyWord": "palla"
+  },
+  {
+    "id": "course-04-014",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "fiore",
+    "options": [
+      "👃",
+      "🌸",
+      "✋"
+    ],
+    "correctAnswer": "🌸",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "fiore"
+  },
+  {
+    "id": "course-04-015",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "📘",
+    "options": [
+      "libro",
+      "naso",
+      "dado"
+    ],
+    "correctAnswer": "libro",
+    "hint": "La parola inizia con l.",
+    "keyWord": "libro"
+  },
+  {
+    "id": "course-04-016",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "mano",
+    "options": [
+      "🎲",
+      "🏺",
+      "✋"
+    ],
+    "correctAnswer": "✋",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "mano"
+  },
+  {
+    "id": "course-04-017",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "👃",
+    "options": [
+      "banana",
+      "naso",
+      "vaso"
+    ],
+    "correctAnswer": "naso",
+    "hint": "La parola inizia con n.",
+    "keyWord": "naso"
+  },
+  {
+    "id": "course-04-018",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "dado",
+    "options": [
+      "🎲",
+      "🍌",
+      "🍋"
+    ],
+    "correctAnswer": "🎲",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "dado"
+  },
+  {
+    "id": "course-04-019",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🏺",
+    "options": [
+      "limone",
+      "pera",
+      "vaso"
+    ],
+    "correctAnswer": "vaso",
+    "hint": "La parola inizia con v.",
+    "keyWord": "vaso"
+  },
+  {
+    "id": "course-04-020",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "banana",
+    "options": [
+      "🍇",
+      "🍌",
+      "🍐"
+    ],
+    "correctAnswer": "🍌",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "banana"
+  },
+  {
+    "id": "course-04-021",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍋",
+    "options": [
+      "limone",
+      "uva",
+      "torta"
+    ],
+    "correctAnswer": "limone",
+    "hint": "La parola inizia con l.",
+    "keyWord": "limone"
+  },
+  {
+    "id": "course-04-022",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "pera",
+    "options": [
+      "🍰",
+      "🥛",
+      "🍐"
+    ],
+    "correctAnswer": "🍐",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "pera"
+  },
+  {
+    "id": "course-04-023",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍇",
+    "options": [
+      "uovo",
+      "uva",
+      "latte"
+    ],
+    "correctAnswer": "uva",
+    "hint": "La parola inizia con u.",
+    "keyWord": "uva"
+  },
+  {
+    "id": "course-04-024",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "torta",
+    "options": [
+      "🍰",
+      "🥚",
+      "🍯"
+    ],
+    "correctAnswer": "🍰",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "torta"
+  },
+  {
+    "id": "course-04-025",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🥛",
+    "options": [
+      "miele",
+      "riso",
+      "latte"
+    ],
+    "correctAnswer": "latte",
+    "hint": "La parola inizia con l.",
+    "keyWord": "latte"
+  },
+  {
+    "id": "course-04-026",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "uovo",
+    "options": [
+      "🍕",
+      "🥚",
+      "🍚"
+    ],
+    "correctAnswer": "🥚",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "uovo"
+  },
+  {
+    "id": "course-04-027",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍯",
+    "options": [
+      "miele",
+      "pizza",
+      "gelato"
+    ],
+    "correctAnswer": "miele",
+    "hint": "La parola inizia con m.",
+    "keyWord": "miele"
+  },
+  {
+    "id": "course-04-028",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "riso",
+    "options": [
+      "🍦",
+      "🦁",
+      "🍚"
+    ],
+    "correctAnswer": "🍚",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "riso"
+  },
+  {
+    "id": "course-04-029",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🍕",
+    "options": [
+      "tigre",
+      "pizza",
+      "leone"
+    ],
+    "correctAnswer": "pizza",
+    "hint": "La parola inizia con p.",
+    "keyWord": "pizza"
+  },
+  {
+    "id": "course-04-030",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "gelato",
+    "options": [
+      "🍦",
+      "🐯",
+      "🐻"
+    ],
+    "correctAnswer": "🍦",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "gelato"
+  },
+  {
+    "id": "course-04-031",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🦁",
+    "options": [
+      "orso",
+      "zebra",
+      "leone"
+    ],
+    "correctAnswer": "leone",
+    "hint": "La parola inizia con l.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-04-032",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "tigre",
+    "options": [
+      "🐮",
+      "🐯",
+      "🦓"
+    ],
+    "correctAnswer": "🐯",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-04-033",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐻",
+    "options": [
+      "orso",
+      "mucca",
+      "pecora"
+    ],
+    "correctAnswer": "orso",
+    "hint": "La parola inizia con o.",
+    "keyWord": "orso"
+  },
+  {
+    "id": "course-04-034",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "zebra",
+    "options": [
+      "🐑",
+      "🦉",
+      "🦓"
+    ],
+    "correctAnswer": "🦓",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "zebra"
+  },
+  {
+    "id": "course-04-035",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🐮",
+    "options": [
+      "ape",
+      "mucca",
+      "gufo"
+    ],
+    "correctAnswer": "mucca",
+    "hint": "La parola inizia con m.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-04-036",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "pecora",
+    "options": [
+      "🐑",
+      "🐝",
+      "🥥"
+    ],
+    "correctAnswer": "🐑",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "pecora"
+  },
+  {
+    "id": "course-04-037",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🦉",
+    "options": [
+      "cocco",
+      "foca",
+      "gufo"
+    ],
+    "correctAnswer": "gufo",
+    "hint": "La parola inizia con g.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-04-038",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "ape",
+    "options": [
+      "🌊",
+      "🐝",
+      "🦭"
+    ],
+    "correctAnswer": "🐝",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-04-039",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "image-to-word",
+    "prompt": "Guarda e scegli la parola",
+    "display": "🥥",
+    "options": [
+      "cocco",
+      "mare",
+      "sole"
+    ],
+    "correctAnswer": "cocco",
+    "hint": "La parola inizia con c.",
+    "keyWord": "cocco"
+  },
+  {
+    "id": "course-04-040",
+    "level": 4,
+    "levelTitle": "Parole minuscole",
+    "difficulty": "medio",
+    "activity": "word-to-image",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "foca",
+    "options": [
+      "☀️",
+      "🍞",
+      "🦭"
+    ],
+    "correctAnswer": "🦭",
+    "hint": "Leggi la parola a piccoli pezzi.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-05-001",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il mare",
+    "options": [
+      "🌊",
+      "☀️",
+      "🍞"
+    ],
+    "correctAnswer": "🌊",
+    "hint": "Guarda bene la parola MARE.",
+    "keyWord": "mare"
+  },
+  {
+    "id": "course-05-002",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il sole",
+    "options": [
+      "🍞",
+      "🌙",
+      "☀️"
+    ],
+    "correctAnswer": "☀️",
+    "hint": "Guarda bene la parola SOLE.",
+    "keyWord": "sole"
+  },
+  {
+    "id": "course-05-003",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il pane",
+    "options": [
+      "🍎",
+      "🍞",
+      "🌙"
+    ],
+    "correctAnswer": "🍞",
+    "hint": "Guarda bene la parola PANE.",
+    "keyWord": "pane"
+  },
+  {
+    "id": "course-05-004",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la luna",
+    "options": [
+      "🌙",
+      "🍎",
+      "🐶"
+    ],
+    "correctAnswer": "🌙",
+    "hint": "Guarda bene la parola LUNA.",
+    "keyWord": "luna"
+  },
+  {
+    "id": "course-05-005",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la mela",
+    "options": [
+      "🐶",
+      "🚢",
+      "🍎"
+    ],
+    "correctAnswer": "🍎",
+    "hint": "Guarda bene la parola MELA.",
+    "keyWord": "mela"
+  },
+  {
+    "id": "course-05-006",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il cane",
+    "options": [
+      "🏠",
+      "🐶",
+      "🚢"
+    ],
+    "correctAnswer": "🐶",
+    "hint": "Guarda bene la parola CANE.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-05-007",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la nave",
+    "options": [
+      "🚢",
+      "🏠",
+      "🐭"
+    ],
+    "correctAnswer": "🚢",
+    "hint": "Guarda bene la parola NAVE.",
+    "keyWord": "nave"
+  },
+  {
+    "id": "course-05-008",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la casa",
+    "options": [
+      "🐭",
+      "🐸",
+      "🏠"
+    ],
+    "correctAnswer": "🏠",
+    "hint": "Guarda bene la parola CASA.",
+    "keyWord": "casa"
+  },
+  {
+    "id": "course-05-009",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il topo",
+    "options": [
+      "🐱",
+      "🐭",
+      "🐸"
+    ],
+    "correctAnswer": "🐭",
+    "hint": "Guarda bene la parola TOPO.",
+    "keyWord": "topo"
+  },
+  {
+    "id": "course-05-010",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la rana",
+    "options": [
+      "🐸",
+      "🐱",
+      "🐟"
+    ],
+    "correctAnswer": "🐸",
+    "hint": "Guarda bene la parola RANA.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-05-011",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il gatto",
+    "options": [
+      "🐟",
+      "⚽",
+      "🐱"
+    ],
+    "correctAnswer": "🐱",
+    "hint": "Guarda bene la parola GATTO.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-05-012",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il pesce",
+    "options": [
+      "🌸",
+      "🐟",
+      "⚽"
+    ],
+    "correctAnswer": "🐟",
+    "hint": "Guarda bene la parola PESCE.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-05-013",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la palla",
+    "options": [
+      "⚽",
+      "🌸",
+      "📘"
+    ],
+    "correctAnswer": "⚽",
+    "hint": "Guarda bene la parola PALLA.",
+    "keyWord": "palla"
+  },
+  {
+    "id": "course-05-014",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il fiore",
+    "options": [
+      "📘",
+      "✋",
+      "🌸"
+    ],
+    "correctAnswer": "🌸",
+    "hint": "Guarda bene la parola FIORE.",
+    "keyWord": "fiore"
+  },
+  {
+    "id": "course-05-015",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il libro",
+    "options": [
+      "👃",
+      "📘",
+      "✋"
+    ],
+    "correctAnswer": "📘",
+    "hint": "Guarda bene la parola LIBRO.",
+    "keyWord": "libro"
+  },
+  {
+    "id": "course-05-016",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la mano",
+    "options": [
+      "✋",
+      "👃",
+      "🎲"
+    ],
+    "correctAnswer": "✋",
+    "hint": "Guarda bene la parola MANO.",
+    "keyWord": "mano"
+  },
+  {
+    "id": "course-05-017",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il naso",
+    "options": [
+      "🎲",
+      "🏺",
+      "👃"
+    ],
+    "correctAnswer": "👃",
+    "hint": "Guarda bene la parola NASO.",
+    "keyWord": "naso"
+  },
+  {
+    "id": "course-05-018",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il dado",
+    "options": [
+      "🍌",
+      "🎲",
+      "🏺"
+    ],
+    "correctAnswer": "🎲",
+    "hint": "Guarda bene la parola DADO.",
+    "keyWord": "dado"
+  },
+  {
+    "id": "course-05-019",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il vaso",
+    "options": [
+      "🏺",
+      "🍌",
+      "🍋"
+    ],
+    "correctAnswer": "🏺",
+    "hint": "Guarda bene la parola VASO.",
+    "keyWord": "vaso"
+  },
+  {
+    "id": "course-05-020",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la banana",
+    "options": [
+      "🍋",
+      "🍐",
+      "🍌"
+    ],
+    "correctAnswer": "🍌",
+    "hint": "Guarda bene la parola BANANA.",
+    "keyWord": "banana"
+  },
+  {
+    "id": "course-05-021",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il limone",
+    "options": [
+      "🍇",
+      "🍋",
+      "🍐"
+    ],
+    "correctAnswer": "🍋",
+    "hint": "Guarda bene la parola LIMONE.",
+    "keyWord": "limone"
+  },
+  {
+    "id": "course-05-022",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la pera",
+    "options": [
+      "🍐",
+      "🍇",
+      "🍰"
+    ],
+    "correctAnswer": "🍐",
+    "hint": "Guarda bene la parola PERA.",
+    "keyWord": "pera"
+  },
+  {
+    "id": "course-05-023",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "l'uva",
+    "options": [
+      "🍰",
+      "🥛",
+      "🍇"
+    ],
+    "correctAnswer": "🍇",
+    "hint": "Guarda bene la parola UVA.",
+    "keyWord": "uva"
+  },
+  {
+    "id": "course-05-024",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la torta",
+    "options": [
+      "🥚",
+      "🍰",
+      "🥛"
+    ],
+    "correctAnswer": "🍰",
+    "hint": "Guarda bene la parola TORTA.",
+    "keyWord": "torta"
+  },
+  {
+    "id": "course-05-025",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il latte",
+    "options": [
+      "🥛",
+      "🥚",
+      "🍯"
+    ],
+    "correctAnswer": "🥛",
+    "hint": "Guarda bene la parola LATTE.",
+    "keyWord": "latte"
+  },
+  {
+    "id": "course-05-026",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "l'uovo",
+    "options": [
+      "🍯",
+      "🍚",
+      "🥚"
+    ],
+    "correctAnswer": "🥚",
+    "hint": "Guarda bene la parola UOVO.",
+    "keyWord": "uovo"
+  },
+  {
+    "id": "course-05-027",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il miele",
+    "options": [
+      "🍕",
+      "🍯",
+      "🍚"
+    ],
+    "correctAnswer": "🍯",
+    "hint": "Guarda bene la parola MIELE.",
+    "keyWord": "miele"
+  },
+  {
+    "id": "course-05-028",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il riso",
+    "options": [
+      "🍚",
+      "🍕",
+      "🍦"
+    ],
+    "correctAnswer": "🍚",
+    "hint": "Guarda bene la parola RISO.",
+    "keyWord": "riso"
+  },
+  {
+    "id": "course-05-029",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la pizza",
+    "options": [
+      "🍦",
+      "🦁",
+      "🍕"
+    ],
+    "correctAnswer": "🍕",
+    "hint": "Guarda bene la parola PIZZA.",
+    "keyWord": "pizza"
+  },
+  {
+    "id": "course-05-030",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il gelato",
+    "options": [
+      "🐯",
+      "🍦",
+      "🦁"
+    ],
+    "correctAnswer": "🍦",
+    "hint": "Guarda bene la parola GELATO.",
+    "keyWord": "gelato"
+  },
+  {
+    "id": "course-05-031",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il leone",
+    "options": [
+      "🦁",
+      "🐯",
+      "🐻"
+    ],
+    "correctAnswer": "🦁",
+    "hint": "Guarda bene la parola LEONE.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-05-032",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la tigre",
+    "options": [
+      "🐻",
+      "🦓",
+      "🐯"
+    ],
+    "correctAnswer": "🐯",
+    "hint": "Guarda bene la parola TIGRE.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-05-033",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "l'orso",
+    "options": [
+      "🐮",
+      "🐻",
+      "🦓"
+    ],
+    "correctAnswer": "🐻",
+    "hint": "Guarda bene la parola ORSO.",
+    "keyWord": "orso"
+  },
+  {
+    "id": "course-05-034",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la zebra",
+    "options": [
+      "🦓",
+      "🐮",
+      "🐑"
+    ],
+    "correctAnswer": "🦓",
+    "hint": "Guarda bene la parola ZEBRA.",
+    "keyWord": "zebra"
+  },
+  {
+    "id": "course-05-035",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la mucca",
+    "options": [
+      "🐑",
+      "🦉",
+      "🐮"
+    ],
+    "correctAnswer": "🐮",
+    "hint": "Guarda bene la parola MUCCA.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-05-036",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la pecora",
+    "options": [
+      "🐝",
+      "🐑",
+      "🦉"
+    ],
+    "correctAnswer": "🐑",
+    "hint": "Guarda bene la parola PECORA.",
+    "keyWord": "pecora"
+  },
+  {
+    "id": "course-05-037",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il gufo",
+    "options": [
+      "🦉",
+      "🐝",
+      "🥥"
+    ],
+    "correctAnswer": "🦉",
+    "hint": "Guarda bene la parola GUFO.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-05-038",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "l'ape",
+    "options": [
+      "🥥",
+      "🦭",
+      "🐝"
+    ],
+    "correctAnswer": "🐝",
+    "hint": "Guarda bene la parola APE.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-05-039",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "il cocco",
+    "options": [
+      "🌊",
+      "🥥",
+      "🦭"
+    ],
+    "correctAnswer": "🥥",
+    "hint": "Guarda bene la parola COCCO.",
+    "keyWord": "cocco"
+  },
+  {
+    "id": "course-05-040",
+    "level": 5,
+    "levelTitle": "Due parole",
+    "difficulty": "medio",
+    "activity": "two-word",
+    "prompt": "Leggi e scegli l’immagine",
+    "display": "la foca",
+    "options": [
+      "🦭",
+      "🌊",
+      "☀️"
+    ],
+    "correctAnswer": "🦭",
+    "hint": "Guarda bene la parola FOCA.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-06-001",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il cane corre",
+    "options": [
+      "🐶💨",
+      "🐶💤",
+      "🐱💨"
+    ],
+    "correctAnswer": "🐶💨",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "corre"
+  },
+  {
+    "id": "course-06-002",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il cane dorme",
+    "options": [
+      "🐶💨",
+      "🐱💤",
+      "🐶💤"
+    ],
+    "correctAnswer": "🐶💤",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "dorme"
+  },
+  {
+    "id": "course-06-003",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il cane mangia",
+    "options": [
+      "🐱🍽️",
+      "🐶🍽️",
+      "🐶💨"
+    ],
+    "correctAnswer": "🐶🍽️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "mangia"
+  },
+  {
+    "id": "course-06-004",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il cane salta",
+    "options": [
+      "🐶⬆️",
+      "🐶💨",
+      "🐱⬆️"
+    ],
+    "correctAnswer": "🐶⬆️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "salta"
+  },
+  {
+    "id": "course-06-005",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il gatto corre",
+    "options": [
+      "🐱💤",
+      "🐶💨",
+      "🐱💨"
+    ],
+    "correctAnswer": "🐱💨",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "corre"
+  },
+  {
+    "id": "course-06-006",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il gatto dorme",
+    "options": [
+      "🐶💤",
+      "🐱💤",
+      "🐱💨"
+    ],
+    "correctAnswer": "🐱💤",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "dorme"
+  },
+  {
+    "id": "course-06-007",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il gatto mangia",
+    "options": [
+      "🐱🍽️",
+      "🐱💨",
+      "🐶🍽️"
+    ],
+    "correctAnswer": "🐱🍽️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "mangia"
+  },
+  {
+    "id": "course-06-008",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il gatto salta",
+    "options": [
+      "🐱💨",
+      "🐶⬆️",
+      "🐱⬆️"
+    ],
+    "correctAnswer": "🐱⬆️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "salta"
+  },
+  {
+    "id": "course-06-009",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la rana salta",
+    "options": [
+      "🐶⬆️",
+      "🐸⬆️",
+      "🐸🌊"
+    ],
+    "correctAnswer": "🐸⬆️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "salta"
+  },
+  {
+    "id": "course-06-010",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la rana nuota",
+    "options": [
+      "🐸🌊",
+      "🐸⬆️",
+      "🐟🌊"
+    ],
+    "correctAnswer": "🐸🌊",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "nuota"
+  },
+  {
+    "id": "course-06-011",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la rana dorme",
+    "options": [
+      "🐸⬆️",
+      "🐶💤",
+      "🐸💤"
+    ],
+    "correctAnswer": "🐸💤",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "dorme"
+  },
+  {
+    "id": "course-06-012",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la rana mangia",
+    "options": [
+      "🐶🍽️",
+      "🐸🍽️",
+      "🐸⬆️"
+    ],
+    "correctAnswer": "🐸🍽️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "mangia"
+  },
+  {
+    "id": "course-06-013",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il pesce nuota",
+    "options": [
+      "🐟🌊",
+      "🐟🍽️",
+      "🐸🌊"
+    ],
+    "correctAnswer": "🐟🌊",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "nuota"
+  },
+  {
+    "id": "course-06-014",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il pesce mangia",
+    "options": [
+      "🐟🌊",
+      "🐶🍽️",
+      "🐟🍽️"
+    ],
+    "correctAnswer": "🐟🍽️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "mangia"
+  },
+  {
+    "id": "course-06-015",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il pesce riposa",
+    "options": [
+      "🐝🛏️",
+      "🐟🛏️",
+      "🐟🌊"
+    ],
+    "correctAnswer": "🐟🛏️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "riposa"
+  },
+  {
+    "id": "course-06-016",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il pesce salta",
+    "options": [
+      "🐟⬆️",
+      "🐟🌊",
+      "🐶⬆️"
+    ],
+    "correctAnswer": "🐟⬆️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "salta"
+  },
+  {
+    "id": "course-06-017",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il gufo vola",
+    "options": [
+      "🦉👀",
+      "🐝☁️",
+      "🦉☁️"
+    ],
+    "correctAnswer": "🦉☁️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "vola"
+  },
+  {
+    "id": "course-06-018",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il gufo guarda",
+    "options": [
+      "🦉💤",
+      "🦉👀",
+      "🦉☁️"
+    ],
+    "correctAnswer": "🦉👀",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "guarda"
+  },
+  {
+    "id": "course-06-019",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il gufo dorme",
+    "options": [
+      "🦉💤",
+      "🦉☁️",
+      "🐶💤"
+    ],
+    "correctAnswer": "🦉💤",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "dorme"
+  },
+  {
+    "id": "course-06-020",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il gufo canta",
+    "options": [
+      "🦉☁️",
+      "🦁💨",
+      "🦉🎵"
+    ],
+    "correctAnswer": "🦉🎵",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "canta"
+  },
+  {
+    "id": "course-06-021",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il leone corre",
+    "options": [
+      "🐶💨",
+      "🦁💨",
+      "🦁📣"
+    ],
+    "correctAnswer": "🦁💨",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "corre"
+  },
+  {
+    "id": "course-06-022",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il leone ruggisce",
+    "options": [
+      "🦁📣",
+      "🦁💨",
+      "🐯📣"
+    ],
+    "correctAnswer": "🦁📣",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "ruggisce"
+  },
+  {
+    "id": "course-06-023",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il leone dorme",
+    "options": [
+      "🦁💨",
+      "🐶💤",
+      "🦁💤"
+    ],
+    "correctAnswer": "🦁💤",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "dorme"
+  },
+  {
+    "id": "course-06-024",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "il leone mangia",
+    "options": [
+      "🐶🍽️",
+      "🦁🍽️",
+      "🦁💨"
+    ],
+    "correctAnswer": "🦁🍽️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "mangia"
+  },
+  {
+    "id": "course-06-025",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la mucca mangia",
+    "options": [
+      "🐮🍽️",
+      "🐮👣",
+      "🐶🍽️"
+    ],
+    "correctAnswer": "🐮🍽️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "mangia"
+  },
+  {
+    "id": "course-06-026",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la mucca cammina",
+    "options": [
+      "🐮🍽️",
+      "🐯👣",
+      "🐮👣"
+    ],
+    "correctAnswer": "🐮👣",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "cammina"
+  },
+  {
+    "id": "course-06-027",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la mucca dorme",
+    "options": [
+      "🐶💤",
+      "🐮💤",
+      "🐮🍽️"
+    ],
+    "correctAnswer": "🐮💤",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "dorme"
+  },
+  {
+    "id": "course-06-028",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la mucca beve",
+    "options": [
+      "🐮💧",
+      "🐮🍽️",
+      "🐝💧"
+    ],
+    "correctAnswer": "🐮💧",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "beve"
+  },
+  {
+    "id": "course-06-029",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "l'ape vola",
+    "options": [
+      "🐝🎶",
+      "🦉☁️",
+      "🐝☁️"
+    ],
+    "correctAnswer": "🐝☁️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "vola"
+  },
+  {
+    "id": "course-06-030",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "l'ape ronza",
+    "options": [
+      "🐝🛏️",
+      "🐝🎶",
+      "🐝☁️"
+    ],
+    "correctAnswer": "🐝🎶",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "ronza"
+  },
+  {
+    "id": "course-06-031",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "l'ape riposa",
+    "options": [
+      "🐝🛏️",
+      "🐝☁️",
+      "🐟🛏️"
+    ],
+    "correctAnswer": "🐝🛏️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "riposa"
+  },
+  {
+    "id": "course-06-032",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "l'ape beve",
+    "options": [
+      "🐝☁️",
+      "🐮💧",
+      "🐝💧"
+    ],
+    "correctAnswer": "🐝💧",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "beve"
+  },
+  {
+    "id": "course-06-033",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la foca nuota",
+    "options": [
+      "🐸🌊",
+      "🦭🌊",
+      "🦭⬆️"
+    ],
+    "correctAnswer": "🦭🌊",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "nuota"
+  },
+  {
+    "id": "course-06-034",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la foca salta",
+    "options": [
+      "🦭⬆️",
+      "🦭🌊",
+      "🐶⬆️"
+    ],
+    "correctAnswer": "🦭⬆️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "salta"
+  },
+  {
+    "id": "course-06-035",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la foca dorme",
+    "options": [
+      "🦭🌊",
+      "🐶💤",
+      "🦭💤"
+    ],
+    "correctAnswer": "🦭💤",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "dorme"
+  },
+  {
+    "id": "course-06-036",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la foca mangia",
+    "options": [
+      "🐶🍽️",
+      "🦭🍽️",
+      "🦭🌊"
+    ],
+    "correctAnswer": "🦭🍽️",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "mangia"
+  },
+  {
+    "id": "course-06-037",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la tigre corre",
+    "options": [
+      "🐯💨",
+      "🐯📣",
+      "🐶💨"
+    ],
+    "correctAnswer": "🐯💨",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "corre"
+  },
+  {
+    "id": "course-06-038",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la tigre ruggisce",
+    "options": [
+      "🐯💨",
+      "🦁📣",
+      "🐯📣"
+    ],
+    "correctAnswer": "🐯📣",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "ruggisce"
+  },
+  {
+    "id": "course-06-039",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la tigre dorme",
+    "options": [
+      "🐶💤",
+      "🐯💤",
+      "🐯💨"
+    ],
+    "correctAnswer": "🐯💤",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "dorme"
+  },
+  {
+    "id": "course-06-040",
+    "level": 6,
+    "levelTitle": "Frasi minime",
+    "difficulty": "medio",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la scena",
+    "display": "la tigre cammina",
+    "options": [
+      "🐯👣",
+      "🐯💨",
+      "🐮👣"
+    ],
+    "correctAnswer": "🐯👣",
+    "hint": "Prima cerca chi c’è, poi che cosa fa.",
+    "keyWord": "cammina"
+  },
+  {
+    "id": "course-07-001",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la palla è rossa",
+    "options": [
+      "⚽🔴",
+      "⚽🔵",
+      "⚽🟢"
+    ],
+    "correctAnswer": "⚽🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rossa"
+  },
+  {
+    "id": "course-07-002",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la palla è blu",
+    "options": [
+      "⚽🔴",
+      "⚽🟢",
+      "⚽🔵"
+    ],
+    "correctAnswer": "⚽🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-003",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la palla è verde",
+    "options": [
+      "⚽🔵",
+      "⚽🟢",
+      "⚽🔴"
+    ],
+    "correctAnswer": "⚽🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-004",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la palla è gialla",
+    "options": [
+      "⚽🟡",
+      "⚽🔴",
+      "⚽🔵"
+    ],
+    "correctAnswer": "⚽🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "gialla"
+  },
+  {
+    "id": "course-07-005",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la casa è rossa",
+    "options": [
+      "🏠🔵",
+      "🏠🟢",
+      "🏠🔴"
+    ],
+    "correctAnswer": "🏠🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rossa"
+  },
+  {
+    "id": "course-07-006",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la casa è blu",
+    "options": [
+      "🏠🟢",
+      "🏠🔵",
+      "🏠🔴"
+    ],
+    "correctAnswer": "🏠🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-007",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la casa è verde",
+    "options": [
+      "🏠🟢",
+      "🏠🔴",
+      "🏠🔵"
+    ],
+    "correctAnswer": "🏠🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-008",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la casa è gialla",
+    "options": [
+      "🏠🔴",
+      "🏠🔵",
+      "🏠🟡"
+    ],
+    "correctAnswer": "🏠🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "gialla"
+  },
+  {
+    "id": "course-07-009",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la nave è rossa",
+    "options": [
+      "🚢🟢",
+      "🚢🔴",
+      "🚢🔵"
+    ],
+    "correctAnswer": "🚢🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rossa"
+  },
+  {
+    "id": "course-07-010",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la nave è blu",
+    "options": [
+      "🚢🔵",
+      "🚢🔴",
+      "🚢🟢"
+    ],
+    "correctAnswer": "🚢🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-011",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la nave è verde",
+    "options": [
+      "🚢🔴",
+      "🚢🔵",
+      "🚢🟢"
+    ],
+    "correctAnswer": "🚢🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-012",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la nave è gialla",
+    "options": [
+      "🚢🔵",
+      "🚢🟡",
+      "🚢🔴"
+    ],
+    "correctAnswer": "🚢🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "gialla"
+  },
+  {
+    "id": "course-07-013",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la rana è rossa",
+    "options": [
+      "🐸🔴",
+      "🐸🔵",
+      "🐸🟢"
+    ],
+    "correctAnswer": "🐸🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rossa"
+  },
+  {
+    "id": "course-07-014",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la rana è blu",
+    "options": [
+      "🐸🔴",
+      "🐸🟢",
+      "🐸🔵"
+    ],
+    "correctAnswer": "🐸🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-015",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la rana è verde",
+    "options": [
+      "🐸🔵",
+      "🐸🟢",
+      "🐸🔴"
+    ],
+    "correctAnswer": "🐸🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-016",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la rana è gialla",
+    "options": [
+      "🐸🟡",
+      "🐸🔴",
+      "🐸🔵"
+    ],
+    "correctAnswer": "🐸🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "gialla"
+  },
+  {
+    "id": "course-07-017",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la mela è rossa",
+    "options": [
+      "🍎🔵",
+      "🍎🟢",
+      "🍎🔴"
+    ],
+    "correctAnswer": "🍎🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rossa"
+  },
+  {
+    "id": "course-07-018",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la mela è blu",
+    "options": [
+      "🍎🟢",
+      "🍎🔵",
+      "🍎🔴"
+    ],
+    "correctAnswer": "🍎🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-019",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la mela è verde",
+    "options": [
+      "🍎🟢",
+      "🍎🔴",
+      "🍎🔵"
+    ],
+    "correctAnswer": "🍎🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-020",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "la mela è gialla",
+    "options": [
+      "🍎🔴",
+      "🍎🔵",
+      "🍎🟡"
+    ],
+    "correctAnswer": "🍎🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "gialla"
+  },
+  {
+    "id": "course-07-021",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il libro è rosso",
+    "options": [
+      "📘🟢",
+      "📘🔴",
+      "📘🔵"
+    ],
+    "correctAnswer": "📘🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rosso"
+  },
+  {
+    "id": "course-07-022",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il libro è blu",
+    "options": [
+      "📘🔵",
+      "📘🔴",
+      "📘🟢"
+    ],
+    "correctAnswer": "📘🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-023",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il libro è verde",
+    "options": [
+      "📘🔴",
+      "📘🔵",
+      "📘🟢"
+    ],
+    "correctAnswer": "📘🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-024",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il libro è giallo",
+    "options": [
+      "📘🔵",
+      "📘🟡",
+      "📘🔴"
+    ],
+    "correctAnswer": "📘🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "giallo"
+  },
+  {
+    "id": "course-07-025",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il fiore è rosso",
+    "options": [
+      "🌸🔴",
+      "🌸🔵",
+      "🌸🟢"
+    ],
+    "correctAnswer": "🌸🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rosso"
+  },
+  {
+    "id": "course-07-026",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il fiore è blu",
+    "options": [
+      "🌸🔴",
+      "🌸🟢",
+      "🌸🔵"
+    ],
+    "correctAnswer": "🌸🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-027",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il fiore è verde",
+    "options": [
+      "🌸🔵",
+      "🌸🟢",
+      "🌸🔴"
+    ],
+    "correctAnswer": "🌸🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-028",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il fiore è giallo",
+    "options": [
+      "🌸🟡",
+      "🌸🔴",
+      "🌸🔵"
+    ],
+    "correctAnswer": "🌸🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "giallo"
+  },
+  {
+    "id": "course-07-029",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il vaso è rosso",
+    "options": [
+      "🏺🔵",
+      "🏺🟢",
+      "🏺🔴"
+    ],
+    "correctAnswer": "🏺🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rosso"
+  },
+  {
+    "id": "course-07-030",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il vaso è blu",
+    "options": [
+      "🏺🟢",
+      "🏺🔵",
+      "🏺🔴"
+    ],
+    "correctAnswer": "🏺🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-031",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il vaso è verde",
+    "options": [
+      "🏺🟢",
+      "🏺🔴",
+      "🏺🔵"
+    ],
+    "correctAnswer": "🏺🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-032",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il vaso è giallo",
+    "options": [
+      "🏺🔴",
+      "🏺🔵",
+      "🏺🟡"
+    ],
+    "correctAnswer": "🏺🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "giallo"
+  },
+  {
+    "id": "course-07-033",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il dado è rosso",
+    "options": [
+      "🎲🟢",
+      "🎲🔴",
+      "🎲🔵"
+    ],
+    "correctAnswer": "🎲🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rosso"
+  },
+  {
+    "id": "course-07-034",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il dado è blu",
+    "options": [
+      "🎲🔵",
+      "🎲🔴",
+      "🎲🟢"
+    ],
+    "correctAnswer": "🎲🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-035",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il dado è verde",
+    "options": [
+      "🎲🔴",
+      "🎲🔵",
+      "🎲🟢"
+    ],
+    "correctAnswer": "🎲🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-036",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il dado è giallo",
+    "options": [
+      "🎲🔵",
+      "🎲🟡",
+      "🎲🔴"
+    ],
+    "correctAnswer": "🎲🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "giallo"
+  },
+  {
+    "id": "course-07-037",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il gatto è rosso",
+    "options": [
+      "🐱🔴",
+      "🐱🔵",
+      "🐱🟢"
+    ],
+    "correctAnswer": "🐱🔴",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "rosso"
+  },
+  {
+    "id": "course-07-038",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il gatto è blu",
+    "options": [
+      "🐱🔴",
+      "🐱🟢",
+      "🐱🔵"
+    ],
+    "correctAnswer": "🐱🔵",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "blu"
+  },
+  {
+    "id": "course-07-039",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il gatto è verde",
+    "options": [
+      "🐱🔵",
+      "🐱🟢",
+      "🐱🔴"
+    ],
+    "correctAnswer": "🐱🟢",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "verde"
+  },
+  {
+    "id": "course-07-040",
+    "level": 7,
+    "levelTitle": "Frasi con qualità",
+    "difficulty": "difficile",
+    "activity": "sentence-to-image",
+    "prompt": "Leggi e scegli la figura giusta",
+    "display": "il gatto è giallo",
+    "options": [
+      "🐱🟡",
+      "🐱🔴",
+      "🐱🔵"
+    ],
+    "correctAnswer": "🐱🟡",
+    "hint": "Rileggi la parola del colore.",
+    "keyWord": "giallo"
+  },
+  {
+    "id": "course-08-001",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐶💨",
+    "visual": "La scena mostra: il cane corre.",
+    "options": [
+      "il",
+      "cane",
+      "corre"
+    ],
+    "correctAnswer": "il cane corre",
+    "hint": "Inizia con IL.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-08-002",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐶💤",
+    "visual": "La scena mostra: il cane dorme.",
+    "options": [
+      "cane",
+      "dorme",
+      "il"
+    ],
+    "correctAnswer": "il cane dorme",
+    "hint": "Inizia con IL.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-08-003",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐶🍽️",
+    "visual": "La scena mostra: il cane mangia.",
+    "options": [
+      "mangia",
+      "il",
+      "cane"
+    ],
+    "correctAnswer": "il cane mangia",
+    "hint": "Inizia con IL.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-08-004",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐶⬆️",
+    "visual": "La scena mostra: il cane salta.",
+    "options": [
+      "il",
+      "cane",
+      "salta"
+    ],
+    "correctAnswer": "il cane salta",
+    "hint": "Inizia con IL.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-08-005",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐱💨",
+    "visual": "La scena mostra: il gatto corre.",
+    "options": [
+      "gatto",
+      "corre",
+      "il"
+    ],
+    "correctAnswer": "il gatto corre",
+    "hint": "Inizia con IL.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-08-006",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐱💤",
+    "visual": "La scena mostra: il gatto dorme.",
+    "options": [
+      "dorme",
+      "il",
+      "gatto"
+    ],
+    "correctAnswer": "il gatto dorme",
+    "hint": "Inizia con IL.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-08-007",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐱🍽️",
+    "visual": "La scena mostra: il gatto mangia.",
+    "options": [
+      "il",
+      "gatto",
+      "mangia"
+    ],
+    "correctAnswer": "il gatto mangia",
+    "hint": "Inizia con IL.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-08-008",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐱⬆️",
+    "visual": "La scena mostra: il gatto salta.",
+    "options": [
+      "gatto",
+      "salta",
+      "il"
+    ],
+    "correctAnswer": "il gatto salta",
+    "hint": "Inizia con IL.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-08-009",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐸⬆️",
+    "visual": "La scena mostra: la rana salta.",
+    "options": [
+      "salta",
+      "la",
+      "rana"
+    ],
+    "correctAnswer": "la rana salta",
+    "hint": "Inizia con LA.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-08-010",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐸🌊",
+    "visual": "La scena mostra: la rana nuota.",
+    "options": [
+      "la",
+      "rana",
+      "nuota"
+    ],
+    "correctAnswer": "la rana nuota",
+    "hint": "Inizia con LA.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-08-011",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐸💤",
+    "visual": "La scena mostra: la rana dorme.",
+    "options": [
+      "rana",
+      "dorme",
+      "la"
+    ],
+    "correctAnswer": "la rana dorme",
+    "hint": "Inizia con LA.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-08-012",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐸🍽️",
+    "visual": "La scena mostra: la rana mangia.",
+    "options": [
+      "mangia",
+      "la",
+      "rana"
+    ],
+    "correctAnswer": "la rana mangia",
+    "hint": "Inizia con LA.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-08-013",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐟🌊",
+    "visual": "La scena mostra: il pesce nuota.",
+    "options": [
+      "il",
+      "pesce",
+      "nuota"
+    ],
+    "correctAnswer": "il pesce nuota",
+    "hint": "Inizia con IL.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-08-014",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐟🍽️",
+    "visual": "La scena mostra: il pesce mangia.",
+    "options": [
+      "pesce",
+      "mangia",
+      "il"
+    ],
+    "correctAnswer": "il pesce mangia",
+    "hint": "Inizia con IL.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-08-015",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐟🛏️",
+    "visual": "La scena mostra: il pesce riposa.",
+    "options": [
+      "riposa",
+      "il",
+      "pesce"
+    ],
+    "correctAnswer": "il pesce riposa",
+    "hint": "Inizia con IL.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-08-016",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐟⬆️",
+    "visual": "La scena mostra: il pesce salta.",
+    "options": [
+      "il",
+      "pesce",
+      "salta"
+    ],
+    "correctAnswer": "il pesce salta",
+    "hint": "Inizia con IL.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-08-017",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦉☁️",
+    "visual": "La scena mostra: il gufo vola.",
+    "options": [
+      "gufo",
+      "vola",
+      "il"
+    ],
+    "correctAnswer": "il gufo vola",
+    "hint": "Inizia con IL.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-08-018",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦉👀",
+    "visual": "La scena mostra: il gufo guarda.",
+    "options": [
+      "guarda",
+      "il",
+      "gufo"
+    ],
+    "correctAnswer": "il gufo guarda",
+    "hint": "Inizia con IL.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-08-019",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦉💤",
+    "visual": "La scena mostra: il gufo dorme.",
+    "options": [
+      "il",
+      "gufo",
+      "dorme"
+    ],
+    "correctAnswer": "il gufo dorme",
+    "hint": "Inizia con IL.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-08-020",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦉🎵",
+    "visual": "La scena mostra: il gufo canta.",
+    "options": [
+      "gufo",
+      "canta",
+      "il"
+    ],
+    "correctAnswer": "il gufo canta",
+    "hint": "Inizia con IL.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-08-021",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦁💨",
+    "visual": "La scena mostra: il leone corre.",
+    "options": [
+      "corre",
+      "il",
+      "leone"
+    ],
+    "correctAnswer": "il leone corre",
+    "hint": "Inizia con IL.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-08-022",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦁📣",
+    "visual": "La scena mostra: il leone ruggisce.",
+    "options": [
+      "il",
+      "leone",
+      "ruggisce"
+    ],
+    "correctAnswer": "il leone ruggisce",
+    "hint": "Inizia con IL.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-08-023",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦁💤",
+    "visual": "La scena mostra: il leone dorme.",
+    "options": [
+      "leone",
+      "dorme",
+      "il"
+    ],
+    "correctAnswer": "il leone dorme",
+    "hint": "Inizia con IL.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-08-024",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦁🍽️",
+    "visual": "La scena mostra: il leone mangia.",
+    "options": [
+      "mangia",
+      "il",
+      "leone"
+    ],
+    "correctAnswer": "il leone mangia",
+    "hint": "Inizia con IL.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-08-025",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐮🍽️",
+    "visual": "La scena mostra: la mucca mangia.",
+    "options": [
+      "la",
+      "mucca",
+      "mangia"
+    ],
+    "correctAnswer": "la mucca mangia",
+    "hint": "Inizia con LA.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-08-026",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐮👣",
+    "visual": "La scena mostra: la mucca cammina.",
+    "options": [
+      "mucca",
+      "cammina",
+      "la"
+    ],
+    "correctAnswer": "la mucca cammina",
+    "hint": "Inizia con LA.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-08-027",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐮💤",
+    "visual": "La scena mostra: la mucca dorme.",
+    "options": [
+      "dorme",
+      "la",
+      "mucca"
+    ],
+    "correctAnswer": "la mucca dorme",
+    "hint": "Inizia con LA.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-08-028",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐮💧",
+    "visual": "La scena mostra: la mucca beve.",
+    "options": [
+      "la",
+      "mucca",
+      "beve"
+    ],
+    "correctAnswer": "la mucca beve",
+    "hint": "Inizia con LA.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-08-029",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐝☁️",
+    "visual": "La scena mostra: l'ape vola.",
+    "options": [
+      "ape",
+      "vola",
+      "l'"
+    ],
+    "correctAnswer": "l'ape vola",
+    "hint": "Inizia con L'.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-08-030",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐝🎶",
+    "visual": "La scena mostra: l'ape ronza.",
+    "options": [
+      "ronza",
+      "l'",
+      "ape"
+    ],
+    "correctAnswer": "l'ape ronza",
+    "hint": "Inizia con L'.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-08-031",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐝🛏️",
+    "visual": "La scena mostra: l'ape riposa.",
+    "options": [
+      "l'",
+      "ape",
+      "riposa"
+    ],
+    "correctAnswer": "l'ape riposa",
+    "hint": "Inizia con L'.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-08-032",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐝💧",
+    "visual": "La scena mostra: l'ape beve.",
+    "options": [
+      "ape",
+      "beve",
+      "l'"
+    ],
+    "correctAnswer": "l'ape beve",
+    "hint": "Inizia con L'.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-08-033",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦭🌊",
+    "visual": "La scena mostra: la foca nuota.",
+    "options": [
+      "nuota",
+      "la",
+      "foca"
+    ],
+    "correctAnswer": "la foca nuota",
+    "hint": "Inizia con LA.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-08-034",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦭⬆️",
+    "visual": "La scena mostra: la foca salta.",
+    "options": [
+      "la",
+      "foca",
+      "salta"
+    ],
+    "correctAnswer": "la foca salta",
+    "hint": "Inizia con LA.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-08-035",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦭💤",
+    "visual": "La scena mostra: la foca dorme.",
+    "options": [
+      "foca",
+      "dorme",
+      "la"
+    ],
+    "correctAnswer": "la foca dorme",
+    "hint": "Inizia con LA.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-08-036",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🦭🍽️",
+    "visual": "La scena mostra: la foca mangia.",
+    "options": [
+      "mangia",
+      "la",
+      "foca"
+    ],
+    "correctAnswer": "la foca mangia",
+    "hint": "Inizia con LA.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-08-037",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐯💨",
+    "visual": "La scena mostra: la tigre corre.",
+    "options": [
+      "la",
+      "tigre",
+      "corre"
+    ],
+    "correctAnswer": "la tigre corre",
+    "hint": "Inizia con LA.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-08-038",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐯📣",
+    "visual": "La scena mostra: la tigre ruggisce.",
+    "options": [
+      "tigre",
+      "ruggisce",
+      "la"
+    ],
+    "correctAnswer": "la tigre ruggisce",
+    "hint": "Inizia con LA.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-08-039",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐯💤",
+    "visual": "La scena mostra: la tigre dorme.",
+    "options": [
+      "dorme",
+      "la",
+      "tigre"
+    ],
+    "correctAnswer": "la tigre dorme",
+    "hint": "Inizia con LA.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-08-040",
+    "level": 8,
+    "levelTitle": "Costruisci la frase",
+    "difficulty": "difficile",
+    "activity": "build-sentence",
+    "prompt": "Metti le parole in ordine",
+    "display": "🐯👣",
+    "visual": "La scena mostra: la tigre cammina.",
+    "options": [
+      "la",
+      "tigre",
+      "cammina"
+    ],
+    "correctAnswer": "la tigre cammina",
+    "hint": "Inizia con LA.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-09-001",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il cane ___",
+    "visual": "🐶💨",
+    "options": [
+      "corre",
+      "dorme",
+      "mangia"
+    ],
+    "correctAnswer": "corre",
+    "hint": "Guarda che cosa fa il cane.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-09-002",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il cane ___",
+    "visual": "🐶💤",
+    "options": [
+      "mangia",
+      "salta",
+      "dorme"
+    ],
+    "correctAnswer": "dorme",
+    "hint": "Guarda che cosa fa il cane.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-09-003",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il cane ___",
+    "visual": "🐶🍽️",
+    "options": [
+      "nuota",
+      "mangia",
+      "salta"
+    ],
+    "correctAnswer": "mangia",
+    "hint": "Guarda che cosa fa il cane.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-09-004",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il cane ___",
+    "visual": "🐶⬆️",
+    "options": [
+      "salta",
+      "nuota",
+      "riposa"
+    ],
+    "correctAnswer": "salta",
+    "hint": "Guarda che cosa fa il cane.",
+    "keyWord": "cane"
+  },
+  {
+    "id": "course-09-005",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il gatto ___",
+    "visual": "🐱💨",
+    "options": [
+      "riposa",
+      "vola",
+      "corre"
+    ],
+    "correctAnswer": "corre",
+    "hint": "Guarda che cosa fa il gatto.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-09-006",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il gatto ___",
+    "visual": "🐱💤",
+    "options": [
+      "mangia",
+      "dorme",
+      "corre"
+    ],
+    "correctAnswer": "dorme",
+    "hint": "Guarda che cosa fa il gatto.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-09-007",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il gatto ___",
+    "visual": "🐱🍽️",
+    "options": [
+      "mangia",
+      "dorme",
+      "salta"
+    ],
+    "correctAnswer": "mangia",
+    "hint": "Guarda che cosa fa il gatto.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-09-008",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il gatto ___",
+    "visual": "🐱⬆️",
+    "options": [
+      "mangia",
+      "nuota",
+      "salta"
+    ],
+    "correctAnswer": "salta",
+    "hint": "Guarda che cosa fa il gatto.",
+    "keyWord": "gatto"
+  },
+  {
+    "id": "course-09-009",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la rana ___",
+    "visual": "🐸⬆️",
+    "options": [
+      "riposa",
+      "salta",
+      "nuota"
+    ],
+    "correctAnswer": "salta",
+    "hint": "Guarda che cosa fa la rana.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-09-010",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la rana ___",
+    "visual": "🐸🌊",
+    "options": [
+      "nuota",
+      "riposa",
+      "vola"
+    ],
+    "correctAnswer": "nuota",
+    "hint": "Guarda che cosa fa la rana.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-09-011",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la rana ___",
+    "visual": "🐸💤",
+    "options": [
+      "corre",
+      "mangia",
+      "dorme"
+    ],
+    "correctAnswer": "dorme",
+    "hint": "Guarda che cosa fa la rana.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-09-012",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la rana ___",
+    "visual": "🐸🍽️",
+    "options": [
+      "salta",
+      "mangia",
+      "dorme"
+    ],
+    "correctAnswer": "mangia",
+    "hint": "Guarda che cosa fa la rana.",
+    "keyWord": "rana"
+  },
+  {
+    "id": "course-09-013",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il pesce ___",
+    "visual": "🐟🌊",
+    "options": [
+      "nuota",
+      "mangia",
+      "salta"
+    ],
+    "correctAnswer": "nuota",
+    "hint": "Guarda che cosa fa il pesce.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-09-014",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il pesce ___",
+    "visual": "🐟🍽️",
+    "options": [
+      "nuota",
+      "riposa",
+      "mangia"
+    ],
+    "correctAnswer": "mangia",
+    "hint": "Guarda che cosa fa il pesce.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-09-015",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il pesce ___",
+    "visual": "🐟🛏️",
+    "options": [
+      "vola",
+      "riposa",
+      "nuota"
+    ],
+    "correctAnswer": "riposa",
+    "hint": "Guarda che cosa fa il pesce.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-09-016",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il pesce ___",
+    "visual": "🐟⬆️",
+    "options": [
+      "salta",
+      "corre",
+      "dorme"
+    ],
+    "correctAnswer": "salta",
+    "hint": "Guarda che cosa fa il pesce.",
+    "keyWord": "pesce"
+  },
+  {
+    "id": "course-09-017",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il gufo ___",
+    "visual": "🦉☁️",
+    "options": [
+      "dorme",
+      "mangia",
+      "vola"
+    ],
+    "correctAnswer": "vola",
+    "hint": "Guarda che cosa fa il gufo.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-09-018",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il gufo ___",
+    "visual": "🦉👀",
+    "options": [
+      "salta",
+      "guarda",
+      "mangia"
+    ],
+    "correctAnswer": "guarda",
+    "hint": "Guarda che cosa fa il gufo.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-09-019",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il gufo ___",
+    "visual": "🦉💤",
+    "options": [
+      "dorme",
+      "nuota",
+      "riposa"
+    ],
+    "correctAnswer": "dorme",
+    "hint": "Guarda che cosa fa il gufo.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-09-020",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il gufo ___",
+    "visual": "🦉🎵",
+    "options": [
+      "nuota",
+      "riposa",
+      "canta"
+    ],
+    "correctAnswer": "canta",
+    "hint": "Guarda che cosa fa il gufo.",
+    "keyWord": "gufo"
+  },
+  {
+    "id": "course-09-021",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il leone ___",
+    "visual": "🦁💨",
+    "options": [
+      "mangia",
+      "corre",
+      "dorme"
+    ],
+    "correctAnswer": "corre",
+    "hint": "Guarda che cosa fa il leone.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-09-022",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il leone ___",
+    "visual": "🦁📣",
+    "options": [
+      "ruggisce",
+      "dorme",
+      "mangia"
+    ],
+    "correctAnswer": "ruggisce",
+    "hint": "Guarda che cosa fa il leone.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-09-023",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il leone ___",
+    "visual": "🦁💤",
+    "options": [
+      "salta",
+      "nuota",
+      "dorme"
+    ],
+    "correctAnswer": "dorme",
+    "hint": "Guarda che cosa fa il leone.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-09-024",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "il leone ___",
+    "visual": "🦁🍽️",
+    "options": [
+      "riposa",
+      "mangia",
+      "nuota"
+    ],
+    "correctAnswer": "mangia",
+    "hint": "Guarda che cosa fa il leone.",
+    "keyWord": "leone"
+  },
+  {
+    "id": "course-09-025",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la mucca ___",
+    "visual": "🐮🍽️",
+    "options": [
+      "mangia",
+      "riposa",
+      "vola"
+    ],
+    "correctAnswer": "mangia",
+    "hint": "Guarda che cosa fa la mucca.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-09-026",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la mucca ___",
+    "visual": "🐮👣",
+    "options": [
+      "corre",
+      "dorme",
+      "cammina"
+    ],
+    "correctAnswer": "cammina",
+    "hint": "Guarda che cosa fa la mucca.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-09-027",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la mucca ___",
+    "visual": "🐮💤",
+    "options": [
+      "salta",
+      "dorme",
+      "mangia"
+    ],
+    "correctAnswer": "dorme",
+    "hint": "Guarda che cosa fa la mucca.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-09-028",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la mucca ___",
+    "visual": "🐮💧",
+    "options": [
+      "beve",
+      "mangia",
+      "salta"
+    ],
+    "correctAnswer": "beve",
+    "hint": "Guarda che cosa fa la mucca.",
+    "keyWord": "mucca"
+  },
+  {
+    "id": "course-09-029",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "l'ape ___",
+    "visual": "🐝☁️",
+    "options": [
+      "salta",
+      "nuota",
+      "vola"
+    ],
+    "correctAnswer": "vola",
+    "hint": "Guarda che cosa fa l'ape.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-09-030",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "l'ape ___",
+    "visual": "🐝🎶",
+    "options": [
+      "riposa",
+      "ronza",
+      "nuota"
+    ],
+    "correctAnswer": "ronza",
+    "hint": "Guarda che cosa fa l'ape.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-09-031",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "l'ape ___",
+    "visual": "🐝🛏️",
+    "options": [
+      "riposa",
+      "corre",
+      "dorme"
+    ],
+    "correctAnswer": "riposa",
+    "hint": "Guarda che cosa fa l'ape.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-09-032",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "l'ape ___",
+    "visual": "🐝💧",
+    "options": [
+      "dorme",
+      "mangia",
+      "beve"
+    ],
+    "correctAnswer": "beve",
+    "hint": "Guarda che cosa fa l'ape.",
+    "keyWord": "ape"
+  },
+  {
+    "id": "course-09-033",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la foca ___",
+    "visual": "🦭🌊",
+    "options": [
+      "salta",
+      "nuota",
+      "mangia"
+    ],
+    "correctAnswer": "nuota",
+    "hint": "Guarda che cosa fa la foca.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-09-034",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la foca ___",
+    "visual": "🦭⬆️",
+    "options": [
+      "salta",
+      "nuota",
+      "riposa"
+    ],
+    "correctAnswer": "salta",
+    "hint": "Guarda che cosa fa la foca.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-09-035",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la foca ___",
+    "visual": "🦭💤",
+    "options": [
+      "riposa",
+      "vola",
+      "dorme"
+    ],
+    "correctAnswer": "dorme",
+    "hint": "Guarda che cosa fa la foca.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-09-036",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la foca ___",
+    "visual": "🦭🍽️",
+    "options": [
+      "dorme",
+      "mangia",
+      "corre"
+    ],
+    "correctAnswer": "mangia",
+    "hint": "Guarda che cosa fa la foca.",
+    "keyWord": "foca"
+  },
+  {
+    "id": "course-09-037",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la tigre ___",
+    "visual": "🐯💨",
+    "options": [
+      "corre",
+      "mangia",
+      "salta"
+    ],
+    "correctAnswer": "corre",
+    "hint": "Guarda che cosa fa la tigre.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-09-038",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la tigre ___",
+    "visual": "🐯📣",
+    "options": [
+      "mangia",
+      "salta",
+      "ruggisce"
+    ],
+    "correctAnswer": "ruggisce",
+    "hint": "Guarda che cosa fa la tigre.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-09-039",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la tigre ___",
+    "visual": "🐯💤",
+    "options": [
+      "riposa",
+      "dorme",
+      "nuota"
+    ],
+    "correctAnswer": "dorme",
+    "hint": "Guarda che cosa fa la tigre.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-09-040",
+    "level": 9,
+    "levelTitle": "Completa la frase",
+    "difficulty": "difficile",
+    "activity": "complete-sentence",
+    "prompt": "Scegli la parola che manca",
+    "display": "la tigre ___",
+    "visual": "🐯👣",
+    "options": [
+      "cammina",
+      "nuota",
+      "riposa"
+    ],
+    "correctAnswer": "cammina",
+    "hint": "Guarda che cosa fa la tigre.",
+    "keyWord": "tigre"
+  },
+  {
+    "id": "course-10-001",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐶💨",
+    "options": [
+      "il cane corre",
+      "il cane dorme",
+      "il gatto corre"
+    ],
+    "correctAnswer": "il cane corre",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "cane corre"
+  },
+  {
+    "id": "course-10-002",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐶💤",
+    "options": [
+      "il cane corre",
+      "il gatto dorme",
+      "il cane dorme"
+    ],
+    "correctAnswer": "il cane dorme",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "cane dorme"
+  },
+  {
+    "id": "course-10-003",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐶🍽️",
+    "options": [
+      "il gatto mangia",
+      "il cane mangia",
+      "il cane corre"
+    ],
+    "correctAnswer": "il cane mangia",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "cane mangia"
+  },
+  {
+    "id": "course-10-004",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐶⬆️",
+    "options": [
+      "il cane salta",
+      "il cane corre",
+      "il gatto salta"
+    ],
+    "correctAnswer": "il cane salta",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "cane salta"
+  },
+  {
+    "id": "course-10-005",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐱💨",
+    "options": [
+      "il gatto dorme",
+      "il cane corre",
+      "il gatto corre"
+    ],
+    "correctAnswer": "il gatto corre",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "gatto corre"
+  },
+  {
+    "id": "course-10-006",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐱💤",
+    "options": [
+      "il cane dorme",
+      "il gatto dorme",
+      "il gatto corre"
+    ],
+    "correctAnswer": "il gatto dorme",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "gatto dorme"
+  },
+  {
+    "id": "course-10-007",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐱🍽️",
+    "options": [
+      "il gatto mangia",
+      "il gatto corre",
+      "il cane mangia"
+    ],
+    "correctAnswer": "il gatto mangia",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "gatto mangia"
+  },
+  {
+    "id": "course-10-008",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐱⬆️",
+    "options": [
+      "il gatto corre",
+      "il cane salta",
+      "il gatto salta"
+    ],
+    "correctAnswer": "il gatto salta",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "gatto salta"
+  },
+  {
+    "id": "course-10-009",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐸⬆️",
+    "options": [
+      "il cane salta",
+      "la rana salta",
+      "la rana nuota"
+    ],
+    "correctAnswer": "la rana salta",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "rana salta"
+  },
+  {
+    "id": "course-10-010",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐸🌊",
+    "options": [
+      "la rana nuota",
+      "la rana salta",
+      "il pesce nuota"
+    ],
+    "correctAnswer": "la rana nuota",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "rana nuota"
+  },
+  {
+    "id": "course-10-011",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐸💤",
+    "options": [
+      "la rana salta",
+      "il cane dorme",
+      "la rana dorme"
+    ],
+    "correctAnswer": "la rana dorme",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "rana dorme"
+  },
+  {
+    "id": "course-10-012",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐸🍽️",
+    "options": [
+      "il cane mangia",
+      "la rana mangia",
+      "la rana salta"
+    ],
+    "correctAnswer": "la rana mangia",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "rana mangia"
+  },
+  {
+    "id": "course-10-013",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐟🌊",
+    "options": [
+      "il pesce nuota",
+      "il pesce mangia",
+      "la rana nuota"
+    ],
+    "correctAnswer": "il pesce nuota",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "pesce nuota"
+  },
+  {
+    "id": "course-10-014",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐟🍽️",
+    "options": [
+      "il pesce nuota",
+      "il cane mangia",
+      "il pesce mangia"
+    ],
+    "correctAnswer": "il pesce mangia",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "pesce mangia"
+  },
+  {
+    "id": "course-10-015",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐟🛏️",
+    "options": [
+      "l'ape riposa",
+      "il pesce riposa",
+      "il pesce nuota"
+    ],
+    "correctAnswer": "il pesce riposa",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "pesce riposa"
+  },
+  {
+    "id": "course-10-016",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐟⬆️",
+    "options": [
+      "il pesce salta",
+      "il pesce nuota",
+      "il cane salta"
+    ],
+    "correctAnswer": "il pesce salta",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "pesce salta"
+  },
+  {
+    "id": "course-10-017",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦉☁️",
+    "options": [
+      "il gufo guarda",
+      "l'ape vola",
+      "il gufo vola"
+    ],
+    "correctAnswer": "il gufo vola",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "gufo vola"
+  },
+  {
+    "id": "course-10-018",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦉👀",
+    "options": [
+      "il gufo dorme",
+      "il gufo guarda",
+      "il gufo vola"
+    ],
+    "correctAnswer": "il gufo guarda",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "gufo guarda"
+  },
+  {
+    "id": "course-10-019",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦉💤",
+    "options": [
+      "il gufo dorme",
+      "il gufo vola",
+      "il cane dorme"
+    ],
+    "correctAnswer": "il gufo dorme",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "gufo dorme"
+  },
+  {
+    "id": "course-10-020",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦉🎵",
+    "options": [
+      "il gufo vola",
+      "il leone corre",
+      "il gufo canta"
+    ],
+    "correctAnswer": "il gufo canta",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "gufo canta"
+  },
+  {
+    "id": "course-10-021",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦁💨",
+    "options": [
+      "il cane corre",
+      "il leone corre",
+      "il leone ruggisce"
+    ],
+    "correctAnswer": "il leone corre",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "leone corre"
+  },
+  {
+    "id": "course-10-022",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦁📣",
+    "options": [
+      "il leone ruggisce",
+      "il leone corre",
+      "la tigre ruggisce"
+    ],
+    "correctAnswer": "il leone ruggisce",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "leone ruggisce"
+  },
+  {
+    "id": "course-10-023",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦁💤",
+    "options": [
+      "il leone corre",
+      "il cane dorme",
+      "il leone dorme"
+    ],
+    "correctAnswer": "il leone dorme",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "leone dorme"
+  },
+  {
+    "id": "course-10-024",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦁🍽️",
+    "options": [
+      "il cane mangia",
+      "il leone mangia",
+      "il leone corre"
+    ],
+    "correctAnswer": "il leone mangia",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "leone mangia"
+  },
+  {
+    "id": "course-10-025",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐮🍽️",
+    "options": [
+      "la mucca mangia",
+      "la mucca cammina",
+      "il cane mangia"
+    ],
+    "correctAnswer": "la mucca mangia",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "mucca mangia"
+  },
+  {
+    "id": "course-10-026",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐮👣",
+    "options": [
+      "la mucca mangia",
+      "la tigre cammina",
+      "la mucca cammina"
+    ],
+    "correctAnswer": "la mucca cammina",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "mucca cammina"
+  },
+  {
+    "id": "course-10-027",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐮💤",
+    "options": [
+      "il cane dorme",
+      "la mucca dorme",
+      "la mucca mangia"
+    ],
+    "correctAnswer": "la mucca dorme",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "mucca dorme"
+  },
+  {
+    "id": "course-10-028",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐮💧",
+    "options": [
+      "la mucca beve",
+      "la mucca mangia",
+      "l'ape beve"
+    ],
+    "correctAnswer": "la mucca beve",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "mucca beve"
+  },
+  {
+    "id": "course-10-029",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐝☁️",
+    "options": [
+      "l'ape ronza",
+      "il gufo vola",
+      "l'ape vola"
+    ],
+    "correctAnswer": "l'ape vola",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "ape vola"
+  },
+  {
+    "id": "course-10-030",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐝🎶",
+    "options": [
+      "l'ape riposa",
+      "l'ape ronza",
+      "l'ape vola"
+    ],
+    "correctAnswer": "l'ape ronza",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "ape ronza"
+  },
+  {
+    "id": "course-10-031",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐝🛏️",
+    "options": [
+      "l'ape riposa",
+      "l'ape vola",
+      "il pesce riposa"
+    ],
+    "correctAnswer": "l'ape riposa",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "ape riposa"
+  },
+  {
+    "id": "course-10-032",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐝💧",
+    "options": [
+      "l'ape vola",
+      "la mucca beve",
+      "l'ape beve"
+    ],
+    "correctAnswer": "l'ape beve",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "ape beve"
+  },
+  {
+    "id": "course-10-033",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦭🌊",
+    "options": [
+      "la rana nuota",
+      "la foca nuota",
+      "la foca salta"
+    ],
+    "correctAnswer": "la foca nuota",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "foca nuota"
+  },
+  {
+    "id": "course-10-034",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦭⬆️",
+    "options": [
+      "la foca salta",
+      "la foca nuota",
+      "il cane salta"
+    ],
+    "correctAnswer": "la foca salta",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "foca salta"
+  },
+  {
+    "id": "course-10-035",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦭💤",
+    "options": [
+      "la foca nuota",
+      "il cane dorme",
+      "la foca dorme"
+    ],
+    "correctAnswer": "la foca dorme",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "foca dorme"
+  },
+  {
+    "id": "course-10-036",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🦭🍽️",
+    "options": [
+      "il cane mangia",
+      "la foca mangia",
+      "la foca nuota"
+    ],
+    "correctAnswer": "la foca mangia",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "foca mangia"
+  },
+  {
+    "id": "course-10-037",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐯💨",
+    "options": [
+      "la tigre corre",
+      "la tigre ruggisce",
+      "il cane corre"
+    ],
+    "correctAnswer": "la tigre corre",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "tigre corre"
+  },
+  {
+    "id": "course-10-038",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐯📣",
+    "options": [
+      "la tigre corre",
+      "il leone ruggisce",
+      "la tigre ruggisce"
+    ],
+    "correctAnswer": "la tigre ruggisce",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "tigre ruggisce"
+  },
+  {
+    "id": "course-10-039",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐯💤",
+    "options": [
+      "il cane dorme",
+      "la tigre dorme",
+      "la tigre corre"
+    ],
+    "correctAnswer": "la tigre dorme",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "tigre dorme"
+  },
+  {
+    "id": "course-10-040",
+    "level": 10,
+    "levelTitle": "Capisco la frase",
+    "difficulty": "difficile",
+    "activity": "image-to-sentence",
+    "prompt": "Scegli la frase giusta",
+    "display": "🐯👣",
+    "options": [
+      "la tigre cammina",
+      "la tigre corre",
+      "la mucca cammina"
+    ],
+    "correctAnswer": "la tigre cammina",
+    "hint": "Controlla sia chi c’è sia che cosa fa.",
+    "keyWord": "tigre cammina"
+  }
 ]

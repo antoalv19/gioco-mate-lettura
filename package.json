@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate:reading": "node scripts/generate-learn-to-read.mjs"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
