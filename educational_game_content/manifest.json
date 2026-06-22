@@ -7,6 +7,7 @@
     "subtraction": "math-subtraction.json",
     "reading": "reading.json",
     "writing": "writing.json",
-    "practiceLessons": "practice-lessons.json"
+    "practiceLessons": "practice-lessons.json",
+    "learnToRead": "learn-to-read.json"
   }
 }

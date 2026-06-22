@@ -1,6 +1,6 @@
 import { contentSourceConfig } from '../config/contentSource';
 import type { GameContent } from '../types/content';
-import { validateFacts, validateMath, validatePractice, validateReading, validateWriting } from './validators';
+import { validateFacts, validateLearnToRead, validateMath, validatePractice, validateReading, validateWriting } from './validators';
 
 type Manifest = { files: Record<keyof GameContent, string> };
 const getJson = async (url: string) => {
@@ -20,7 +20,7 @@ async function loadFrom(baseUrl: string): Promise<GameContent> {
   const raw = Object.fromEntries(keys.map((key, index) => [key, values[index]])) as Record<keyof GameContent, unknown>;
   return {
     funFacts: validateFacts(raw.funFacts), addition: validateMath(raw.addition, 'addition'), subtraction: validateMath(raw.subtraction, 'subtraction'),
-    reading: validateReading(raw.reading), writing: validateWriting(raw.writing), practiceLessons: validatePractice(raw.practiceLessons),
+    reading: validateReading(raw.reading), writing: validateWriting(raw.writing), practiceLessons: validatePractice(raw.practiceLessons), learnToRead: validateLearnToRead(raw.learnToRead),
   };
 }
 

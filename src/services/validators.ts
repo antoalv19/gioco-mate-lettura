@@ -1,4 +1,4 @@
-import type { Difficulty, FunFact, MathQuestion, PracticeLesson, ReadingExercise, WritingExercise } from '../types/content';
+import type { Difficulty, FunFact, LearnToReadExercise, MathQuestion, PracticeLesson, ReadingExercise, WritingExercise } from '../types/content';
 
 const difficulties: Difficulty[] = ['facile', 'medio', 'difficile'];
 const isDifficulty = (value: unknown): value is Difficulty => difficulties.includes(value as Difficulty);
@@ -43,5 +43,15 @@ export function validatePractice(items: unknown): PracticeLesson[] {
   return items.filter((raw): raw is PracticeLesson => {
     const item = raw as Partial<PracticeLesson>; const valid = Boolean(item.id && item.area && isDifficulty(item.difficulty) && item.title && item.explanation && item.question && Array.isArray(item.answers) && item.answers.includes(item.correctAnswer!));
     if (!valid) warn('pratica', raw); return valid;
+  });
+}
+
+export function validateLearnToRead(items: unknown): LearnToReadExercise[] {
+  if (!Array.isArray(items)) return [];
+  const activities = ['letter-sound', 'syllable-word', 'word-to-image', 'image-to-word', 'two-word', 'sentence-to-image', 'image-to-sentence', 'build-sentence', 'complete-sentence', 'same-different'];
+  return items.filter((raw): raw is LearnToReadExercise => {
+    const item = raw as Partial<LearnToReadExercise>;
+    const valid = Boolean(item.id && typeof item.level === 'number' && item.level >= 1 && item.level <= 10 && item.levelTitle && isDifficulty(item.difficulty) && item.activity && activities.includes(item.activity) && item.prompt && item.display && Array.isArray(item.options) && item.options.length >= 2 && typeof item.correctAnswer === 'string' && (item.activity === 'build-sentence' || item.options.includes(item.correctAnswer)) && item.hint);
+    if (!valid) warn('imparo-a-leggere', raw); return valid;
   });
 }

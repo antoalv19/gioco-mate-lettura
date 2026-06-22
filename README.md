@@ -1,6 +1,6 @@
 # Piccoli Esploratori
 
-Gioco educativo in italiano per somme, sottrazioni, lettura, scrittura e pratica guidata. Funziona interamente nel browser: non usa account, database o server applicativi.
+Gioco educativo in italiano per somme, sottrazioni, lettura, scrittura, pratica guidata e un percorso progressivo “Imparo a Leggere”. Funziona interamente nel browser: non usa account, database o server applicativi.
 
 ## Avvio locale
 

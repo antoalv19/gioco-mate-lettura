@@ -20,6 +20,12 @@ Aggiungi un oggetto a `reading.json`. I tipi ammessi sono `syllable`, `word-to-e
 {"id":"read-013","type":"emoji-to-word","difficulty":"difficile","prompt":"Scegli la parola giusta","display":"☀️","correctAnswer":"SOLE","answers":["MARE","SOLE","LUNA","CASA"]}
 ```
 
+## Percorso Imparo a Leggere
+
+Le attività progressive si trovano in `learn-to-read.json`. Ogni attività indica il livello da 1 a 10, la difficoltà, il tipo di interazione, le opzioni, la risposta corretta e un suggerimento. I tipi disponibili includono suono iniziale, sillabe, parola-immagine, frasi, costruzione e completamento.
+
+Per evitare esercizi troppo banali, il livello lettere deve collegare un suono a una parola iniziale, per esempio “Quale parola inizia con M?”, e non chiedere di abbinare una lettera alla copia identica.
+
 ## Nuova parola di scrittura
 
 Aggiungi un oggetto a `writing.json`, includendo parola, emoji, sillabe e versione con lettere mancanti.

@@ -5,6 +5,7 @@ import { ReadingGame } from './components/ReadingGame';
 import { WritingGame } from './components/WritingGame';
 import { PracticeHub } from './components/PracticeHub';
 import { MixMatchGame } from './components/MixMatchGame';
+import { LearnToReadGame } from './components/LearnToReadGame';
 import { loadContent } from './services/contentService';
 import type { Difficulty, GameContent, Mode } from './types/content';
 
@@ -21,6 +22,7 @@ export default function App() {
   if (mode === 'somma') return <MathGame operation="addition" difficulty={difficulty} questions={content.addition} facts={content.funFacts} score={score} best={best} onCorrect={correct} onHome={goHome} />;
   if (mode === 'sottrazione') return <MathGame operation="subtraction" difficulty={difficulty} questions={content.subtraction} facts={content.funFacts} score={score} best={best} onCorrect={correct} onHome={goHome} />;
   if (mode === 'lettura') return <ReadingGame difficulty={difficulty} exercises={content.reading} facts={content.funFacts} score={score} best={best} onCorrect={correct} onHome={goHome} />;
+  if (mode === 'imparo-lettura') return <LearnToReadGame difficulty={difficulty} exercises={content.learnToRead} facts={content.funFacts} score={score} best={best} onCorrect={correct} onHome={goHome} />;
   if (mode === 'scrittura') return <WritingGame difficulty={difficulty} exercises={content.writing} facts={content.funFacts} score={score} best={best} onCorrect={correct} onHome={goHome} />;
   if (mode === 'mix') return <MixMatchGame difficulty={difficulty} content={content} score={score} best={best} onCorrect={correct} onHome={goHome} />;
   return <PracticeHub difficulty={difficulty} lessons={content.practiceLessons} score={score} best={best} onHome={goHome} onGoToGame={setMode} />;

@@ -10,6 +10,7 @@ This repository contains JSON-ready Italian content for a browser-based educatio
 - `math-addition.json`: 60 addition exercises, 20 per difficulty.
 - `math-subtraction.json`: 60 subtraction exercises, 20 per difficulty.
 - `reading.json`: esercizi di lettura con sillabe, parole minuscole e brevi frasi abbinate a immagini. Gli esercizi di semplice abbinamento tra lettere identiche non vengono mostrati.
+- `learn-to-read.json`: 40 attività progressive in 10 livelli, dai suoni iniziali alla comprensione e costruzione di brevi frasi.
 - `writing.json`: 80 writing items with syllables and masked-word completion.
 - `practice-lessons.json`: 32 guided mini-lessons, 8 each for addition, subtraction, reading, and writing.
 
