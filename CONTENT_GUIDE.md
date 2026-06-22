@@ -14,7 +14,7 @@ Se non ci sono domande valide per un livello, l’app ne genera automaticamente.
 
 ## Nuovo esercizio di lettura
 
-Aggiungi un oggetto a `reading.json`. I tipi ammessi sono `letter`, `syllable`, `word-to-emoji` e `emoji-to-word`.
+Aggiungi un oggetto a `reading.json`. I tipi ammessi sono `letter`, `syllable`, `word-to-emoji`, `emoji-to-word` e `sentence-to-emoji`. Usa il minuscolo per gli esercizi medi e frasi di 2–5 parole per gli esercizi difficili.
 
 ```json
 {"id":"read-013","type":"emoji-to-word","difficulty":"difficile","prompt":"Scegli la parola giusta","display":"☀️","correctAnswer":"SOLE","answers":["MARE","SOLE","LUNA","CASA"]}

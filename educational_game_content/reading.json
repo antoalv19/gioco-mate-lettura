@@ -1219,5 +1219,203 @@
     "answers": [
       "GELATO"
     ]
+  },
+  {
+    "id": "read-lower-001",
+    "type": "letter",
+    "difficulty": "medio",
+    "prompt": "Che lettera è?",
+    "display": "a",
+    "correctAnswer": "a",
+    "answers": ["a", "e", "o", "u"]
+  },
+  {
+    "id": "read-lower-002",
+    "type": "letter",
+    "difficulty": "medio",
+    "prompt": "Che lettera è?",
+    "display": "e",
+    "correctAnswer": "e",
+    "answers": ["e", "a", "i", "u"]
+  },
+  {
+    "id": "read-lower-003",
+    "type": "letter",
+    "difficulty": "medio",
+    "prompt": "Che lettera è?",
+    "display": "o",
+    "correctAnswer": "o",
+    "answers": ["o", "a", "e", "i"]
+  },
+  {
+    "id": "read-lower-004",
+    "type": "letter",
+    "difficulty": "medio",
+    "prompt": "Che lettera è?",
+    "display": "m",
+    "correctAnswer": "m",
+    "answers": ["m", "l", "s", "t"]
+  },
+  {
+    "id": "read-lower-005",
+    "type": "letter",
+    "difficulty": "medio",
+    "prompt": "Che lettera è?",
+    "display": "p",
+    "correctAnswer": "p",
+    "answers": ["p", "m", "s", "l"]
+  },
+  {
+    "id": "read-lower-006",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che suono leggi?",
+    "display": "ma",
+    "correctAnswer": "ma",
+    "answers": ["ma", "le", "po", "tu"]
+  },
+  {
+    "id": "read-lower-007",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che suono leggi?",
+    "display": "so",
+    "correctAnswer": "so",
+    "answers": ["so", "la", "mi", "pe"]
+  },
+  {
+    "id": "read-lower-008",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che suono leggi?",
+    "display": "lu",
+    "correctAnswer": "lu",
+    "answers": ["lu", "me", "pa", "si"]
+  },
+  {
+    "id": "read-lower-009",
+    "type": "syllable",
+    "difficulty": "medio",
+    "prompt": "Che suono leggi?",
+    "display": "ne",
+    "correctAnswer": "ne",
+    "answers": ["ne", "mo", "ta", "li"]
+  },
+  {
+    "id": "read-lower-010",
+    "type": "emoji-to-word",
+    "difficulty": "medio",
+    "prompt": "Scegli la parola giusta",
+    "display": "☀️",
+    "correctAnswer": "sole",
+    "answers": ["sole", "mare", "luna", "casa"]
+  },
+  {
+    "id": "read-lower-011",
+    "type": "emoji-to-word",
+    "difficulty": "medio",
+    "prompt": "Scegli la parola giusta",
+    "display": "🐶",
+    "correctAnswer": "cane",
+    "answers": ["cane", "mela", "nave", "mano"]
+  },
+  {
+    "id": "read-lower-012",
+    "type": "emoji-to-word",
+    "difficulty": "medio",
+    "prompt": "Scegli la parola giusta",
+    "display": "🌙",
+    "correctAnswer": "luna",
+    "answers": ["luna", "sole", "pesce", "pane"]
+  },
+  {
+    "id": "read-sentence-001",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "il cane corre",
+    "correctAnswer": "🐕💨",
+    "answers": ["🐕💨", "🐱😴", "🐟🌊", "🐦🎵"]
+  },
+  {
+    "id": "read-sentence-002",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "il gatto dorme",
+    "correctAnswer": "🐱😴",
+    "answers": ["🐱😴", "🐕💨", "🐸🎵", "🐟🌊"]
+  },
+  {
+    "id": "read-sentence-003",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "la nave va",
+    "correctAnswer": "🚢🌊",
+    "answers": ["🚢🌊", "🚗🛣️", "✈️☁️", "🚲🌳"]
+  },
+  {
+    "id": "read-sentence-004",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "la rana salta",
+    "correctAnswer": "🐸⬆️",
+    "answers": ["🐸⬆️", "🐟🌊", "🐌🍃", "🐱😴"]
+  },
+  {
+    "id": "read-sentence-005",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "il sole brilla",
+    "correctAnswer": "☀️✨",
+    "answers": ["☀️✨", "🌙⭐", "🌧️☔", "❄️⛄"]
+  },
+  {
+    "id": "read-sentence-006",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "la mela è rossa",
+    "correctAnswer": "🍎",
+    "answers": ["🍎", "🍌", "🍐", "🍇"]
+  },
+  {
+    "id": "read-sentence-007",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "il pesce nuota",
+    "correctAnswer": "🐟🌊",
+    "answers": ["🐟🌊", "🐦☁️", "🐕🏠", "🐸🍃"]
+  },
+  {
+    "id": "read-sentence-008",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "la luna è alta",
+    "correctAnswer": "🌙🌌",
+    "answers": ["🌙🌌", "☀️🏖️", "🌧️☔", "🌈🌳"]
+  },
+  {
+    "id": "read-sentence-009",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "il fiore cresce",
+    "correctAnswer": "🌱🌸",
+    "answers": ["🌱🌸", "🍂🍁", "🌙⭐", "🐟🌊"]
+  },
+  {
+    "id": "read-sentence-010",
+    "type": "sentence-to-emoji",
+    "difficulty": "difficile",
+    "prompt": "Scegli l’immagine giusta",
+    "display": "la stella brilla",
+    "correctAnswer": "⭐✨",
+    "answers": ["⭐✨", "☁️🌧️", "🌳🍎", "🐚🌊"]
   }
 ]

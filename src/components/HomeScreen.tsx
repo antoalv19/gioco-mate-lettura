@@ -5,6 +5,7 @@ const modes: Array<{ mode: Mode; icon: string; label: string; color: string }> =
   { mode: 'sottrazione', icon: '➖', label: 'Sottrazioni', color: 'blue' },
   { mode: 'lettura', icon: '📖', label: 'Lettura', color: 'purple' },
   { mode: 'scrittura', icon: '✏️', label: 'Scrittura', color: 'green' },
+  { mode: 'mix', icon: '🔀', label: 'Mix & Match', color: 'pink' },
   { mode: 'pratica', icon: '🧭', label: 'Impara con me', color: 'yellow' },
 ];
 const levels: Array<{ value: Difficulty; label: string; icon: string }> = [
