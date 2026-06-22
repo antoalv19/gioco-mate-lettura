@@ -11,7 +11,8 @@
     "options": [
       "MARE 🌊",
       "SOLE ☀️",
-      "PANE 🍞"
+      "PANE 🍞",
+      "LUNA 🌙"
     ],
     "correctAnswer": "MARE 🌊",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -29,6 +30,7 @@
     "options": [
       "PANE 🍞",
       "LUNA 🌙",
+      "MELA 🍎",
       "SOLE ☀️"
     ],
     "correctAnswer": "SOLE ☀️",
@@ -46,6 +48,7 @@
     "visual": "👂 P…",
     "options": [
       "MELA 🍎",
+      "CANE 🐶",
       "PANE 🍞",
       "LUNA 🌙"
     ],
@@ -63,6 +66,7 @@
     "display": "L",
     "visual": "👂 L…",
     "options": [
+      "NAVE 🚢",
       "LUNA 🌙",
       "MELA 🍎",
       "CANE 🐶"
@@ -81,9 +85,10 @@
     "display": "M",
     "visual": "👂 M…",
     "options": [
+      "MELA 🍎",
       "CANE 🐶",
       "NAVE 🚢",
-      "MELA 🍎"
+      "CASA 🏠"
     ],
     "correctAnswer": "MELA 🍎",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -99,9 +104,10 @@
     "display": "C",
     "visual": "👂 C…",
     "options": [
+      "NAVE 🚢",
       "TOPO 🐭",
-      "CANE 🐶",
-      "NAVE 🚢"
+      "RANA 🐸",
+      "CANE 🐶"
     ],
     "correctAnswer": "CANE 🐶",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -117,9 +123,10 @@
     "display": "N",
     "visual": "👂 N…",
     "options": [
+      "TOPO 🐭",
+      "RANA 🐸",
       "NAVE 🚢",
-      "CASA 🏠",
-      "TOPO 🐭"
+      "CASA 🏠"
     ],
     "correctAnswer": "NAVE 🚢",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -135,9 +142,10 @@
     "display": "C",
     "visual": "👂 C…",
     "options": [
+      "GATTO 🐱",
+      "CASA 🏠",
       "TOPO 🐭",
-      "RANA 🐸",
-      "CASA 🏠"
+      "RANA 🐸"
     ],
     "correctAnswer": "CASA 🏠",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -153,9 +161,10 @@
     "display": "T",
     "visual": "👂 T…",
     "options": [
-      "GATTO 🐱",
       "TOPO 🐭",
-      "RANA 🐸"
+      "RANA 🐸",
+      "GATTO 🐱",
+      "PESCE 🐟"
     ],
     "correctAnswer": "TOPO 🐭",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -171,9 +180,10 @@
     "display": "R",
     "visual": "👂 R…",
     "options": [
-      "RANA 🐸",
       "GATTO 🐱",
-      "PESCE 🐟"
+      "PESCE 🐟",
+      "PALLA ⚽",
+      "RANA 🐸"
     ],
     "correctAnswer": "RANA 🐸",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -189,9 +199,10 @@
     "display": "G",
     "visual": "👂 G…",
     "options": [
-      "PESCE 🐟",
       "PALLA ⚽",
-      "GATTO 🐱"
+      "FIORE 🌸",
+      "GATTO 🐱",
+      "PESCE 🐟"
     ],
     "correctAnswer": "GATTO 🐱",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -207,9 +218,10 @@
     "display": "P",
     "visual": "👂 P…",
     "options": [
-      "LIBRO 📘",
+      "MANO ✋",
       "PESCE 🐟",
-      "FIORE 🌸"
+      "FIORE 🌸",
+      "LIBRO 📘"
     ],
     "correctAnswer": "PESCE 🐟",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -227,7 +239,8 @@
     "options": [
       "PALLA ⚽",
       "FIORE 🌸",
-      "LIBRO 📘"
+      "LIBRO 📘",
+      "MANO ✋"
     ],
     "correctAnswer": "PALLA ⚽",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -245,6 +258,7 @@
     "options": [
       "LIBRO 📘",
       "MANO ✋",
+      "NASO 👃",
       "FIORE 🌸"
     ],
     "correctAnswer": "FIORE 🌸",
@@ -262,6 +276,7 @@
     "visual": "👂 L…",
     "options": [
       "NASO 👃",
+      "DADO 🎲",
       "LIBRO 📘",
       "MANO ✋"
     ],
@@ -279,6 +294,7 @@
     "display": "M",
     "visual": "👂 M…",
     "options": [
+      "VASO 🏺",
       "MANO ✋",
       "NASO 👃",
       "DADO 🎲"
@@ -297,9 +313,10 @@
     "display": "N",
     "visual": "👂 N…",
     "options": [
+      "NASO 👃",
       "DADO 🎲",
       "VASO 🏺",
-      "NASO 👃"
+      "BANANA 🍌"
     ],
     "correctAnswer": "NASO 👃",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -315,9 +332,10 @@
     "display": "D",
     "visual": "👂 D…",
     "options": [
+      "VASO 🏺",
       "BANANA 🍌",
-      "DADO 🎲",
-      "VASO 🏺"
+      "LIMONE 🍋",
+      "DADO 🎲"
     ],
     "correctAnswer": "DADO 🎲",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -333,9 +351,10 @@
     "display": "V",
     "visual": "👂 V…",
     "options": [
+      "LIMONE 🍋",
+      "PERA 🍐",
       "VASO 🏺",
-      "BANANA 🍌",
-      "LIMONE 🍋"
+      "BANANA 🍌"
     ],
     "correctAnswer": "VASO 🏺",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -351,9 +370,10 @@
     "display": "B",
     "visual": "👂 B…",
     "options": [
+      "UVA 🍇",
+      "BANANA 🍌",
       "LIMONE 🍋",
-      "PERA 🍐",
-      "BANANA 🍌"
+      "PERA 🍐"
     ],
     "correctAnswer": "BANANA 🍌",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -369,9 +389,10 @@
     "display": "L",
     "visual": "👂 L…",
     "options": [
-      "UVA 🍇",
       "LIMONE 🍋",
-      "PERA 🍐"
+      "PERA 🍐",
+      "UVA 🍇",
+      "TORTA 🍰"
     ],
     "correctAnswer": "LIMONE 🍋",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -387,9 +408,10 @@
     "display": "P",
     "visual": "👂 P…",
     "options": [
-      "PERA 🍐",
       "UVA 🍇",
-      "TORTA 🍰"
+      "TORTA 🍰",
+      "LATTE 🥛",
+      "PERA 🍐"
     ],
     "correctAnswer": "PERA 🍐",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -405,9 +427,10 @@
     "display": "U",
     "visual": "👂 U…",
     "options": [
-      "TORTA 🍰",
       "LATTE 🥛",
-      "UVA 🍇"
+      "MIELE 🍯",
+      "UVA 🍇",
+      "TORTA 🍰"
     ],
     "correctAnswer": "UVA 🍇",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -423,9 +446,10 @@
     "display": "T",
     "visual": "👂 T…",
     "options": [
-      "UOVO 🥚",
+      "MIELE 🍯",
       "TORTA 🍰",
-      "LATTE 🥛"
+      "LATTE 🥛",
+      "UOVO 🥚"
     ],
     "correctAnswer": "TORTA 🍰",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -443,7 +467,8 @@
     "options": [
       "LATTE 🥛",
       "UOVO 🥚",
-      "MIELE 🍯"
+      "MIELE 🍯",
+      "RISO 🍚"
     ],
     "correctAnswer": "LATTE 🥛",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -461,6 +486,7 @@
     "options": [
       "MIELE 🍯",
       "RISO 🍚",
+      "PIZZA 🍕",
       "UOVO 🥚"
     ],
     "correctAnswer": "UOVO 🥚",
@@ -478,6 +504,7 @@
     "visual": "👂 M…",
     "options": [
       "PIZZA 🍕",
+      "GELATO 🍦",
       "MIELE 🍯",
       "RISO 🍚"
     ],
@@ -495,6 +522,7 @@
     "display": "R",
     "visual": "👂 R…",
     "options": [
+      "LEONE 🦁",
       "RISO 🍚",
       "PIZZA 🍕",
       "GELATO 🍦"
@@ -513,9 +541,10 @@
     "display": "P",
     "visual": "👂 P…",
     "options": [
+      "PIZZA 🍕",
       "GELATO 🍦",
       "LEONE 🦁",
-      "PIZZA 🍕"
+      "TIGRE 🐯"
     ],
     "correctAnswer": "PIZZA 🍕",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -531,9 +560,10 @@
     "display": "G",
     "visual": "👂 G…",
     "options": [
+      "LEONE 🦁",
       "TIGRE 🐯",
-      "GELATO 🍦",
-      "LEONE 🦁"
+      "ORSO 🐻",
+      "GELATO 🍦"
     ],
     "correctAnswer": "GELATO 🍦",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -549,9 +579,10 @@
     "display": "L",
     "visual": "👂 L…",
     "options": [
+      "ORSO 🐻",
+      "ZEBRA 🦓",
       "LEONE 🦁",
-      "TIGRE 🐯",
-      "ORSO 🐻"
+      "TIGRE 🐯"
     ],
     "correctAnswer": "LEONE 🦁",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -567,9 +598,10 @@
     "display": "T",
     "visual": "👂 T…",
     "options": [
+      "MUCCA 🐮",
+      "TIGRE 🐯",
       "ORSO 🐻",
-      "ZEBRA 🦓",
-      "TIGRE 🐯"
+      "ZEBRA 🦓"
     ],
     "correctAnswer": "TIGRE 🐯",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -585,9 +617,10 @@
     "display": "O",
     "visual": "👂 O…",
     "options": [
-      "MUCCA 🐮",
       "ORSO 🐻",
-      "ZEBRA 🦓"
+      "ZEBRA 🦓",
+      "MUCCA 🐮",
+      "PECORA 🐑"
     ],
     "correctAnswer": "ORSO 🐻",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -603,9 +636,10 @@
     "display": "Z",
     "visual": "👂 Z…",
     "options": [
-      "ZEBRA 🦓",
       "MUCCA 🐮",
-      "PECORA 🐑"
+      "PECORA 🐑",
+      "GUFO 🦉",
+      "ZEBRA 🦓"
     ],
     "correctAnswer": "ZEBRA 🦓",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -621,9 +655,10 @@
     "display": "M",
     "visual": "👂 M…",
     "options": [
-      "PECORA 🐑",
       "GUFO 🦉",
-      "MUCCA 🐮"
+      "APE 🐝",
+      "MUCCA 🐮",
+      "PECORA 🐑"
     ],
     "correctAnswer": "MUCCA 🐮",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -639,9 +674,10 @@
     "display": "P",
     "visual": "👂 P…",
     "options": [
-      "APE 🐝",
+      "COCCO 🥥",
       "PECORA 🐑",
-      "GUFO 🦉"
+      "GUFO 🦉",
+      "APE 🐝"
     ],
     "correctAnswer": "PECORA 🐑",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -659,7 +695,8 @@
     "options": [
       "GUFO 🦉",
       "APE 🐝",
-      "COCCO 🥥"
+      "COCCO 🥥",
+      "FOCA 🦭"
     ],
     "correctAnswer": "GUFO 🦉",
     "hint": "Ascolta il primo suono di ogni parola.",
@@ -677,6 +714,7 @@
     "options": [
       "COCCO 🥥",
       "FOCA 🦭",
+      "MARE 🌊",
       "APE 🐝"
     ],
     "correctAnswer": "APE 🐝",
@@ -694,6 +732,7 @@
     "visual": "👂 C…",
     "options": [
       "MARE 🌊",
+      "SOLE ☀️",
       "COCCO 🥥",
       "FOCA 🦭"
     ],
@@ -711,6 +750,7 @@
     "display": "F",
     "visual": "👂 F…",
     "options": [
+      "PANE 🍞",
       "FOCA 🦭",
       "MARE 🌊",
       "SOLE ☀️"
@@ -730,6 +770,7 @@
     "options": [
       "SOLE",
       "PANE",
+      "LUNA",
       "MARE"
     ],
     "correctAnswer": "MARE",
@@ -746,6 +787,7 @@
     "display": "SO",
     "options": [
       "LUNA",
+      "MELA",
       "SOLE",
       "PANE"
     ],
@@ -762,6 +804,7 @@
     "prompt": "Quale parola inizia con PA?",
     "display": "PA",
     "options": [
+      "CANE",
       "PANE",
       "LUNA",
       "MELA"
@@ -779,9 +822,10 @@
     "prompt": "Quale parola inizia con LU?",
     "display": "LU",
     "options": [
+      "LUNA",
       "MELA",
       "CANE",
-      "LUNA"
+      "NAVE"
     ],
     "correctAnswer": "LUNA",
     "hint": "Leggi LU, poi cerca la stessa sillaba all'inizio.",
@@ -796,9 +840,10 @@
     "prompt": "Quale parola inizia con ME?",
     "display": "ME",
     "options": [
+      "CANE",
       "NAVE",
-      "MELA",
-      "CANE"
+      "CASA",
+      "MELA"
     ],
     "correctAnswer": "MELA",
     "hint": "Leggi ME, poi cerca la stessa sillaba all'inizio.",
@@ -813,9 +858,10 @@
     "prompt": "Quale parola inizia con CA?",
     "display": "CA",
     "options": [
+      "TOPO",
+      "RANA",
       "CANE",
-      "NAVE",
-      "TOPO"
+      "NAVE"
     ],
     "correctAnswer": "CANE",
     "hint": "Leggi CA, poi cerca la stessa sillaba all'inizio.",
@@ -830,9 +876,10 @@
     "prompt": "Quale parola inizia con NA?",
     "display": "NA",
     "options": [
+      "RANA",
+      "NAVE",
       "CASA",
-      "TOPO",
-      "NAVE"
+      "TOPO"
     ],
     "correctAnswer": "NAVE",
     "hint": "Leggi NA, poi cerca la stessa sillaba all'inizio.",
@@ -847,9 +894,10 @@
     "prompt": "Quale parola inizia con CA?",
     "display": "CA",
     "options": [
-      "RANA",
       "CASA",
-      "TOPO"
+      "TOPO",
+      "RANA",
+      "GATTO"
     ],
     "correctAnswer": "CASA",
     "hint": "Leggi CA, poi cerca la stessa sillaba all'inizio.",
@@ -864,9 +912,10 @@
     "prompt": "Quale parola inizia con TO?",
     "display": "TO",
     "options": [
-      "TOPO",
       "RANA",
-      "GATTO"
+      "GATTO",
+      "PESCE",
+      "TOPO"
     ],
     "correctAnswer": "TOPO",
     "hint": "Leggi TO, poi cerca la stessa sillaba all'inizio.",
@@ -881,9 +930,10 @@
     "prompt": "Quale parola inizia con RA?",
     "display": "RA",
     "options": [
-      "GATTO",
       "PESCE",
-      "RANA"
+      "PALLA",
+      "RANA",
+      "GATTO"
     ],
     "correctAnswer": "RANA",
     "hint": "Leggi RA, poi cerca la stessa sillaba all'inizio.",
@@ -898,9 +948,10 @@
     "prompt": "Quale parola inizia con GA?",
     "display": "GA",
     "options": [
-      "PALLA",
+      "FIORE",
       "GATTO",
-      "PESCE"
+      "PESCE",
+      "PALLA"
     ],
     "correctAnswer": "GATTO",
     "hint": "Leggi GA, poi cerca la stessa sillaba all'inizio.",
@@ -917,7 +968,8 @@
     "options": [
       "PESCE",
       "PALLA",
-      "FIORE"
+      "FIORE",
+      "LIBRO"
     ],
     "correctAnswer": "PESCE",
     "hint": "Leggi PE, poi cerca la stessa sillaba all'inizio.",
@@ -934,6 +986,7 @@
     "options": [
       "FIORE",
       "LIBRO",
+      "MANO",
       "PALLA"
     ],
     "correctAnswer": "PALLA",
@@ -950,6 +1003,7 @@
     "display": "FIO",
     "options": [
       "MANO",
+      "NASO",
       "FIORE",
       "LIBRO"
     ],
@@ -966,6 +1020,7 @@
     "prompt": "Quale parola inizia con LI?",
     "display": "LI",
     "options": [
+      "DADO",
       "LIBRO",
       "MANO",
       "NASO"
@@ -983,9 +1038,10 @@
     "prompt": "Quale parola inizia con MA?",
     "display": "MA",
     "options": [
+      "MANO",
       "NASO",
       "DADO",
-      "MANO"
+      "VASO"
     ],
     "correctAnswer": "MANO",
     "hint": "Leggi MA, poi cerca la stessa sillaba all'inizio.",
@@ -1000,9 +1056,10 @@
     "prompt": "Quale parola inizia con NA?",
     "display": "NA",
     "options": [
+      "DADO",
       "VASO",
-      "NASO",
-      "DADO"
+      "BANANA",
+      "NASO"
     ],
     "correctAnswer": "NASO",
     "hint": "Leggi NA, poi cerca la stessa sillaba all'inizio.",
@@ -1017,9 +1074,10 @@
     "prompt": "Quale parola inizia con DA?",
     "display": "DA",
     "options": [
+      "BANANA",
+      "LIMONE",
       "DADO",
-      "VASO",
-      "BANANA"
+      "VASO"
     ],
     "correctAnswer": "DADO",
     "hint": "Leggi DA, poi cerca la stessa sillaba all'inizio.",
@@ -1034,9 +1092,10 @@
     "prompt": "Quale parola inizia con VA?",
     "display": "VA",
     "options": [
+      "PERA",
+      "VASO",
       "BANANA",
-      "LIMONE",
-      "VASO"
+      "LIMONE"
     ],
     "correctAnswer": "VASO",
     "hint": "Leggi VA, poi cerca la stessa sillaba all'inizio.",
@@ -1051,9 +1110,10 @@
     "prompt": "Quale parola inizia con BA?",
     "display": "BA",
     "options": [
-      "PERA",
       "BANANA",
-      "LIMONE"
+      "LIMONE",
+      "PERA",
+      "UVA"
     ],
     "correctAnswer": "BANANA",
     "hint": "Leggi BA, poi cerca la stessa sillaba all'inizio.",
@@ -1068,9 +1128,10 @@
     "prompt": "Quale parola inizia con LI?",
     "display": "LI",
     "options": [
-      "LIMONE",
       "PERA",
-      "UVA"
+      "UVA",
+      "TORTA",
+      "LIMONE"
     ],
     "correctAnswer": "LIMONE",
     "hint": "Leggi LI, poi cerca la stessa sillaba all'inizio.",
@@ -1085,9 +1146,10 @@
     "prompt": "Quale parola inizia con PE?",
     "display": "PE",
     "options": [
-      "UVA",
       "TORTA",
-      "PERA"
+      "LATTE",
+      "PERA",
+      "UVA"
     ],
     "correctAnswer": "PERA",
     "hint": "Leggi PE, poi cerca la stessa sillaba all'inizio.",
@@ -1102,9 +1164,10 @@
     "prompt": "Quale parola inizia con U?",
     "display": "U",
     "options": [
-      "LATTE",
+      "UOVO",
       "UVA",
-      "TORTA"
+      "TORTA",
+      "LATTE"
     ],
     "correctAnswer": "UVA",
     "hint": "Leggi U, poi cerca la stessa sillaba all'inizio.",
@@ -1121,7 +1184,8 @@
     "options": [
       "TORTA",
       "LATTE",
-      "UOVO"
+      "UOVO",
+      "MIELE"
     ],
     "correctAnswer": "TORTA",
     "hint": "Leggi TO, poi cerca la stessa sillaba all'inizio.",
@@ -1138,6 +1202,7 @@
     "options": [
       "UOVO",
       "MIELE",
+      "RISO",
       "LATTE"
     ],
     "correctAnswer": "LATTE",
@@ -1154,6 +1219,7 @@
     "display": "UO",
     "options": [
       "RISO",
+      "PIZZA",
       "UOVO",
       "MIELE"
     ],
@@ -1170,6 +1236,7 @@
     "prompt": "Quale parola inizia con MIE?",
     "display": "MIE",
     "options": [
+      "GELATO",
       "MIELE",
       "RISO",
       "PIZZA"
@@ -1187,9 +1254,10 @@
     "prompt": "Quale parola inizia con RI?",
     "display": "RI",
     "options": [
+      "RISO",
       "PIZZA",
       "GELATO",
-      "RISO"
+      "LEONE"
     ],
     "correctAnswer": "RISO",
     "hint": "Leggi RI, poi cerca la stessa sillaba all'inizio.",
@@ -1204,9 +1272,10 @@
     "prompt": "Quale parola inizia con PI?",
     "display": "PI",
     "options": [
+      "GELATO",
       "LEONE",
-      "PIZZA",
-      "GELATO"
+      "TIGRE",
+      "PIZZA"
     ],
     "correctAnswer": "PIZZA",
     "hint": "Leggi PI, poi cerca la stessa sillaba all'inizio.",
@@ -1221,9 +1290,10 @@
     "prompt": "Quale parola inizia con GE?",
     "display": "GE",
     "options": [
+      "TIGRE",
+      "ORSO",
       "GELATO",
-      "LEONE",
-      "TIGRE"
+      "LEONE"
     ],
     "correctAnswer": "GELATO",
     "hint": "Leggi GE, poi cerca la stessa sillaba all'inizio.",
@@ -1238,9 +1308,10 @@
     "prompt": "Quale parola inizia con LE?",
     "display": "LE",
     "options": [
+      "ZEBRA",
+      "LEONE",
       "TIGRE",
-      "ORSO",
-      "LEONE"
+      "ORSO"
     ],
     "correctAnswer": "LEONE",
     "hint": "Leggi LE, poi cerca la stessa sillaba all'inizio.",
@@ -1255,9 +1326,10 @@
     "prompt": "Quale parola inizia con TI?",
     "display": "TI",
     "options": [
-      "ZEBRA",
       "TIGRE",
-      "ORSO"
+      "ORSO",
+      "ZEBRA",
+      "MUCCA"
     ],
     "correctAnswer": "TIGRE",
     "hint": "Leggi TI, poi cerca la stessa sillaba all'inizio.",
@@ -1272,9 +1344,10 @@
     "prompt": "Quale parola inizia con OR?",
     "display": "OR",
     "options": [
-      "ORSO",
       "ZEBRA",
-      "MUCCA"
+      "MUCCA",
+      "PECORA",
+      "ORSO"
     ],
     "correctAnswer": "ORSO",
     "hint": "Leggi OR, poi cerca la stessa sillaba all'inizio.",
@@ -1289,9 +1362,10 @@
     "prompt": "Quale parola inizia con ZE?",
     "display": "ZE",
     "options": [
-      "MUCCA",
       "PECORA",
-      "ZEBRA"
+      "GUFO",
+      "ZEBRA",
+      "MUCCA"
     ],
     "correctAnswer": "ZEBRA",
     "hint": "Leggi ZE, poi cerca la stessa sillaba all'inizio.",
@@ -1306,9 +1380,10 @@
     "prompt": "Quale parola inizia con MU?",
     "display": "MU",
     "options": [
-      "GUFO",
+      "APE",
       "MUCCA",
-      "PECORA"
+      "PECORA",
+      "GUFO"
     ],
     "correctAnswer": "MUCCA",
     "hint": "Leggi MU, poi cerca la stessa sillaba all'inizio.",
@@ -1325,7 +1400,8 @@
     "options": [
       "PECORA",
       "GUFO",
-      "APE"
+      "APE",
+      "COCCO"
     ],
     "correctAnswer": "PECORA",
     "hint": "Leggi PE, poi cerca la stessa sillaba all'inizio.",
@@ -1342,6 +1418,7 @@
     "options": [
       "APE",
       "COCCO",
+      "FOCA",
       "GUFO"
     ],
     "correctAnswer": "GUFO",
@@ -1358,6 +1435,7 @@
     "display": "A",
     "options": [
       "FOCA",
+      "MARE",
       "APE",
       "COCCO"
     ],
@@ -1374,6 +1452,7 @@
     "prompt": "Quale parola inizia con CO?",
     "display": "CO",
     "options": [
+      "SOLE",
       "COCCO",
       "FOCA",
       "MARE"
@@ -1391,9 +1470,10 @@
     "prompt": "Quale parola inizia con FO?",
     "display": "FO",
     "options": [
+      "FOCA",
       "MARE",
       "SOLE",
-      "FOCA"
+      "PANE"
     ],
     "correctAnswer": "FOCA",
     "hint": "Leggi FO, poi cerca la stessa sillaba all'inizio.",
@@ -1410,7 +1490,8 @@
     "options": [
       "🌊",
       "☀️",
-      "🍞"
+      "🍞",
+      "🌙"
     ],
     "correctAnswer": "🌊",
     "hint": "Leggi piano MA…",
@@ -1427,6 +1508,7 @@
     "options": [
       "PANE",
       "LUNA",
+      "MELA",
       "SOLE"
     ],
     "correctAnswer": "SOLE",
@@ -1443,6 +1525,7 @@
     "display": "PANE",
     "options": [
       "🍎",
+      "🐶",
       "🍞",
       "🌙"
     ],
@@ -1459,6 +1542,7 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🌙",
     "options": [
+      "NAVE",
       "LUNA",
       "MELA",
       "CANE"
@@ -1476,9 +1560,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "MELA",
     "options": [
+      "🍎",
       "🐶",
       "🚢",
-      "🍎"
+      "🏠"
     ],
     "correctAnswer": "🍎",
     "hint": "Leggi piano ME…",
@@ -1493,9 +1578,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐶",
     "options": [
+      "NAVE",
       "CASA",
-      "CANE",
-      "NAVE"
+      "TOPO",
+      "CANE"
     ],
     "correctAnswer": "CANE",
     "hint": "La parola inizia con C.",
@@ -1510,9 +1596,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "NAVE",
     "options": [
+      "🐭",
+      "🐸",
       "🚢",
-      "🏠",
-      "🐭"
+      "🏠"
     ],
     "correctAnswer": "🚢",
     "hint": "Leggi piano NA…",
@@ -1527,9 +1614,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🏠",
     "options": [
+      "GATTO",
+      "CASA",
       "TOPO",
-      "RANA",
-      "CASA"
+      "RANA"
     ],
     "correctAnswer": "CASA",
     "hint": "La parola inizia con C.",
@@ -1544,9 +1632,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "TOPO",
     "options": [
-      "🐱",
       "🐭",
-      "🐸"
+      "🐸",
+      "🐱",
+      "🐟"
     ],
     "correctAnswer": "🐭",
     "hint": "Leggi piano TO…",
@@ -1561,9 +1650,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐸",
     "options": [
-      "RANA",
       "GATTO",
-      "PESCE"
+      "PESCE",
+      "PALLA",
+      "RANA"
     ],
     "correctAnswer": "RANA",
     "hint": "La parola inizia con R.",
@@ -1578,9 +1668,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "GATTO",
     "options": [
-      "🐟",
       "⚽",
-      "🐱"
+      "🌸",
+      "🐱",
+      "🐟"
     ],
     "correctAnswer": "🐱",
     "hint": "Leggi piano GA…",
@@ -1595,9 +1686,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐟",
     "options": [
-      "FIORE",
+      "LIBRO",
       "PESCE",
-      "PALLA"
+      "PALLA",
+      "FIORE"
     ],
     "correctAnswer": "PESCE",
     "hint": "La parola inizia con P.",
@@ -1614,7 +1706,8 @@
     "options": [
       "⚽",
       "🌸",
-      "📘"
+      "📘",
+      "✋"
     ],
     "correctAnswer": "⚽",
     "hint": "Leggi piano PA…",
@@ -1631,6 +1724,7 @@
     "options": [
       "LIBRO",
       "MANO",
+      "NASO",
       "FIORE"
     ],
     "correctAnswer": "FIORE",
@@ -1647,6 +1741,7 @@
     "display": "LIBRO",
     "options": [
       "👃",
+      "🎲",
       "📘",
       "✋"
     ],
@@ -1663,6 +1758,7 @@
     "prompt": "Guarda e scegli la parola",
     "display": "✋",
     "options": [
+      "VASO",
       "MANO",
       "NASO",
       "DADO"
@@ -1680,9 +1776,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "NASO",
     "options": [
+      "👃",
       "🎲",
       "🏺",
-      "👃"
+      "🍌"
     ],
     "correctAnswer": "👃",
     "hint": "Leggi piano NA…",
@@ -1697,9 +1794,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🎲",
     "options": [
+      "VASO",
       "BANANA",
-      "DADO",
-      "VASO"
+      "LIMONE",
+      "DADO"
     ],
     "correctAnswer": "DADO",
     "hint": "La parola inizia con D.",
@@ -1714,9 +1812,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "VASO",
     "options": [
+      "🍋",
+      "🍐",
       "🏺",
-      "🍌",
-      "🍋"
+      "🍌"
     ],
     "correctAnswer": "🏺",
     "hint": "Leggi piano VA…",
@@ -1731,9 +1830,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍌",
     "options": [
+      "UVA",
+      "BANANA",
       "LIMONE",
-      "PERA",
-      "BANANA"
+      "PERA"
     ],
     "correctAnswer": "BANANA",
     "hint": "La parola inizia con B.",
@@ -1748,9 +1848,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "LIMONE",
     "options": [
-      "🍇",
       "🍋",
-      "🍐"
+      "🍐",
+      "🍇",
+      "🍰"
     ],
     "correctAnswer": "🍋",
     "hint": "Leggi piano LI…",
@@ -1765,9 +1866,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍐",
     "options": [
-      "PERA",
       "UVA",
-      "TORTA"
+      "TORTA",
+      "LATTE",
+      "PERA"
     ],
     "correctAnswer": "PERA",
     "hint": "La parola inizia con P.",
@@ -1782,9 +1884,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "UVA",
     "options": [
-      "🍰",
       "🥛",
-      "🍇"
+      "🥚",
+      "🍇",
+      "🍰"
     ],
     "correctAnswer": "🍇",
     "hint": "Leggi piano U…",
@@ -1799,9 +1902,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍰",
     "options": [
-      "UOVO",
+      "MIELE",
       "TORTA",
-      "LATTE"
+      "LATTE",
+      "UOVO"
     ],
     "correctAnswer": "TORTA",
     "hint": "La parola inizia con T.",
@@ -1818,7 +1922,8 @@
     "options": [
       "🥛",
       "🥚",
-      "🍯"
+      "🍯",
+      "🍚"
     ],
     "correctAnswer": "🥛",
     "hint": "Leggi piano LA…",
@@ -1835,6 +1940,7 @@
     "options": [
       "MIELE",
       "RISO",
+      "PIZZA",
       "UOVO"
     ],
     "correctAnswer": "UOVO",
@@ -1851,6 +1957,7 @@
     "display": "MIELE",
     "options": [
       "🍕",
+      "🍦",
       "🍯",
       "🍚"
     ],
@@ -1867,6 +1974,7 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍚",
     "options": [
+      "LEONE",
       "RISO",
       "PIZZA",
       "GELATO"
@@ -1884,9 +1992,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "PIZZA",
     "options": [
+      "🍕",
       "🍦",
       "🦁",
-      "🍕"
+      "🐯"
     ],
     "correctAnswer": "🍕",
     "hint": "Leggi piano PI…",
@@ -1901,9 +2010,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍦",
     "options": [
+      "LEONE",
       "TIGRE",
-      "GELATO",
-      "LEONE"
+      "ORSO",
+      "GELATO"
     ],
     "correctAnswer": "GELATO",
     "hint": "La parola inizia con G.",
@@ -1918,9 +2028,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "LEONE",
     "options": [
+      "🐻",
+      "🦓",
       "🦁",
-      "🐯",
-      "🐻"
+      "🐯"
     ],
     "correctAnswer": "🦁",
     "hint": "Leggi piano LE…",
@@ -1935,9 +2046,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐯",
     "options": [
+      "MUCCA",
+      "TIGRE",
       "ORSO",
-      "ZEBRA",
-      "TIGRE"
+      "ZEBRA"
     ],
     "correctAnswer": "TIGRE",
     "hint": "La parola inizia con T.",
@@ -1952,9 +2064,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "ORSO",
     "options": [
-      "🐮",
       "🐻",
-      "🦓"
+      "🦓",
+      "🐮",
+      "🐑"
     ],
     "correctAnswer": "🐻",
     "hint": "Leggi piano OR…",
@@ -1969,9 +2082,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🦓",
     "options": [
-      "ZEBRA",
       "MUCCA",
-      "PECORA"
+      "PECORA",
+      "GUFO",
+      "ZEBRA"
     ],
     "correctAnswer": "ZEBRA",
     "hint": "La parola inizia con Z.",
@@ -1986,9 +2100,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "MUCCA",
     "options": [
-      "🐑",
       "🦉",
-      "🐮"
+      "🐝",
+      "🐮",
+      "🐑"
     ],
     "correctAnswer": "🐮",
     "hint": "Leggi piano MU…",
@@ -2003,9 +2118,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐑",
     "options": [
-      "APE",
+      "COCCO",
       "PECORA",
-      "GUFO"
+      "GUFO",
+      "APE"
     ],
     "correctAnswer": "PECORA",
     "hint": "La parola inizia con P.",
@@ -2022,7 +2138,8 @@
     "options": [
       "🦉",
       "🐝",
-      "🥥"
+      "🥥",
+      "🦭"
     ],
     "correctAnswer": "🦉",
     "hint": "Leggi piano GU…",
@@ -2039,6 +2156,7 @@
     "options": [
       "COCCO",
       "FOCA",
+      "MARE",
       "APE"
     ],
     "correctAnswer": "APE",
@@ -2055,6 +2173,7 @@
     "display": "COCCO",
     "options": [
       "🌊",
+      "☀️",
       "🥥",
       "🦭"
     ],
@@ -2071,6 +2190,7 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🦭",
     "options": [
+      "PANE",
       "FOCA",
       "MARE",
       "SOLE"
@@ -2090,6 +2210,7 @@
     "options": [
       "pane",
       "luna",
+      "mela",
       "mare"
     ],
     "correctAnswer": "mare",
@@ -2106,6 +2227,7 @@
     "display": "sole",
     "options": [
       "🍎",
+      "🐶",
       "☀️",
       "🌙"
     ],
@@ -2122,6 +2244,7 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍞",
     "options": [
+      "nave",
       "pane",
       "mela",
       "cane"
@@ -2139,9 +2262,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "luna",
     "options": [
+      "🌙",
       "🐶",
       "🚢",
-      "🌙"
+      "🏠"
     ],
     "correctAnswer": "🌙",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2156,9 +2280,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍎",
     "options": [
+      "nave",
       "casa",
-      "mela",
-      "nave"
+      "topo",
+      "mela"
     ],
     "correctAnswer": "mela",
     "hint": "La parola inizia con m.",
@@ -2173,9 +2298,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "cane",
     "options": [
+      "🐭",
+      "🐸",
       "🐶",
-      "🏠",
-      "🐭"
+      "🏠"
     ],
     "correctAnswer": "🐶",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2190,9 +2316,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🚢",
     "options": [
+      "gatto",
+      "nave",
       "topo",
-      "rana",
-      "nave"
+      "rana"
     ],
     "correctAnswer": "nave",
     "hint": "La parola inizia con n.",
@@ -2207,9 +2334,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "casa",
     "options": [
-      "🐱",
       "🏠",
-      "🐸"
+      "🐸",
+      "🐱",
+      "🐟"
     ],
     "correctAnswer": "🏠",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2224,9 +2352,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐭",
     "options": [
-      "topo",
       "gatto",
-      "pesce"
+      "pesce",
+      "palla",
+      "topo"
     ],
     "correctAnswer": "topo",
     "hint": "La parola inizia con t.",
@@ -2241,9 +2370,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "rana",
     "options": [
-      "🐟",
       "⚽",
-      "🐸"
+      "🌸",
+      "🐸",
+      "🐟"
     ],
     "correctAnswer": "🐸",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2258,9 +2388,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐱",
     "options": [
-      "fiore",
+      "libro",
       "gatto",
-      "palla"
+      "palla",
+      "fiore"
     ],
     "correctAnswer": "gatto",
     "hint": "La parola inizia con g.",
@@ -2277,7 +2408,8 @@
     "options": [
       "🐟",
       "🌸",
-      "📘"
+      "📘",
+      "✋"
     ],
     "correctAnswer": "🐟",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2294,6 +2426,7 @@
     "options": [
       "libro",
       "mano",
+      "naso",
       "palla"
     ],
     "correctAnswer": "palla",
@@ -2310,6 +2443,7 @@
     "display": "fiore",
     "options": [
       "👃",
+      "🎲",
       "🌸",
       "✋"
     ],
@@ -2326,6 +2460,7 @@
     "prompt": "Guarda e scegli la parola",
     "display": "📘",
     "options": [
+      "vaso",
       "libro",
       "naso",
       "dado"
@@ -2343,9 +2478,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "mano",
     "options": [
+      "✋",
       "🎲",
       "🏺",
-      "✋"
+      "🍌"
     ],
     "correctAnswer": "✋",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2360,9 +2496,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "👃",
     "options": [
+      "vaso",
       "banana",
-      "naso",
-      "vaso"
+      "limone",
+      "naso"
     ],
     "correctAnswer": "naso",
     "hint": "La parola inizia con n.",
@@ -2377,9 +2514,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "dado",
     "options": [
+      "🍋",
+      "🍐",
       "🎲",
-      "🍌",
-      "🍋"
+      "🍌"
     ],
     "correctAnswer": "🎲",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2394,9 +2532,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🏺",
     "options": [
+      "uva",
+      "vaso",
       "limone",
-      "pera",
-      "vaso"
+      "pera"
     ],
     "correctAnswer": "vaso",
     "hint": "La parola inizia con v.",
@@ -2411,9 +2550,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "banana",
     "options": [
-      "🍇",
       "🍌",
-      "🍐"
+      "🍐",
+      "🍇",
+      "🍰"
     ],
     "correctAnswer": "🍌",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2428,9 +2568,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍋",
     "options": [
-      "limone",
       "uva",
-      "torta"
+      "torta",
+      "latte",
+      "limone"
     ],
     "correctAnswer": "limone",
     "hint": "La parola inizia con l.",
@@ -2445,9 +2586,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "pera",
     "options": [
-      "🍰",
       "🥛",
-      "🍐"
+      "🥚",
+      "🍐",
+      "🍰"
     ],
     "correctAnswer": "🍐",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2462,9 +2604,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍇",
     "options": [
-      "uovo",
+      "miele",
       "uva",
-      "latte"
+      "latte",
+      "uovo"
     ],
     "correctAnswer": "uva",
     "hint": "La parola inizia con u.",
@@ -2481,7 +2624,8 @@
     "options": [
       "🍰",
       "🥚",
-      "🍯"
+      "🍯",
+      "🍚"
     ],
     "correctAnswer": "🍰",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2498,6 +2642,7 @@
     "options": [
       "miele",
       "riso",
+      "pizza",
       "latte"
     ],
     "correctAnswer": "latte",
@@ -2514,6 +2659,7 @@
     "display": "uovo",
     "options": [
       "🍕",
+      "🍦",
       "🥚",
       "🍚"
     ],
@@ -2530,6 +2676,7 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍯",
     "options": [
+      "leone",
       "miele",
       "pizza",
       "gelato"
@@ -2547,9 +2694,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "riso",
     "options": [
+      "🍚",
       "🍦",
       "🦁",
-      "🍚"
+      "🐯"
     ],
     "correctAnswer": "🍚",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2564,9 +2712,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🍕",
     "options": [
+      "leone",
       "tigre",
-      "pizza",
-      "leone"
+      "orso",
+      "pizza"
     ],
     "correctAnswer": "pizza",
     "hint": "La parola inizia con p.",
@@ -2581,9 +2730,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "gelato",
     "options": [
+      "🐻",
+      "🦓",
       "🍦",
-      "🐯",
-      "🐻"
+      "🐯"
     ],
     "correctAnswer": "🍦",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2598,9 +2748,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🦁",
     "options": [
+      "mucca",
+      "leone",
       "orso",
-      "zebra",
-      "leone"
+      "zebra"
     ],
     "correctAnswer": "leone",
     "hint": "La parola inizia con l.",
@@ -2615,9 +2766,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "tigre",
     "options": [
-      "🐮",
       "🐯",
-      "🦓"
+      "🦓",
+      "🐮",
+      "🐑"
     ],
     "correctAnswer": "🐯",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2632,9 +2784,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐻",
     "options": [
-      "orso",
       "mucca",
-      "pecora"
+      "pecora",
+      "gufo",
+      "orso"
     ],
     "correctAnswer": "orso",
     "hint": "La parola inizia con o.",
@@ -2649,9 +2802,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "zebra",
     "options": [
-      "🐑",
       "🦉",
-      "🦓"
+      "🐝",
+      "🦓",
+      "🐑"
     ],
     "correctAnswer": "🦓",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2666,9 +2820,10 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🐮",
     "options": [
-      "ape",
+      "cocco",
       "mucca",
-      "gufo"
+      "gufo",
+      "ape"
     ],
     "correctAnswer": "mucca",
     "hint": "La parola inizia con m.",
@@ -2685,7 +2840,8 @@
     "options": [
       "🐑",
       "🐝",
-      "🥥"
+      "🥥",
+      "🦭"
     ],
     "correctAnswer": "🐑",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2702,6 +2858,7 @@
     "options": [
       "cocco",
       "foca",
+      "mare",
       "gufo"
     ],
     "correctAnswer": "gufo",
@@ -2718,6 +2875,7 @@
     "display": "ape",
     "options": [
       "🌊",
+      "☀️",
       "🐝",
       "🦭"
     ],
@@ -2734,6 +2892,7 @@
     "prompt": "Guarda e scegli la parola",
     "display": "🥥",
     "options": [
+      "pane",
       "cocco",
       "mare",
       "sole"
@@ -2751,9 +2910,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "foca",
     "options": [
+      "🦭",
       "☀️",
       "🍞",
-      "🦭"
+      "🌙"
     ],
     "correctAnswer": "🦭",
     "hint": "Leggi la parola a piccoli pezzi.",
@@ -2770,7 +2930,8 @@
     "options": [
       "🌊",
       "☀️",
-      "🍞"
+      "🍞",
+      "🌙"
     ],
     "correctAnswer": "🌊",
     "hint": "Guarda bene la parola MARE.",
@@ -2787,6 +2948,7 @@
     "options": [
       "🍞",
       "🌙",
+      "🍎",
       "☀️"
     ],
     "correctAnswer": "☀️",
@@ -2803,6 +2965,7 @@
     "display": "il pane",
     "options": [
       "🍎",
+      "🐶",
       "🍞",
       "🌙"
     ],
@@ -2819,6 +2982,7 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la luna",
     "options": [
+      "🚢",
       "🌙",
       "🍎",
       "🐶"
@@ -2836,9 +3000,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la mela",
     "options": [
+      "🍎",
       "🐶",
       "🚢",
-      "🍎"
+      "🏠"
     ],
     "correctAnswer": "🍎",
     "hint": "Guarda bene la parola MELA.",
@@ -2853,9 +3018,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il cane",
     "options": [
+      "🚢",
       "🏠",
-      "🐶",
-      "🚢"
+      "🐭",
+      "🐶"
     ],
     "correctAnswer": "🐶",
     "hint": "Guarda bene la parola CANE.",
@@ -2870,9 +3036,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la nave",
     "options": [
+      "🐭",
+      "🐸",
       "🚢",
-      "🏠",
-      "🐭"
+      "🏠"
     ],
     "correctAnswer": "🚢",
     "hint": "Guarda bene la parola NAVE.",
@@ -2887,9 +3054,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la casa",
     "options": [
+      "🐱",
+      "🏠",
       "🐭",
-      "🐸",
-      "🏠"
+      "🐸"
     ],
     "correctAnswer": "🏠",
     "hint": "Guarda bene la parola CASA.",
@@ -2904,9 +3072,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il topo",
     "options": [
-      "🐱",
       "🐭",
-      "🐸"
+      "🐸",
+      "🐱",
+      "🐟"
     ],
     "correctAnswer": "🐭",
     "hint": "Guarda bene la parola TOPO.",
@@ -2921,9 +3090,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la rana",
     "options": [
-      "🐸",
       "🐱",
-      "🐟"
+      "🐟",
+      "⚽",
+      "🐸"
     ],
     "correctAnswer": "🐸",
     "hint": "Guarda bene la parola RANA.",
@@ -2938,9 +3108,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il gatto",
     "options": [
-      "🐟",
       "⚽",
-      "🐱"
+      "🌸",
+      "🐱",
+      "🐟"
     ],
     "correctAnswer": "🐱",
     "hint": "Guarda bene la parola GATTO.",
@@ -2955,9 +3126,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il pesce",
     "options": [
-      "🌸",
+      "📘",
       "🐟",
-      "⚽"
+      "⚽",
+      "🌸"
     ],
     "correctAnswer": "🐟",
     "hint": "Guarda bene la parola PESCE.",
@@ -2974,7 +3146,8 @@
     "options": [
       "⚽",
       "🌸",
-      "📘"
+      "📘",
+      "✋"
     ],
     "correctAnswer": "⚽",
     "hint": "Guarda bene la parola PALLA.",
@@ -2991,6 +3164,7 @@
     "options": [
       "📘",
       "✋",
+      "👃",
       "🌸"
     ],
     "correctAnswer": "🌸",
@@ -3007,6 +3181,7 @@
     "display": "il libro",
     "options": [
       "👃",
+      "🎲",
       "📘",
       "✋"
     ],
@@ -3023,6 +3198,7 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la mano",
     "options": [
+      "🏺",
       "✋",
       "👃",
       "🎲"
@@ -3040,9 +3216,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il naso",
     "options": [
+      "👃",
       "🎲",
       "🏺",
-      "👃"
+      "🍌"
     ],
     "correctAnswer": "👃",
     "hint": "Guarda bene la parola NASO.",
@@ -3057,9 +3234,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il dado",
     "options": [
+      "🏺",
       "🍌",
-      "🎲",
-      "🏺"
+      "🍋",
+      "🎲"
     ],
     "correctAnswer": "🎲",
     "hint": "Guarda bene la parola DADO.",
@@ -3074,9 +3252,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il vaso",
     "options": [
+      "🍋",
+      "🍐",
       "🏺",
-      "🍌",
-      "🍋"
+      "🍌"
     ],
     "correctAnswer": "🏺",
     "hint": "Guarda bene la parola VASO.",
@@ -3091,9 +3270,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la banana",
     "options": [
+      "🍇",
+      "🍌",
       "🍋",
-      "🍐",
-      "🍌"
+      "🍐"
     ],
     "correctAnswer": "🍌",
     "hint": "Guarda bene la parola BANANA.",
@@ -3108,9 +3288,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il limone",
     "options": [
-      "🍇",
       "🍋",
-      "🍐"
+      "🍐",
+      "🍇",
+      "🍰"
     ],
     "correctAnswer": "🍋",
     "hint": "Guarda bene la parola LIMONE.",
@@ -3125,9 +3306,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la pera",
     "options": [
-      "🍐",
       "🍇",
-      "🍰"
+      "🍰",
+      "🥛",
+      "🍐"
     ],
     "correctAnswer": "🍐",
     "hint": "Guarda bene la parola PERA.",
@@ -3142,9 +3324,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "l'uva",
     "options": [
-      "🍰",
       "🥛",
-      "🍇"
+      "🥚",
+      "🍇",
+      "🍰"
     ],
     "correctAnswer": "🍇",
     "hint": "Guarda bene la parola UVA.",
@@ -3159,9 +3342,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la torta",
     "options": [
-      "🥚",
+      "🍯",
       "🍰",
-      "🥛"
+      "🥛",
+      "🥚"
     ],
     "correctAnswer": "🍰",
     "hint": "Guarda bene la parola TORTA.",
@@ -3178,7 +3362,8 @@
     "options": [
       "🥛",
       "🥚",
-      "🍯"
+      "🍯",
+      "🍚"
     ],
     "correctAnswer": "🥛",
     "hint": "Guarda bene la parola LATTE.",
@@ -3195,6 +3380,7 @@
     "options": [
       "🍯",
       "🍚",
+      "🍕",
       "🥚"
     ],
     "correctAnswer": "🥚",
@@ -3211,6 +3397,7 @@
     "display": "il miele",
     "options": [
       "🍕",
+      "🍦",
       "🍯",
       "🍚"
     ],
@@ -3227,6 +3414,7 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il riso",
     "options": [
+      "🦁",
       "🍚",
       "🍕",
       "🍦"
@@ -3244,9 +3432,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la pizza",
     "options": [
+      "🍕",
       "🍦",
       "🦁",
-      "🍕"
+      "🐯"
     ],
     "correctAnswer": "🍕",
     "hint": "Guarda bene la parola PIZZA.",
@@ -3261,9 +3450,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il gelato",
     "options": [
+      "🦁",
       "🐯",
-      "🍦",
-      "🦁"
+      "🐻",
+      "🍦"
     ],
     "correctAnswer": "🍦",
     "hint": "Guarda bene la parola GELATO.",
@@ -3278,9 +3468,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "il leone",
     "options": [
+      "🐻",
+      "🦓",
       "🦁",
-      "🐯",
-      "🐻"
+      "🐯"
     ],
     "correctAnswer": "🦁",
     "hint": "Guarda bene la parola LEONE.",
@@ -3295,9 +3486,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la tigre",
     "options": [
+      "🐮",
+      "🐯",
       "🐻",
-      "🦓",
-      "🐯"
+      "🦓"
     ],
     "correctAnswer": "🐯",
     "hint": "Guarda bene la parola TIGRE.",
@@ -3312,9 +3504,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "l'orso",
     "options": [
-      "🐮",
       "🐻",
-      "🦓"
+      "🦓",
+      "🐮",
+      "🐑"
     ],
     "correctAnswer": "🐻",
     "hint": "Guarda bene la parola ORSO.",
@@ -3329,9 +3522,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la zebra",
     "options": [
-      "🦓",
       "🐮",
-      "🐑"
+      "🐑",
+      "🦉",
+      "🦓"
     ],
     "correctAnswer": "🦓",
     "hint": "Guarda bene la parola ZEBRA.",
@@ -3346,9 +3540,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la mucca",
     "options": [
-      "🐑",
       "🦉",
-      "🐮"
+      "🐝",
+      "🐮",
+      "🐑"
     ],
     "correctAnswer": "🐮",
     "hint": "Guarda bene la parola MUCCA.",
@@ -3363,9 +3558,10 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la pecora",
     "options": [
-      "🐝",
+      "🥥",
       "🐑",
-      "🦉"
+      "🦉",
+      "🐝"
     ],
     "correctAnswer": "🐑",
     "hint": "Guarda bene la parola PECORA.",
@@ -3382,7 +3578,8 @@
     "options": [
       "🦉",
       "🐝",
-      "🥥"
+      "🥥",
+      "🦭"
     ],
     "correctAnswer": "🦉",
     "hint": "Guarda bene la parola GUFO.",
@@ -3399,6 +3596,7 @@
     "options": [
       "🥥",
       "🦭",
+      "🌊",
       "🐝"
     ],
     "correctAnswer": "🐝",
@@ -3415,6 +3613,7 @@
     "display": "il cocco",
     "options": [
       "🌊",
+      "☀️",
       "🥥",
       "🦭"
     ],
@@ -3431,6 +3630,7 @@
     "prompt": "Leggi e scegli l’immagine",
     "display": "la foca",
     "options": [
+      "🍞",
       "🦭",
       "🌊",
       "☀️"
@@ -3450,7 +3650,8 @@
     "options": [
       "🐶💨",
       "🐶💤",
-      "🐱💨"
+      "🐱💨",
+      "🐶🍽️"
     ],
     "correctAnswer": "🐶💨",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3467,6 +3668,7 @@
     "options": [
       "🐶💨",
       "🐱💤",
+      "🐶🍽️",
       "🐶💤"
     ],
     "correctAnswer": "🐶💤",
@@ -3483,6 +3685,7 @@
     "display": "il cane mangia",
     "options": [
       "🐱🍽️",
+      "🐶⬆️",
       "🐶🍽️",
       "🐶💨"
     ],
@@ -3499,6 +3702,7 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il cane salta",
     "options": [
+      "🐱💨",
       "🐶⬆️",
       "🐶💨",
       "🐱⬆️"
@@ -3516,9 +3720,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il gatto corre",
     "options": [
+      "🐱💨",
       "🐱💤",
       "🐶💨",
-      "🐱💨"
+      "🐱🍽️"
     ],
     "correctAnswer": "🐱💨",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3533,9 +3738,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il gatto dorme",
     "options": [
+      "🐱💨",
       "🐶💤",
-      "🐱💤",
-      "🐱💨"
+      "🐱🍽️",
+      "🐱💤"
     ],
     "correctAnswer": "🐱💤",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3550,9 +3756,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il gatto mangia",
     "options": [
+      "🐶🍽️",
+      "🐱⬆️",
       "🐱🍽️",
-      "🐱💨",
-      "🐶🍽️"
+      "🐱💨"
     ],
     "correctAnswer": "🐱🍽️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3567,9 +3774,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il gatto salta",
     "options": [
+      "🐸⬆️",
+      "🐱⬆️",
       "🐱💨",
-      "🐶⬆️",
-      "🐱⬆️"
+      "🐶⬆️"
     ],
     "correctAnswer": "🐱⬆️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3584,9 +3792,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la rana salta",
     "options": [
-      "🐶⬆️",
       "🐸⬆️",
-      "🐸🌊"
+      "🐸🌊",
+      "🐶⬆️",
+      "🐸💤"
     ],
     "correctAnswer": "🐸⬆️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3601,9 +3810,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la rana nuota",
     "options": [
-      "🐸🌊",
       "🐸⬆️",
-      "🐟🌊"
+      "🐟🌊",
+      "🐸💤",
+      "🐸🌊"
     ],
     "correctAnswer": "🐸🌊",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3618,9 +3828,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la rana dorme",
     "options": [
-      "🐸⬆️",
       "🐶💤",
-      "🐸💤"
+      "🐸🍽️",
+      "🐸💤",
+      "🐸⬆️"
     ],
     "correctAnswer": "🐸💤",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3635,9 +3846,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la rana mangia",
     "options": [
-      "🐶🍽️",
+      "🐟🌊",
       "🐸🍽️",
-      "🐸⬆️"
+      "🐸⬆️",
+      "🐶🍽️"
     ],
     "correctAnswer": "🐸🍽️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3654,7 +3866,8 @@
     "options": [
       "🐟🌊",
       "🐟🍽️",
-      "🐸🌊"
+      "🐸🌊",
+      "🐟🛏️"
     ],
     "correctAnswer": "🐟🌊",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3671,6 +3884,7 @@
     "options": [
       "🐟🌊",
       "🐶🍽️",
+      "🐟🛏️",
       "🐟🍽️"
     ],
     "correctAnswer": "🐟🍽️",
@@ -3687,6 +3901,7 @@
     "display": "il pesce riposa",
     "options": [
       "🐝🛏️",
+      "🐟⬆️",
       "🐟🛏️",
       "🐟🌊"
     ],
@@ -3703,6 +3918,7 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il pesce salta",
     "options": [
+      "🦉☁️",
       "🐟⬆️",
       "🐟🌊",
       "🐶⬆️"
@@ -3720,9 +3936,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il gufo vola",
     "options": [
+      "🦉☁️",
       "🦉👀",
       "🐝☁️",
-      "🦉☁️"
+      "🦉💤"
     ],
     "correctAnswer": "🦉☁️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3737,9 +3954,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il gufo guarda",
     "options": [
+      "🦉☁️",
       "🦉💤",
-      "🦉👀",
-      "🦉☁️"
+      "🦉🎵",
+      "🦉👀"
     ],
     "correctAnswer": "🦉👀",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3754,9 +3972,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il gufo dorme",
     "options": [
+      "🐶💤",
+      "🦉🎵",
       "🦉💤",
-      "🦉☁️",
-      "🐶💤"
+      "🦉☁️"
     ],
     "correctAnswer": "🦉💤",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3771,9 +3990,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il gufo canta",
     "options": [
+      "🦁📣",
+      "🦉🎵",
       "🦉☁️",
-      "🦁💨",
-      "🦉🎵"
+      "🦁💨"
     ],
     "correctAnswer": "🦉🎵",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3788,9 +4008,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il leone corre",
     "options": [
-      "🐶💨",
       "🦁💨",
-      "🦁📣"
+      "🦁📣",
+      "🐶💨",
+      "🦁💤"
     ],
     "correctAnswer": "🦁💨",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3805,9 +4026,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il leone ruggisce",
     "options": [
-      "🦁📣",
       "🦁💨",
-      "🐯📣"
+      "🐯📣",
+      "🦁💤",
+      "🦁📣"
     ],
     "correctAnswer": "🦁📣",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3822,9 +4044,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il leone dorme",
     "options": [
-      "🦁💨",
       "🐶💤",
-      "🦁💤"
+      "🦁🍽️",
+      "🦁💤",
+      "🦁💨"
     ],
     "correctAnswer": "🦁💤",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3839,9 +4062,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "il leone mangia",
     "options": [
-      "🐶🍽️",
+      "🐮🍽️",
       "🦁🍽️",
-      "🦁💨"
+      "🦁💨",
+      "🐶🍽️"
     ],
     "correctAnswer": "🦁🍽️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3858,7 +4082,8 @@
     "options": [
       "🐮🍽️",
       "🐮👣",
-      "🐶🍽️"
+      "🐶🍽️",
+      "🐮💤"
     ],
     "correctAnswer": "🐮🍽️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3875,6 +4100,7 @@
     "options": [
       "🐮🍽️",
       "🐯👣",
+      "🐮💤",
       "🐮👣"
     ],
     "correctAnswer": "🐮👣",
@@ -3891,6 +4117,7 @@
     "display": "la mucca dorme",
     "options": [
       "🐶💤",
+      "🐮💧",
       "🐮💤",
       "🐮🍽️"
     ],
@@ -3907,6 +4134,7 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la mucca beve",
     "options": [
+      "🐝☁️",
       "🐮💧",
       "🐮🍽️",
       "🐝💧"
@@ -3924,9 +4152,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "l'ape vola",
     "options": [
+      "🐝☁️",
       "🐝🎶",
       "🦉☁️",
-      "🐝☁️"
+      "🐝🛏️"
     ],
     "correctAnswer": "🐝☁️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3941,9 +4170,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "l'ape ronza",
     "options": [
+      "🐝☁️",
       "🐝🛏️",
-      "🐝🎶",
-      "🐝☁️"
+      "🐝💧",
+      "🐝🎶"
     ],
     "correctAnswer": "🐝🎶",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3958,9 +4188,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "l'ape riposa",
     "options": [
+      "🐟🛏️",
+      "🐝💧",
       "🐝🛏️",
-      "🐝☁️",
-      "🐟🛏️"
+      "🐝☁️"
     ],
     "correctAnswer": "🐝🛏️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3975,9 +4206,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "l'ape beve",
     "options": [
+      "🦭🌊",
+      "🐝💧",
       "🐝☁️",
-      "🐮💧",
-      "🐝💧"
+      "🐮💧"
     ],
     "correctAnswer": "🐝💧",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -3992,9 +4224,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la foca nuota",
     "options": [
-      "🐸🌊",
       "🦭🌊",
-      "🦭⬆️"
+      "🦭⬆️",
+      "🐸🌊",
+      "🦭💤"
     ],
     "correctAnswer": "🦭🌊",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -4009,9 +4242,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la foca salta",
     "options": [
-      "🦭⬆️",
       "🦭🌊",
-      "🐶⬆️"
+      "🐶⬆️",
+      "🦭💤",
+      "🦭⬆️"
     ],
     "correctAnswer": "🦭⬆️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -4026,9 +4260,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la foca dorme",
     "options": [
-      "🦭🌊",
       "🐶💤",
-      "🦭💤"
+      "🦭🍽️",
+      "🦭💤",
+      "🦭🌊"
     ],
     "correctAnswer": "🦭💤",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -4043,9 +4278,10 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la foca mangia",
     "options": [
-      "🐶🍽️",
+      "🐯💨",
       "🦭🍽️",
-      "🦭🌊"
+      "🦭🌊",
+      "🐶🍽️"
     ],
     "correctAnswer": "🦭🍽️",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -4062,7 +4298,8 @@
     "options": [
       "🐯💨",
       "🐯📣",
-      "🐶💨"
+      "🐶💨",
+      "🐯💤"
     ],
     "correctAnswer": "🐯💨",
     "hint": "Prima cerca chi c’è, poi che cosa fa.",
@@ -4079,6 +4316,7 @@
     "options": [
       "🐯💨",
       "🦁📣",
+      "🐯💤",
       "🐯📣"
     ],
     "correctAnswer": "🐯📣",
@@ -4095,6 +4333,7 @@
     "display": "la tigre dorme",
     "options": [
       "🐶💤",
+      "🐯👣",
       "🐯💤",
       "🐯💨"
     ],
@@ -4111,6 +4350,7 @@
     "prompt": "Leggi e scegli la scena",
     "display": "la tigre cammina",
     "options": [
+      "🐶💨",
       "🐯👣",
       "🐯💨",
       "🐮👣"
@@ -4130,7 +4370,8 @@
     "options": [
       "⚽🔴",
       "⚽🔵",
-      "⚽🟢"
+      "⚽🟢",
+      "⚽🟡"
     ],
     "correctAnswer": "⚽🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4147,6 +4388,7 @@
     "options": [
       "⚽🔴",
       "⚽🟢",
+      "⚽🟡",
       "⚽🔵"
     ],
     "correctAnswer": "⚽🔵",
@@ -4163,6 +4405,7 @@
     "display": "la palla è verde",
     "options": [
       "⚽🔵",
+      "⚽🟡",
       "⚽🟢",
       "⚽🔴"
     ],
@@ -4179,6 +4422,7 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la palla è gialla",
     "options": [
+      "⚽🟢",
       "⚽🟡",
       "⚽🔴",
       "⚽🔵"
@@ -4196,9 +4440,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la casa è rossa",
     "options": [
+      "🏠🔴",
       "🏠🔵",
       "🏠🟢",
-      "🏠🔴"
+      "🏠🟡"
     ],
     "correctAnswer": "🏠🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4213,9 +4458,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la casa è blu",
     "options": [
+      "🏠🔴",
       "🏠🟢",
-      "🏠🔵",
-      "🏠🔴"
+      "🏠🟡",
+      "🏠🔵"
     ],
     "correctAnswer": "🏠🔵",
     "hint": "Rileggi la parola del colore.",
@@ -4230,9 +4476,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la casa è verde",
     "options": [
+      "🏠🔵",
+      "🏠🟡",
       "🏠🟢",
-      "🏠🔴",
-      "🏠🔵"
+      "🏠🔴"
     ],
     "correctAnswer": "🏠🟢",
     "hint": "Rileggi la parola del colore.",
@@ -4247,9 +4494,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la casa è gialla",
     "options": [
+      "🏠🟢",
+      "🏠🟡",
       "🏠🔴",
-      "🏠🔵",
-      "🏠🟡"
+      "🏠🔵"
     ],
     "correctAnswer": "🏠🟡",
     "hint": "Rileggi la parola del colore.",
@@ -4264,9 +4512,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la nave è rossa",
     "options": [
-      "🚢🟢",
       "🚢🔴",
-      "🚢🔵"
+      "🚢🔵",
+      "🚢🟢",
+      "🚢🟡"
     ],
     "correctAnswer": "🚢🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4281,9 +4530,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la nave è blu",
     "options": [
-      "🚢🔵",
       "🚢🔴",
-      "🚢🟢"
+      "🚢🟢",
+      "🚢🟡",
+      "🚢🔵"
     ],
     "correctAnswer": "🚢🔵",
     "hint": "Rileggi la parola del colore.",
@@ -4298,9 +4548,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la nave è verde",
     "options": [
-      "🚢🔴",
       "🚢🔵",
-      "🚢🟢"
+      "🚢🟡",
+      "🚢🟢",
+      "🚢🔴"
     ],
     "correctAnswer": "🚢🟢",
     "hint": "Rileggi la parola del colore.",
@@ -4315,9 +4566,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la nave è gialla",
     "options": [
-      "🚢🔵",
+      "🚢🟢",
       "🚢🟡",
-      "🚢🔴"
+      "🚢🔴",
+      "🚢🔵"
     ],
     "correctAnswer": "🚢🟡",
     "hint": "Rileggi la parola del colore.",
@@ -4334,7 +4586,8 @@
     "options": [
       "🐸🔴",
       "🐸🔵",
-      "🐸🟢"
+      "🐸🟢",
+      "🐸🟡"
     ],
     "correctAnswer": "🐸🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4351,6 +4604,7 @@
     "options": [
       "🐸🔴",
       "🐸🟢",
+      "🐸🟡",
       "🐸🔵"
     ],
     "correctAnswer": "🐸🔵",
@@ -4367,6 +4621,7 @@
     "display": "la rana è verde",
     "options": [
       "🐸🔵",
+      "🐸🟡",
       "🐸🟢",
       "🐸🔴"
     ],
@@ -4383,6 +4638,7 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la rana è gialla",
     "options": [
+      "🐸🟢",
       "🐸🟡",
       "🐸🔴",
       "🐸🔵"
@@ -4400,9 +4656,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la mela è rossa",
     "options": [
+      "🍎🔴",
       "🍎🔵",
       "🍎🟢",
-      "🍎🔴"
+      "🍎🟡"
     ],
     "correctAnswer": "🍎🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4417,9 +4674,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la mela è blu",
     "options": [
+      "🍎🔴",
       "🍎🟢",
-      "🍎🔵",
-      "🍎🔴"
+      "🍎🟡",
+      "🍎🔵"
     ],
     "correctAnswer": "🍎🔵",
     "hint": "Rileggi la parola del colore.",
@@ -4434,9 +4692,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la mela è verde",
     "options": [
+      "🍎🔵",
+      "🍎🟡",
       "🍎🟢",
-      "🍎🔴",
-      "🍎🔵"
+      "🍎🔴"
     ],
     "correctAnswer": "🍎🟢",
     "hint": "Rileggi la parola del colore.",
@@ -4451,9 +4710,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "la mela è gialla",
     "options": [
+      "🍎🟢",
+      "🍎🟡",
       "🍎🔴",
-      "🍎🔵",
-      "🍎🟡"
+      "🍎🔵"
     ],
     "correctAnswer": "🍎🟡",
     "hint": "Rileggi la parola del colore.",
@@ -4468,9 +4728,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il libro è rosso",
     "options": [
-      "📘🟢",
       "📘🔴",
-      "📘🔵"
+      "📘🔵",
+      "📘🟢",
+      "📘🟡"
     ],
     "correctAnswer": "📘🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4485,9 +4746,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il libro è blu",
     "options": [
-      "📘🔵",
       "📘🔴",
-      "📘🟢"
+      "📘🟢",
+      "📘🟡",
+      "📘🔵"
     ],
     "correctAnswer": "📘🔵",
     "hint": "Rileggi la parola del colore.",
@@ -4502,9 +4764,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il libro è verde",
     "options": [
-      "📘🔴",
       "📘🔵",
-      "📘🟢"
+      "📘🟡",
+      "📘🟢",
+      "📘🔴"
     ],
     "correctAnswer": "📘🟢",
     "hint": "Rileggi la parola del colore.",
@@ -4519,9 +4782,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il libro è giallo",
     "options": [
-      "📘🔵",
+      "📘🟢",
       "📘🟡",
-      "📘🔴"
+      "📘🔴",
+      "📘🔵"
     ],
     "correctAnswer": "📘🟡",
     "hint": "Rileggi la parola del colore.",
@@ -4538,7 +4802,8 @@
     "options": [
       "🌸🔴",
       "🌸🔵",
-      "🌸🟢"
+      "🌸🟢",
+      "🌸🟡"
     ],
     "correctAnswer": "🌸🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4555,6 +4820,7 @@
     "options": [
       "🌸🔴",
       "🌸🟢",
+      "🌸🟡",
       "🌸🔵"
     ],
     "correctAnswer": "🌸🔵",
@@ -4571,6 +4837,7 @@
     "display": "il fiore è verde",
     "options": [
       "🌸🔵",
+      "🌸🟡",
       "🌸🟢",
       "🌸🔴"
     ],
@@ -4587,6 +4854,7 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il fiore è giallo",
     "options": [
+      "🌸🟢",
       "🌸🟡",
       "🌸🔴",
       "🌸🔵"
@@ -4604,9 +4872,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il vaso è rosso",
     "options": [
+      "🏺🔴",
       "🏺🔵",
       "🏺🟢",
-      "🏺🔴"
+      "🏺🟡"
     ],
     "correctAnswer": "🏺🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4621,9 +4890,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il vaso è blu",
     "options": [
+      "🏺🔴",
       "🏺🟢",
-      "🏺🔵",
-      "🏺🔴"
+      "🏺🟡",
+      "🏺🔵"
     ],
     "correctAnswer": "🏺🔵",
     "hint": "Rileggi la parola del colore.",
@@ -4638,9 +4908,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il vaso è verde",
     "options": [
+      "🏺🔵",
+      "🏺🟡",
       "🏺🟢",
-      "🏺🔴",
-      "🏺🔵"
+      "🏺🔴"
     ],
     "correctAnswer": "🏺🟢",
     "hint": "Rileggi la parola del colore.",
@@ -4655,9 +4926,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il vaso è giallo",
     "options": [
+      "🏺🟢",
+      "🏺🟡",
       "🏺🔴",
-      "🏺🔵",
-      "🏺🟡"
+      "🏺🔵"
     ],
     "correctAnswer": "🏺🟡",
     "hint": "Rileggi la parola del colore.",
@@ -4672,9 +4944,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il dado è rosso",
     "options": [
-      "🎲🟢",
       "🎲🔴",
-      "🎲🔵"
+      "🎲🔵",
+      "🎲🟢",
+      "🎲🟡"
     ],
     "correctAnswer": "🎲🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4689,9 +4962,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il dado è blu",
     "options": [
-      "🎲🔵",
       "🎲🔴",
-      "🎲🟢"
+      "🎲🟢",
+      "🎲🟡",
+      "🎲🔵"
     ],
     "correctAnswer": "🎲🔵",
     "hint": "Rileggi la parola del colore.",
@@ -4706,9 +4980,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il dado è verde",
     "options": [
-      "🎲🔴",
       "🎲🔵",
-      "🎲🟢"
+      "🎲🟡",
+      "🎲🟢",
+      "🎲🔴"
     ],
     "correctAnswer": "🎲🟢",
     "hint": "Rileggi la parola del colore.",
@@ -4723,9 +4998,10 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il dado è giallo",
     "options": [
-      "🎲🔵",
+      "🎲🟢",
       "🎲🟡",
-      "🎲🔴"
+      "🎲🔴",
+      "🎲🔵"
     ],
     "correctAnswer": "🎲🟡",
     "hint": "Rileggi la parola del colore.",
@@ -4742,7 +5018,8 @@
     "options": [
       "🐱🔴",
       "🐱🔵",
-      "🐱🟢"
+      "🐱🟢",
+      "🐱🟡"
     ],
     "correctAnswer": "🐱🔴",
     "hint": "Rileggi la parola del colore.",
@@ -4759,6 +5036,7 @@
     "options": [
       "🐱🔴",
       "🐱🟢",
+      "🐱🟡",
       "🐱🔵"
     ],
     "correctAnswer": "🐱🔵",
@@ -4775,6 +5053,7 @@
     "display": "il gatto è verde",
     "options": [
       "🐱🔵",
+      "🐱🟡",
       "🐱🟢",
       "🐱🔴"
     ],
@@ -4791,6 +5070,7 @@
     "prompt": "Leggi e scegli la figura giusta",
     "display": "il gatto è giallo",
     "options": [
+      "🐱🟢",
       "🐱🟡",
       "🐱🔴",
       "🐱🔵"
@@ -5531,7 +5811,8 @@
     "options": [
       "corre",
       "dorme",
-      "mangia"
+      "mangia",
+      "salta"
     ],
     "correctAnswer": "corre",
     "hint": "Guarda che cosa fa il cane.",
@@ -5549,6 +5830,7 @@
     "options": [
       "mangia",
       "salta",
+      "nuota",
       "dorme"
     ],
     "correctAnswer": "dorme",
@@ -5566,6 +5848,7 @@
     "visual": "🐶🍽️",
     "options": [
       "nuota",
+      "riposa",
       "mangia",
       "salta"
     ],
@@ -5583,6 +5866,7 @@
     "display": "il cane ___",
     "visual": "🐶⬆️",
     "options": [
+      "vola",
       "salta",
       "nuota",
       "riposa"
@@ -5601,9 +5885,10 @@
     "display": "il gatto ___",
     "visual": "🐱💨",
     "options": [
+      "corre",
+      "nuota",
       "riposa",
-      "vola",
-      "corre"
+      "vola"
     ],
     "correctAnswer": "corre",
     "hint": "Guarda che cosa fa il gatto.",
@@ -5619,9 +5904,10 @@
     "display": "il gatto ___",
     "visual": "🐱💤",
     "options": [
-      "mangia",
-      "dorme",
-      "corre"
+      "riposa",
+      "vola",
+      "guarda",
+      "dorme"
     ],
     "correctAnswer": "dorme",
     "hint": "Guarda che cosa fa il gatto.",
@@ -5637,9 +5923,10 @@
     "display": "il gatto ___",
     "visual": "🐱🍽️",
     "options": [
+      "guarda",
+      "canta",
       "mangia",
-      "dorme",
-      "salta"
+      "vola"
     ],
     "correctAnswer": "mangia",
     "hint": "Guarda che cosa fa il gatto.",
@@ -5655,9 +5942,10 @@
     "display": "il gatto ___",
     "visual": "🐱⬆️",
     "options": [
-      "mangia",
-      "nuota",
-      "salta"
+      "ruggisce",
+      "salta",
+      "guarda",
+      "canta"
     ],
     "correctAnswer": "salta",
     "hint": "Guarda che cosa fa il gatto.",
@@ -5673,9 +5961,10 @@
     "display": "la rana ___",
     "visual": "🐸⬆️",
     "options": [
-      "riposa",
       "salta",
-      "nuota"
+      "canta",
+      "ruggisce",
+      "cammina"
     ],
     "correctAnswer": "salta",
     "hint": "Guarda che cosa fa la rana.",
@@ -5691,9 +5980,10 @@
     "display": "la rana ___",
     "visual": "🐸🌊",
     "options": [
-      "nuota",
-      "riposa",
-      "vola"
+      "ruggisce",
+      "cammina",
+      "beve",
+      "nuota"
     ],
     "correctAnswer": "nuota",
     "hint": "Guarda che cosa fa la rana.",
@@ -5709,9 +5999,10 @@
     "display": "la rana ___",
     "visual": "🐸💤",
     "options": [
-      "corre",
-      "mangia",
-      "dorme"
+      "beve",
+      "ronza",
+      "dorme",
+      "cammina"
     ],
     "correctAnswer": "dorme",
     "hint": "Guarda che cosa fa la rana.",
@@ -5727,9 +6018,10 @@
     "display": "la rana ___",
     "visual": "🐸🍽️",
     "options": [
-      "salta",
+      "corre",
       "mangia",
-      "dorme"
+      "beve",
+      "ronza"
     ],
     "correctAnswer": "mangia",
     "hint": "Guarda che cosa fa la rana.",
@@ -5746,8 +6038,9 @@
     "visual": "🐟🌊",
     "options": [
       "nuota",
-      "mangia",
-      "salta"
+      "ronza",
+      "corre",
+      "dorme"
     ],
     "correctAnswer": "nuota",
     "hint": "Guarda che cosa fa il pesce.",
@@ -5763,8 +6056,9 @@
     "display": "il pesce ___",
     "visual": "🐟🍽️",
     "options": [
-      "nuota",
-      "riposa",
+      "corre",
+      "dorme",
+      "salta",
       "mangia"
     ],
     "correctAnswer": "mangia",
@@ -5781,9 +6075,10 @@
     "display": "il pesce ___",
     "visual": "🐟🛏️",
     "options": [
-      "vola",
+      "mangia",
+      "salta",
       "riposa",
-      "nuota"
+      "dorme"
     ],
     "correctAnswer": "riposa",
     "hint": "Guarda che cosa fa il pesce.",
@@ -5799,9 +6094,10 @@
     "display": "il pesce ___",
     "visual": "🐟⬆️",
     "options": [
+      "riposa",
       "salta",
-      "corre",
-      "dorme"
+      "mangia",
+      "nuota"
     ],
     "correctAnswer": "salta",
     "hint": "Guarda che cosa fa il pesce.",
@@ -5817,9 +6113,10 @@
     "display": "il gufo ___",
     "visual": "🦉☁️",
     "options": [
-      "dorme",
-      "mangia",
-      "vola"
+      "vola",
+      "salta",
+      "nuota",
+      "riposa"
     ],
     "correctAnswer": "vola",
     "hint": "Guarda che cosa fa il gufo.",
@@ -5835,9 +6132,10 @@
     "display": "il gufo ___",
     "visual": "🦉👀",
     "options": [
-      "salta",
-      "guarda",
-      "mangia"
+      "nuota",
+      "riposa",
+      "vola",
+      "guarda"
     ],
     "correctAnswer": "guarda",
     "hint": "Guarda che cosa fa il gufo.",
@@ -5853,8 +6151,9 @@
     "display": "il gufo ___",
     "visual": "🦉💤",
     "options": [
+      "vola",
+      "guarda",
       "dorme",
-      "nuota",
       "riposa"
     ],
     "correctAnswer": "dorme",
@@ -5871,9 +6170,10 @@
     "display": "il gufo ___",
     "visual": "🦉🎵",
     "options": [
-      "nuota",
-      "riposa",
-      "canta"
+      "ruggisce",
+      "canta",
+      "vola",
+      "guarda"
     ],
     "correctAnswer": "canta",
     "hint": "Guarda che cosa fa il gufo.",
@@ -5889,9 +6189,10 @@
     "display": "il leone ___",
     "visual": "🦁💨",
     "options": [
-      "mangia",
       "corre",
-      "dorme"
+      "guarda",
+      "canta",
+      "ruggisce"
     ],
     "correctAnswer": "corre",
     "hint": "Guarda che cosa fa il leone.",
@@ -5907,9 +6208,10 @@
     "display": "il leone ___",
     "visual": "🦁📣",
     "options": [
-      "ruggisce",
-      "dorme",
-      "mangia"
+      "canta",
+      "cammina",
+      "beve",
+      "ruggisce"
     ],
     "correctAnswer": "ruggisce",
     "hint": "Guarda che cosa fa il leone.",
@@ -5925,9 +6227,10 @@
     "display": "il leone ___",
     "visual": "🦁💤",
     "options": [
-      "salta",
-      "nuota",
-      "dorme"
+      "cammina",
+      "beve",
+      "dorme",
+      "ruggisce"
     ],
     "correctAnswer": "dorme",
     "hint": "Guarda che cosa fa il leone.",
@@ -5943,9 +6246,10 @@
     "display": "il leone ___",
     "visual": "🦁🍽️",
     "options": [
-      "riposa",
+      "ronza",
       "mangia",
-      "nuota"
+      "cammina",
+      "beve"
     ],
     "correctAnswer": "mangia",
     "hint": "Guarda che cosa fa il leone.",
@@ -5962,8 +6266,9 @@
     "visual": "🐮🍽️",
     "options": [
       "mangia",
-      "riposa",
-      "vola"
+      "beve",
+      "ronza",
+      "corre"
     ],
     "correctAnswer": "mangia",
     "hint": "Guarda che cosa fa la mucca.",
@@ -5979,6 +6284,7 @@
     "display": "la mucca ___",
     "visual": "🐮👣",
     "options": [
+      "ronza",
       "corre",
       "dorme",
       "cammina"
@@ -5997,9 +6303,10 @@
     "display": "la mucca ___",
     "visual": "🐮💤",
     "options": [
+      "mangia",
       "salta",
       "dorme",
-      "mangia"
+      "corre"
     ],
     "correctAnswer": "dorme",
     "hint": "Guarda che cosa fa la mucca.",
@@ -6015,9 +6322,10 @@
     "display": "la mucca ___",
     "visual": "🐮💧",
     "options": [
+      "salta",
       "beve",
-      "mangia",
-      "salta"
+      "dorme",
+      "mangia"
     ],
     "correctAnswer": "beve",
     "hint": "Guarda che cosa fa la mucca.",
@@ -6033,9 +6341,10 @@
     "display": "l'ape ___",
     "visual": "🐝☁️",
     "options": [
+      "vola",
+      "mangia",
       "salta",
-      "nuota",
-      "vola"
+      "nuota"
     ],
     "correctAnswer": "vola",
     "hint": "Guarda che cosa fa l'ape.",
@@ -6051,9 +6360,10 @@
     "display": "l'ape ___",
     "visual": "🐝🎶",
     "options": [
+      "salta",
+      "nuota",
       "riposa",
-      "ronza",
-      "nuota"
+      "ronza"
     ],
     "correctAnswer": "ronza",
     "hint": "Guarda che cosa fa l'ape.",
@@ -6069,9 +6379,10 @@
     "display": "l'ape ___",
     "visual": "🐝🛏️",
     "options": [
+      "vola",
+      "guarda",
       "riposa",
-      "corre",
-      "dorme"
+      "nuota"
     ],
     "correctAnswer": "riposa",
     "hint": "Guarda che cosa fa l'ape.",
@@ -6087,9 +6398,10 @@
     "display": "l'ape ___",
     "visual": "🐝💧",
     "options": [
-      "dorme",
-      "mangia",
-      "beve"
+      "guarda",
+      "beve",
+      "riposa",
+      "vola"
     ],
     "correctAnswer": "beve",
     "hint": "Guarda che cosa fa l'ape.",
@@ -6105,9 +6417,10 @@
     "display": "la foca ___",
     "visual": "🦭🌊",
     "options": [
-      "salta",
       "nuota",
-      "mangia"
+      "vola",
+      "guarda",
+      "canta"
     ],
     "correctAnswer": "nuota",
     "hint": "Guarda che cosa fa la foca.",
@@ -6123,9 +6436,10 @@
     "display": "la foca ___",
     "visual": "🦭⬆️",
     "options": [
-      "salta",
-      "nuota",
-      "riposa"
+      "guarda",
+      "canta",
+      "ruggisce",
+      "salta"
     ],
     "correctAnswer": "salta",
     "hint": "Guarda che cosa fa la foca.",
@@ -6141,9 +6455,10 @@
     "display": "la foca ___",
     "visual": "🦭💤",
     "options": [
-      "riposa",
-      "vola",
-      "dorme"
+      "ruggisce",
+      "cammina",
+      "dorme",
+      "canta"
     ],
     "correctAnswer": "dorme",
     "hint": "Guarda che cosa fa la foca.",
@@ -6159,9 +6474,10 @@
     "display": "la foca ___",
     "visual": "🦭🍽️",
     "options": [
-      "dorme",
+      "beve",
       "mangia",
-      "corre"
+      "ruggisce",
+      "cammina"
     ],
     "correctAnswer": "mangia",
     "hint": "Guarda che cosa fa la foca.",
@@ -6178,8 +6494,9 @@
     "visual": "🐯💨",
     "options": [
       "corre",
-      "mangia",
-      "salta"
+      "cammina",
+      "beve",
+      "ronza"
     ],
     "correctAnswer": "corre",
     "hint": "Guarda che cosa fa la tigre.",
@@ -6195,8 +6512,9 @@
     "display": "la tigre ___",
     "visual": "🐯📣",
     "options": [
-      "mangia",
-      "salta",
+      "beve",
+      "ronza",
+      "corre",
       "ruggisce"
     ],
     "correctAnswer": "ruggisce",
@@ -6213,9 +6531,10 @@
     "display": "la tigre ___",
     "visual": "🐯💤",
     "options": [
-      "riposa",
+      "corre",
+      "mangia",
       "dorme",
-      "nuota"
+      "ronza"
     ],
     "correctAnswer": "dorme",
     "hint": "Guarda che cosa fa la tigre.",
@@ -6231,9 +6550,10 @@
     "display": "la tigre ___",
     "visual": "🐯👣",
     "options": [
+      "mangia",
       "cammina",
-      "nuota",
-      "riposa"
+      "corre",
+      "dorme"
     ],
     "correctAnswer": "cammina",
     "hint": "Guarda che cosa fa la tigre.",
@@ -6250,7 +6570,8 @@
     "options": [
       "il cane corre",
       "il cane dorme",
-      "il gatto corre"
+      "il gatto corre",
+      "il cane mangia"
     ],
     "correctAnswer": "il cane corre",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6267,6 +6588,7 @@
     "options": [
       "il cane corre",
       "il gatto dorme",
+      "il cane mangia",
       "il cane dorme"
     ],
     "correctAnswer": "il cane dorme",
@@ -6283,6 +6605,7 @@
     "display": "🐶🍽️",
     "options": [
       "il gatto mangia",
+      "il cane salta",
       "il cane mangia",
       "il cane corre"
     ],
@@ -6299,6 +6622,7 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐶⬆️",
     "options": [
+      "il gatto corre",
       "il cane salta",
       "il cane corre",
       "il gatto salta"
@@ -6316,9 +6640,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐱💨",
     "options": [
+      "il gatto corre",
       "il gatto dorme",
       "il cane corre",
-      "il gatto corre"
+      "il gatto mangia"
     ],
     "correctAnswer": "il gatto corre",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6333,9 +6658,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐱💤",
     "options": [
+      "il gatto corre",
       "il cane dorme",
-      "il gatto dorme",
-      "il gatto corre"
+      "il gatto mangia",
+      "il gatto dorme"
     ],
     "correctAnswer": "il gatto dorme",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6350,9 +6676,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐱🍽️",
     "options": [
+      "il cane mangia",
+      "il gatto salta",
       "il gatto mangia",
-      "il gatto corre",
-      "il cane mangia"
+      "il gatto corre"
     ],
     "correctAnswer": "il gatto mangia",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6367,9 +6694,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐱⬆️",
     "options": [
+      "la rana salta",
+      "il gatto salta",
       "il gatto corre",
-      "il cane salta",
-      "il gatto salta"
+      "il cane salta"
     ],
     "correctAnswer": "il gatto salta",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6384,9 +6712,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐸⬆️",
     "options": [
-      "il cane salta",
       "la rana salta",
-      "la rana nuota"
+      "la rana nuota",
+      "il cane salta",
+      "la rana dorme"
     ],
     "correctAnswer": "la rana salta",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6401,9 +6730,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐸🌊",
     "options": [
-      "la rana nuota",
       "la rana salta",
-      "il pesce nuota"
+      "il pesce nuota",
+      "la rana dorme",
+      "la rana nuota"
     ],
     "correctAnswer": "la rana nuota",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6418,9 +6748,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐸💤",
     "options": [
-      "la rana salta",
       "il cane dorme",
-      "la rana dorme"
+      "la rana mangia",
+      "la rana dorme",
+      "la rana salta"
     ],
     "correctAnswer": "la rana dorme",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6435,9 +6766,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐸🍽️",
     "options": [
-      "il cane mangia",
+      "il pesce nuota",
       "la rana mangia",
-      "la rana salta"
+      "la rana salta",
+      "il cane mangia"
     ],
     "correctAnswer": "la rana mangia",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6454,7 +6786,8 @@
     "options": [
       "il pesce nuota",
       "il pesce mangia",
-      "la rana nuota"
+      "la rana nuota",
+      "il pesce riposa"
     ],
     "correctAnswer": "il pesce nuota",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6471,6 +6804,7 @@
     "options": [
       "il pesce nuota",
       "il cane mangia",
+      "il pesce riposa",
       "il pesce mangia"
     ],
     "correctAnswer": "il pesce mangia",
@@ -6487,6 +6821,7 @@
     "display": "🐟🛏️",
     "options": [
       "l'ape riposa",
+      "il pesce salta",
       "il pesce riposa",
       "il pesce nuota"
     ],
@@ -6503,6 +6838,7 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐟⬆️",
     "options": [
+      "il gufo vola",
       "il pesce salta",
       "il pesce nuota",
       "il cane salta"
@@ -6520,9 +6856,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦉☁️",
     "options": [
+      "il gufo vola",
       "il gufo guarda",
       "l'ape vola",
-      "il gufo vola"
+      "il gufo dorme"
     ],
     "correctAnswer": "il gufo vola",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6537,9 +6874,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦉👀",
     "options": [
+      "il gufo vola",
       "il gufo dorme",
-      "il gufo guarda",
-      "il gufo vola"
+      "il gufo canta",
+      "il gufo guarda"
     ],
     "correctAnswer": "il gufo guarda",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6554,9 +6892,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦉💤",
     "options": [
+      "il cane dorme",
+      "il gufo canta",
       "il gufo dorme",
-      "il gufo vola",
-      "il cane dorme"
+      "il gufo vola"
     ],
     "correctAnswer": "il gufo dorme",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6571,9 +6910,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦉🎵",
     "options": [
+      "il leone ruggisce",
+      "il gufo canta",
       "il gufo vola",
-      "il leone corre",
-      "il gufo canta"
+      "il leone corre"
     ],
     "correctAnswer": "il gufo canta",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6588,9 +6928,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦁💨",
     "options": [
-      "il cane corre",
       "il leone corre",
-      "il leone ruggisce"
+      "il leone ruggisce",
+      "il cane corre",
+      "il leone dorme"
     ],
     "correctAnswer": "il leone corre",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6605,9 +6946,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦁📣",
     "options": [
-      "il leone ruggisce",
       "il leone corre",
-      "la tigre ruggisce"
+      "la tigre ruggisce",
+      "il leone dorme",
+      "il leone ruggisce"
     ],
     "correctAnswer": "il leone ruggisce",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6622,9 +6964,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦁💤",
     "options": [
-      "il leone corre",
       "il cane dorme",
-      "il leone dorme"
+      "il leone mangia",
+      "il leone dorme",
+      "il leone corre"
     ],
     "correctAnswer": "il leone dorme",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6639,9 +6982,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦁🍽️",
     "options": [
-      "il cane mangia",
+      "la mucca mangia",
       "il leone mangia",
-      "il leone corre"
+      "il leone corre",
+      "il cane mangia"
     ],
     "correctAnswer": "il leone mangia",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6658,7 +7002,8 @@
     "options": [
       "la mucca mangia",
       "la mucca cammina",
-      "il cane mangia"
+      "il cane mangia",
+      "la mucca dorme"
     ],
     "correctAnswer": "la mucca mangia",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6675,6 +7020,7 @@
     "options": [
       "la mucca mangia",
       "la tigre cammina",
+      "la mucca dorme",
       "la mucca cammina"
     ],
     "correctAnswer": "la mucca cammina",
@@ -6691,6 +7037,7 @@
     "display": "🐮💤",
     "options": [
       "il cane dorme",
+      "la mucca beve",
       "la mucca dorme",
       "la mucca mangia"
     ],
@@ -6707,6 +7054,7 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐮💧",
     "options": [
+      "l'ape vola",
       "la mucca beve",
       "la mucca mangia",
       "l'ape beve"
@@ -6724,9 +7072,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐝☁️",
     "options": [
+      "l'ape vola",
       "l'ape ronza",
       "il gufo vola",
-      "l'ape vola"
+      "l'ape riposa"
     ],
     "correctAnswer": "l'ape vola",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6741,9 +7090,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐝🎶",
     "options": [
+      "l'ape vola",
       "l'ape riposa",
-      "l'ape ronza",
-      "l'ape vola"
+      "l'ape beve",
+      "l'ape ronza"
     ],
     "correctAnswer": "l'ape ronza",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6758,9 +7108,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐝🛏️",
     "options": [
+      "il pesce riposa",
+      "l'ape beve",
       "l'ape riposa",
-      "l'ape vola",
-      "il pesce riposa"
+      "l'ape vola"
     ],
     "correctAnswer": "l'ape riposa",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6775,9 +7126,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐝💧",
     "options": [
+      "la foca nuota",
+      "l'ape beve",
       "l'ape vola",
-      "la mucca beve",
-      "l'ape beve"
+      "la mucca beve"
     ],
     "correctAnswer": "l'ape beve",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6792,9 +7144,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦭🌊",
     "options": [
-      "la rana nuota",
       "la foca nuota",
-      "la foca salta"
+      "la foca salta",
+      "la rana nuota",
+      "la foca dorme"
     ],
     "correctAnswer": "la foca nuota",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6809,9 +7162,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦭⬆️",
     "options": [
-      "la foca salta",
       "la foca nuota",
-      "il cane salta"
+      "il cane salta",
+      "la foca dorme",
+      "la foca salta"
     ],
     "correctAnswer": "la foca salta",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6826,9 +7180,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦭💤",
     "options": [
-      "la foca nuota",
       "il cane dorme",
-      "la foca dorme"
+      "la foca mangia",
+      "la foca dorme",
+      "la foca nuota"
     ],
     "correctAnswer": "la foca dorme",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6843,9 +7198,10 @@
     "prompt": "Scegli la frase giusta",
     "display": "🦭🍽️",
     "options": [
-      "il cane mangia",
+      "la tigre corre",
       "la foca mangia",
-      "la foca nuota"
+      "la foca nuota",
+      "il cane mangia"
     ],
     "correctAnswer": "la foca mangia",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6862,7 +7218,8 @@
     "options": [
       "la tigre corre",
       "la tigre ruggisce",
-      "il cane corre"
+      "il cane corre",
+      "la tigre dorme"
     ],
     "correctAnswer": "la tigre corre",
     "hint": "Controlla sia chi c’è sia che cosa fa.",
@@ -6879,6 +7236,7 @@
     "options": [
       "la tigre corre",
       "il leone ruggisce",
+      "la tigre dorme",
       "la tigre ruggisce"
     ],
     "correctAnswer": "la tigre ruggisce",
@@ -6895,6 +7253,7 @@
     "display": "🐯💤",
     "options": [
       "il cane dorme",
+      "la tigre cammina",
       "la tigre dorme",
       "la tigre corre"
     ],
@@ -6911,6 +7270,7 @@
     "prompt": "Scegli la frase giusta",
     "display": "🐯👣",
     "options": [
+      "il cane corre",
       "la tigre cammina",
       "la tigre corre",
       "la mucca cammina"

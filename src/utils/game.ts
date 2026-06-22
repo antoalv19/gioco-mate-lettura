@@ -5,6 +5,17 @@ export const shuffle = <T,>(items: T[]): T[] => [...items].sort(() => Math.rando
 export const byDifficulty = <T extends { difficulty: Difficulty }>(items: T[], difficulty: Difficulty) => items.filter(item => item.difficulty === difficulty);
 export const normalizeAnswer = (value: string) => value.trim().replace(/\s+/g, '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toUpperCase();
 
+export function ensureFourChoices<T extends string | number>(correct: T, choices: T[], pool: T[]): T[] {
+  const unique = new Map<string, T>();
+  const add = (value: T) => unique.set(typeof value === 'string' ? normalizeAnswer(value) : String(value), value);
+  add(correct);
+  for (const value of [...choices, ...shuffle(pool)]) {
+    add(value);
+    if (unique.size >= 4) break;
+  }
+  return shuffle([...unique.values()].slice(0, 4));
+}
+
 const ranges: Record<Difficulty, number> = { facile: 10, medio: 20, difficile: 30 };
 const choiceCounts: Record<Difficulty, number> = { facile: 4, medio: 4, difficile: 4 };
 

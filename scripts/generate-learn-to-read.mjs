@@ -42,19 +42,23 @@ const qualities = [
 const rotate = (items, amount) => items.slice(amount % items.length).concat(items.slice(0, amount % items.length));
 const id = (level, index) => `course-${String(level).padStart(2, '0')}-${String(index + 1).padStart(3, '0')}`;
 const make = (level, index, levelTitle, difficulty, activity, data) => ({ id: id(level, index), level, levelTitle, difficulty, activity, ...data });
-const differentWords = (current, property, index, count = 2) => rotate(words, index + 1).filter(item => item[property] !== current[property]).slice(0, count);
+const differentWords = (current, property, index, count = 3) => rotate(words, index + 1).filter(item => item[property] !== current[property]).slice(0, count);
 const differentScenes = (current, index) => {
   const sameSubject = scenes.find(item => item.noun === current.noun && item.action !== current.action);
   const sameAction = scenes.find(item => item.action === current.action && item.noun !== current.noun);
-  return [sameSubject, sameAction || rotate(scenes, index + 1).find(item => item.scene !== current.scene)];
+  const selected = [sameSubject, sameAction].filter(Boolean);
+  for (const item of rotate(scenes, index + 1)) {
+    if (item.scene !== current.scene && !selected.some(value => value.scene === item.scene)) selected.push(item);
+    if (selected.length === 3) break;
+  }
+  return selected;
 };
 
 const levels = [];
 
 words.forEach((item, index) => {
-  const distractors = differentWords(item, 'word', index).filter(word => word.word[0] !== item.word[0]);
-  const fallback = rotate(words, index + 3).filter(word => word.word[0] !== item.word[0]).slice(0, 2 - distractors.length);
-  const options = rotate([`${item.word.toUpperCase()} ${item.emoji}`, ...[...distractors, ...fallback].slice(0, 2).map(word => `${word.word.toUpperCase()} ${word.emoji}`)], index);
+  const distractors = rotate(words, index + 1).filter(word => word.word[0] !== item.word[0]).slice(0, 3);
+  const options = rotate([`${item.word.toUpperCase()} ${item.emoji}`, ...distractors.map(word => `${word.word.toUpperCase()} ${word.emoji}`)], index);
   levels.push(make(1, index, 'Suoni e lettere', 'facile', 'letter-sound', {
     prompt: `Quale parola inizia con ${item.word[0].toUpperCase()}?`, display: item.word[0].toUpperCase(), visual: `👂 ${item.word[0].toUpperCase()}…`, options,
     correctAnswer: `${item.word.toUpperCase()} ${item.emoji}`, hint: 'Ascolta il primo suono di ogni parola.', keyWord: item.word.toUpperCase(),
@@ -62,7 +66,7 @@ words.forEach((item, index) => {
 });
 
 words.forEach((item, index) => {
-  const distractors = differentWords(item, 'syllable', index).slice(0, 2);
+  const distractors = differentWords(item, 'syllable', index).slice(0, 3);
   const options = rotate([item.word.toUpperCase(), ...distractors.map(word => word.word.toUpperCase())], index + 1);
   levels.push(make(2, index, 'Sillabe maiuscole', 'facile', 'syllable-word', {
     prompt: `Quale parola inizia con ${item.syllable.toUpperCase()}?`, display: item.syllable.toUpperCase(), options,
@@ -71,7 +75,7 @@ words.forEach((item, index) => {
 });
 
 words.forEach((item, index) => {
-  const distractors = rotate(words, index + 1).filter(word => word.emoji !== item.emoji).slice(0, 2);
+  const distractors = rotate(words, index + 1).filter(word => word.emoji !== item.emoji).slice(0, 3);
   const wordFirst = index % 2 === 0;
   levels.push(make(3, index, 'Parole maiuscole', 'facile', wordFirst ? 'word-to-image' : 'image-to-word', wordFirst ? {
     prompt: 'Leggi e scegli l’immagine', display: item.word.toUpperCase(), options: rotate([item.emoji, ...distractors.map(word => word.emoji)], index),
@@ -83,7 +87,7 @@ words.forEach((item, index) => {
 });
 
 words.forEach((item, index) => {
-  const distractors = rotate(words, index + 2).filter(word => word.emoji !== item.emoji).slice(0, 2);
+  const distractors = rotate(words, index + 2).filter(word => word.emoji !== item.emoji).slice(0, 3);
   const wordFirst = index % 2 !== 0;
   levels.push(make(4, index, 'Parole minuscole', 'medio', wordFirst ? 'word-to-image' : 'image-to-word', wordFirst ? {
     prompt: 'Leggi e scegli l’immagine', display: item.word, options: rotate([item.emoji, ...distractors.map(word => word.emoji)], index + 1),
@@ -95,7 +99,7 @@ words.forEach((item, index) => {
 });
 
 words.forEach((item, index) => {
-  const distractors = rotate(words, index + 1).filter(word => word.emoji !== item.emoji).slice(0, 2);
+  const distractors = rotate(words, index + 1).filter(word => word.emoji !== item.emoji).slice(0, 3);
   const phrase = `${item.article}${item.article === "l'" ? '' : ' '}${item.word}`;
   levels.push(make(5, index, 'Due parole', 'medio', 'two-word', {
     prompt: 'Leggi e scegli l’immagine', display: phrase, options: rotate([item.emoji, ...distractors.map(word => word.emoji)], index),
@@ -112,7 +116,7 @@ scenes.forEach((item, index) => {
 });
 
 qualities.forEach((item, index) => {
-  const sameObject = qualities.filter(value => value.noun === item.noun && value.adjective !== item.adjective).slice(0, 2);
+  const sameObject = qualities.filter(value => value.noun === item.noun && value.adjective !== item.adjective).slice(0, 3);
   levels.push(make(7, index, 'Frasi con qualità', 'difficile', 'sentence-to-image', {
     prompt: 'Leggi e scegli la figura giusta', display: item.sentence, options: rotate([`${item.emoji}${item.marker}`, ...sameObject.map(value => `${value.emoji}${value.marker}`)], index),
     correctAnswer: `${item.emoji}${item.marker}`, hint: 'Rileggi la parola del colore.', keyWord: item.adjective,
@@ -127,8 +131,8 @@ scenes.forEach((item, index) => {
 });
 
 scenes.forEach((item, index) => {
-  const otherActions = subjects.flatMap(subject => subject.actions).filter((action, position, all) => action !== item.action && all.indexOf(action) === position).slice(index % 5, index % 5 + 2);
-  const distractors = otherActions.length === 2 ? otherActions : ['corre', 'dorme'].filter(action => action !== item.action).slice(0, 2);
+  const uniqueActions = subjects.flatMap(subject => subject.actions).filter((action, position, all) => all.indexOf(action) === position);
+  const distractors = rotate(uniqueActions, index).filter(action => action !== item.action).slice(0, 3);
   levels.push(make(9, index, 'Completa la frase', 'difficile', 'complete-sentence', {
     prompt: 'Scegli la parola che manca', display: `${item.article}${item.article === "l'" ? '' : ' '}${item.noun} ___`, visual: item.scene,
     options: rotate([item.action, ...distractors], index), correctAnswer: item.action, hint: `Guarda che cosa fa ${item.article}${item.article === "l'" ? '' : ' '}${item.noun}.`, keyWord: item.noun,

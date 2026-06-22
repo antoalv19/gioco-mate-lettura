@@ -1,6 +1,6 @@
 import { useMemo, useRef, useState } from 'react';
 import type { Difficulty, FunFact, LearnToReadExercise } from '../types/content';
-import { byDifficulty, normalizeAnswer, randomItem, shuffle, speakItalian } from '../utils/game';
+import { byDifficulty, ensureFourChoices, normalizeAnswer, randomItem, speakItalian } from '../utils/game';
 import { Feedback, GameLayout } from './Common';
 
 type ItemProgress = { correct: number; mistakes: number; hints: number; audio: number; mastered: boolean };
@@ -38,10 +38,12 @@ export function LearnToReadGame({ difficulty, exercises, facts, score, best, onC
     const merged = { ...current, ...change };
     saveProgress({ ...progress, [id]: merged });
   };
+  const prepareExercise = (item: LearnToReadExercise) => item.activity === 'build-sentence' ? item : { ...item, options: ensureFourChoices(item.correctAnswer, item.options, available.filter(candidate => candidate.level === item.level && candidate.activity === item.activity).flatMap(candidate => candidate.options)) };
   const chooseExercise = (selectedLevel: number, previousId?: string) => {
     const pool = itemsForLevel(selectedLevel).filter(item => item.id !== previousId);
     const candidates = pool.filter(item => !progress[item.id]?.mastered);
-    return randomItem(candidates.length ? candidates : (pool.length ? pool : itemsForLevel(selectedLevel)));
+    const selected = randomItem(candidates.length ? candidates : (pool.length ? pool : itemsForLevel(selectedLevel)));
+    return selected ? prepareExercise(selected) : selected;
   };
   const startLevel = (selectedLevel: number) => {
     solvedRef.current = false; setLevel(selectedLevel); setExercise(chooseExercise(selectedLevel)); setFeedback(null); setAttempts(0); setSelectedWords([]); setSessionAnswered(0); setSessionCorrect(0); setShowSummary(false);
