@@ -24,7 +24,10 @@ export function validateFacts(items: unknown): FunFact[] {
 export function validateReading(items: unknown): ReadingExercise[] {
   if (!Array.isArray(items)) return [];
   return items.filter((raw): raw is ReadingExercise => {
-    const item = raw as Partial<ReadingExercise>; const valid = Boolean(item.id && isDifficulty(item.difficulty) && item.prompt && item.display && item.correctAnswer != null && Array.isArray(item.answers) && item.answers.includes(item.correctAnswer));
+    const item = raw as Partial<ReadingExercise>; const type = (raw as { type?: string }).type;
+    if (type === 'letter') return false;
+    const allowedTypes = ['syllable', 'word-to-emoji', 'emoji-to-word', 'sentence-to-emoji'];
+    const valid = Boolean(item.id && type && allowedTypes.includes(type) && isDifficulty(item.difficulty) && item.prompt && item.display && item.correctAnswer != null && Array.isArray(item.answers) && item.answers.includes(item.correctAnswer));
     if (!valid) warn('lettura', raw); return valid;
   });
 }
