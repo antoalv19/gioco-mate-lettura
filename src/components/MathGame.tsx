@@ -1,9 +1,10 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import type { Difficulty, FunFact, MathQuestion } from '../types/content';
 import { byDifficulty, ensureFourAnswers, generateMathQuestion, randomItem } from '../utils/game';
 import { Feedback, GameLayout, ReadAloudButton } from './Common';
 
 export function MathGame({ operation, difficulty, questions, facts, score, best, onCorrect, onHome, onRequestNext, contextLabel, visualSupportMode = 'after-error' }: { operation: 'addition' | 'subtraction'; difficulty: Difficulty; questions: MathQuestion[]; facts: FunFact[]; score: number; best: number; onCorrect: () => void; onHome: () => void; onRequestNext?: () => void; contextLabel?: string; visualSupportMode?: 'always' | 'after-error' }) {
+  const solvedRef = useRef(false);
   const available = useMemo(() => byDifficulty(questions, difficulty), [questions, difficulty]);
   const makeQuestion = () => {
     if (!available.length) return ensureFourAnswers(generateMathQuestion(operation, difficulty));
@@ -20,10 +21,10 @@ export function MathGame({ operation, difficulty, questions, facts, score, best,
   const [typedValue, setTypedValue] = useState('');
   const [message, setMessage] = useState(''); const [fact, setFact] = useState(''); const [attempts, setAttempts] = useState(0);
   const answer = (value: number) => {
-    if (feedback === 'correct') return;
+    if (solvedRef.current || feedback === 'correct') return;
     setSelectedAnswer(value);
     setTypedValue('');
-    if (value === question.correctAnswer) { setFeedback('correct'); setMessage(randomItem(['Bravissimo!', 'Ottimo lavoro!', 'Grande!', 'Risposta giusta!'])); setFact(facts.length ? randomItem(facts).text : 'Imparare rende ogni giorno una nuova avventura!'); onCorrect(); }
+    if (value === question.correctAnswer) { solvedRef.current = true; setFeedback('correct'); setMessage(randomItem(['Bravissimo!', 'Ottimo lavoro!', 'Grande!', 'Risposta giusta!'])); setFact(facts.length ? randomItem(facts).text : 'Imparare rende ogni giorno una nuova avventura!'); onCorrect(); }
     else { const next = attempts + 1; setAttempts(next); setFeedback('wrong'); setMessage(next >= 2 ? `Ci sei quasi! La risposta è ${question.correctAnswer}.` : randomItem(['Quasi! Riprova.', 'Guarda bene e riprova.', 'Proviamo ancora!'])); }
   };
   useEffect(() => {
@@ -45,6 +46,7 @@ export function MathGame({ operation, difficulty, questions, facts, score, best,
     return () => window.removeEventListener('keydown', onKeyDown);
   }, [feedback, typedValue, question.correctAnswer]);
   const next = () => {
+    solvedRef.current = false;
     if (onRequestNext) { onRequestNext(); return; }
     setQuestion(makeQuestion()); setFeedback(null); setSelectedAnswer(null); setTypedValue(''); setMessage(''); setAttempts(0);
   };

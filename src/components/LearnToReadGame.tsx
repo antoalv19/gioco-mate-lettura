@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import type { Difficulty, FunFact, LearnToReadExercise } from '../types/content';
 import { byDifficulty, normalizeAnswer, randomItem, shuffle, speakItalian } from '../utils/game';
 import { Feedback, GameLayout } from './Common';
@@ -14,6 +14,7 @@ function loadProgress(): ReadingProgress {
 }
 
 export function LearnToReadGame({ difficulty, exercises, facts, score, best, onCorrect, onHome }: { difficulty: Difficulty; exercises: LearnToReadExercise[]; facts: FunFact[]; score: number; best: number; onCorrect: () => void; onHome: () => void }) {
+  const solvedRef = useRef(false);
   const available = useMemo(() => byDifficulty(exercises, difficulty), [exercises, difficulty]);
   const levels = useMemo(() => [...new Set(available.map(item => item.level))].sort((a, b) => a - b), [available]);
   const [progress, setProgress] = useState<ReadingProgress>(loadProgress);
@@ -43,11 +44,12 @@ export function LearnToReadGame({ difficulty, exercises, facts, score, best, onC
     return randomItem(candidates.length ? candidates : (pool.length ? pool : itemsForLevel(selectedLevel)));
   };
   const startLevel = (selectedLevel: number) => {
-    setLevel(selectedLevel); setExercise(chooseExercise(selectedLevel)); setFeedback(null); setAttempts(0); setSelectedWords([]); setSessionAnswered(0); setSessionCorrect(0); setShowSummary(false);
+    solvedRef.current = false; setLevel(selectedLevel); setExercise(chooseExercise(selectedLevel)); setFeedback(null); setAttempts(0); setSelectedWords([]); setSessionAnswered(0); setSessionCorrect(0); setShowSummary(false);
   };
   const answer = (value: string) => {
-    if (!exercise || feedback === 'correct') return;
+    if (!exercise || solvedRef.current || feedback === 'correct') return;
     if (normalizeAnswer(value) === normalizeAnswer(exercise.correctAnswer)) {
+      solvedRef.current = true;
       const current = progress[exercise.id] || { correct: 0, mistakes: 0, hints: 0, audio: 0, mastered: false };
       const correct = current.correct + 1;
       updateItem(exercise.id, { correct, mastered: correct >= 2 });
@@ -61,6 +63,7 @@ export function LearnToReadGame({ difficulty, exercises, facts, score, best, onC
   const next = () => {
     if (!exercise || level == null) return;
     if (sessionAnswered >= SESSION_LENGTH) { setShowSummary(true); return; }
+    solvedRef.current = false;
     setExercise(chooseExercise(level, exercise.id)); setFeedback(null); setAttempts(0); setSelectedWords([]); setFact('');
   };
   const listen = () => {
