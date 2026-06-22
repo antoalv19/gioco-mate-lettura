@@ -367,26 +367,6 @@
     "targetMode": "sottrazioni"
   },
   {
-    "id": "practice-read-001",
-    "area": "lettura",
-    "difficulty": "facile",
-    "title": "Guarda la lettera",
-    "explanation": "Ogni lettera ha un nome.",
-    "example": "Questa è la lettera M.",
-    "visual": [
-      "M"
-    ],
-    "question": "Che lettera è?",
-    "answers": [
-      "M",
-      "A",
-      "P"
-    ],
-    "correctAnswer": "M",
-    "feedback": "Bravo! Hai riconosciuto la lettera.",
-    "targetMode": "lettura"
-  },
-  {
     "id": "practice-read-002",
     "area": "lettura",
     "difficulty": "facile",
@@ -405,30 +385,6 @@
     ],
     "correctAnswer": "MARE",
     "feedback": "Bene! Hai ascoltato l’inizio.",
-    "targetMode": "lettura"
-  },
-  {
-    "id": "practice-read-003",
-    "area": "lettura",
-    "difficulty": "facile",
-    "title": "Trova la vocale",
-    "explanation": "Le vocali sono A, E, I, O, U.",
-    "example": "Guarda la A.",
-    "visual": [
-      "A",
-      "E",
-      "I",
-      "O",
-      "U"
-    ],
-    "question": "Quale lettera è A?",
-    "answers": [
-      "A",
-      "M",
-      "P"
-    ],
-    "correctAnswer": "A",
-    "feedback": "Esatto! A è una vocale.",
     "targetMode": "lettura"
   },
   {
